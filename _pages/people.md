@@ -61,6 +61,42 @@ Graduate Students
 
 Undergraduate and Volunteer Research Assistants
 ======
+<h2>Lindsey Bevilacqua</h2>
+<img src="../images/LindseyB.jpg" width="200" style="float: right"/>
+<p> Lindsey is a senior psychology and neuroscience major, planning on graduating in summer 2024. She is interested in the development and treatment of trauma related mental disorders and schizophrenia.</p>
+<br>
+<h2>Kate Pellegrino</h2>
+<img src="../images/KateP.jpeg" width="200" style="float: right"/>
+<p> I am a freshman at the University of Nevada, Reno studying Neuroscience. I am excited to learn about different laboratory techniques that can help us have a better understanding of the brain like EEG, ERG, and ABR. Additionally interested in how a lab runs and works as a whole.</p>
+<br><br><br>
+<h2>Hailey Snook</h2>
+<img src="../images/HaileyS.jpg" width="200" style="float: right"/>
+<p> I am currently a senior here at UNR. I am majoring in Psychology with a double minor in Addiction and Treatment Services and Women's, Gender and Sexuality studies. This is my first time participating in a research lab and I am hoping to get a better understanding of the research field as a whole. I am also very interested in getting practice using the methodologies that will help me in my future endeavors.</p>
+<br>
+<h2>Amber Thaxton</h2>
+<img src="../images/Amber.jpg" width="200" style="float: right"/>
+<p> IHi! I am currently a junior studying neuroscience at UNR and have started working as a research assistant in Dr. Haigh and Carson Smith’s lab. While my research interests are still broad, I love exploring the clinical aspect of neuroscience namely neurodegenerative diseases, neuropsychiatric disorders, and developmental psychology. After graduating, I plan to apply to a clinical psychology PhD program where I can further pursue these interests and work towards a profession as a clinical psychologist. In the meantime, I’m super excited to get the opportunity to build my proficiency with different neuroscience techniques and explore sensory processing in the auditory and visual systems! </p>
+<br>
+<h2>Isabella Durda</h2>
+<img src="../images/Izzy.jpeg" width="200" style="float: right"/>
+<p> I am currently a sophmore at UNR majoring in Psychology and doing a minor/certificate program in gerontology. While I’ve helped in a lab before coming to UNR, working with Dr. Haigh is the first official lab experience I have had. I am excited to have the opportunity to learn new things and grow throughout this journey. As of right now, I want to become an occupational therapist specializing in pediatrics because I am passionate about helping people live their lives to the fullest and love working with kids!</p>
+<br>
+<h2>Michelle Ruiz</h2>
+<img src="../images/Michelle.jpeg" width="200" style="float: right"/>
+<p> I will be graduating in Spring 2024, and I plan to pursue a PhD in a cognitive neuroscience program. I've been exposed to a broad range of research topics throughout my undergraduate career working in different labs at different universities, but my main interest is in learning more about potential biomarkers in schizophrenia. Dr. Haigh and my mentor, Wendy, have been excellent role models in guiding me in the world of research and learning more about graduate school in order to accomplish my long term goal of continuing to conduct research in academia.</p>
+<b>Conference Presentations </b>
+<p><ul>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster to be presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
+<li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA.</li>
+</ul></p>
+<h2>Rasia Yankaway</h2>
+<img src="../images/Rasia.jpg" width="200" style="float: right"/>
+<p> I am in my fourth year of my undergraduate career here at UNR, majoring in Psychology with an emphasis on research along with a biology minor. My research interests include cognitive psychology and/or neuroscience. I hope to continue my research journey into graduate school or apply for medical school to specialize in psychiatry. I recently joined Dr. Haigh's lab this Fall semester of 2022 and I am excited to work with and help whoever I can!</p>
+<b>Conference Presentations </b>
+<p><ul>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster to be presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
+<li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA.</li>
+</ul></p>
 
 Former Graduate Students
 ======
@@ -80,6 +116,16 @@ Former Graduate Students
 <li>Stephanie R Otto, Lawrence M Ray, Jolie A Travers, Isabella Bruketta, Mackenzie L Montero, Jeffrey J Hutsler & Sarah M Haigh (May 2020). Abnormal measures of white matter diffusion are associated with behavioral symptom severity in children and adults with autism. Poster online at the Society of Biological Psychiatry conference. New York, NY, USA. Biological Psychiatry 87 (9), S246. https://doi.org/10.1016/j.biopsych.2020.02.636.</li> 
 <li>Stephanie R Otto, Lawrence M Ray, Jolie A Travers, Isabella Bruketta, Mackenzie L Montero, Jeffrey J. Hutsler & Sarah M Haigh (October 2019). Evidence of wide spread white matter compromise in children and adults with autism: a large-scale diffusion imaging study using the ABIDE II repository. Poster presented at the Society for Neuroscience. Chicago, IL, USA.</li>
 </ul></p>
+
+<h2>Marena Manierka</h2>
+<img src="../images/Marena.png" width="200" style="float: right"/>
+<p> <ul>
+<li> BS (hons) Neuroscience & Psychology - University of Toronto, Canada (2013)</li>
+<li> PhD Neuroscience - University of Nevada, Reno (2021)</li>
+<li> Currently a medical writer for BOLDSCIENCE</li>
+</ul></p>
+<b>Publications</b>
+<p> Marena S Manierka, Rachel Rezaei, Samantha Palacios, Sarah M Haigh, Jeffrey J Hutsler (2021). In the mood to be social: affective state influences facial emotion recognition in healthy adults. Emotion. https://doi.org/10.1037/emo0000999 </p>
 
 <h2>Lisa Lindquist</h2>
 <img src="../images/Lisa.png" width="200" style="float: right"/>
@@ -161,6 +207,8 @@ Former Research Assistants
 <h2>Matthew Cummings</h2>
 <img src="../images/Matthew.jpg" width="100" style="float: right;"/>
 <p> BS Neuroscience - University of Nevada, Reno (2023)</p>
+<b>Conference Presentations </b>
+<p>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. Journal of Vision 23 (9), 5474. https://doi.org/10.1167/jov.23.9.5474.</p>
 <br>
 <h2>Mariah Meagher</h2>
 <img src="../images/Mariah.jpg" width="100" style="float: right;"/>
@@ -196,7 +244,9 @@ Former Research Assistants
 <h2>Laura Van Key</h2>
 <img src="../images/LauraVK.png" width="100" style="float: right;"/>
 <p>BS Molecular Microbiology & Immunology and Nursing - University of Nevada, Reno (2023)</p>
-<b>Publication: </b>Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury & Marlene Behrmann (2023). Assessing Trial-to-Trial Variability in Auditory ERPs in Autism and Schizophrenia. S.I.: Developmental Approach and Targeted Treatment of Sensory Alterations. Journal of Autism and Developmental Disorders. 53(12), 4856-4871. https://doi.org/10.1007/s10803-022-05771-0 
+<b>Publication: </b>Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury & Marlene Behrmann (2023). Assessing Trial-to-Trial Variability in Auditory ERPs in Autism and Schizophrenia. S.I.: Developmental Approach and Targeted Treatment of Sensory Alterations. Journal of Autism and Developmental Disorders. 53(12), 4856-4871. https://doi.org/10.1007/s10803-022-05771-0 </p>
+<b>Conference Presentations </b>
+<p>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. Journal of Vision 23 (9), 5474. https://doi.org/10.1167/jov.23.9.5474. </p>
 <h2>Anastasiya Chevychalova</h2>
 <img src="../images/AnaC.png" width="100" style="float: right;"/>
 <p>BS Neuroscience - University of Nevada, Reno (2022)</p>

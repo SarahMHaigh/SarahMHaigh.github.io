@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to the HaighLab!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,72 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+<img src="../images/LabLogo.png" width="200" style="float: right"/>
 
-A data-driven personal website
+Do you find yourself feeling over-whelmed in noisy or busy environments? Find certain images or sounds repulsive or painful to look at? Or miss important information, even when you are focusing really hard? Have you noticed these behaviors happening more frequently since an event or trauma?
+
+These are the issues we focus on in the lab. We investigate how early sensory processing affects the ability to process information, and how individual differences in sensory sensitivity affect the sensory pathways. We primarily assess the mechanisms underlying sensory sensitivity using neuroimaging, electrophysiological, and behavioral methods. 
+
+Many clinical conditions are associated with sensory complaints and so we are exploring the extent to which these complaints exacerbate symptoms, in individuals such as those with schizophrenia, autism, mTBI, visual stress, or migraine. Our approach is to view sensory sensitivity as a spectrum, with those who are on the extremes of the spectrum potentially requiring intervention to help daily functioning.
+
+The hope is to find a treatment for these symptoms, and while there are some promising options being developed, there is still much to be done.
+
+If you are interested in taking part in one of our studies, or experience unique sensory symptoms, please contact us.
+
+
+ 
+
+
+News!
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<b>Jan 2024</b> - Welcome Lindsey, Kate, Hailey, and Jackie to the lab! Hope you enjoy the research experience and gain some useful skills.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+<b>Jan 2024</b> - We bid a fond farewell to Jasmine Haggerty who has completed some wonderful work in the lab over the past couple of years. Good luck with medical school! And stay tuned for papers that are under review.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+<b>Dec 2023</b> - Congratulations to Izzy Durda who was awarded a Nevada Undergraduate Research Award (NURA)! Izzy comes from the [PREP program](https://www.unr.edu/undergradresearch/opportunities/prep) and has been working in the lab for a year already.
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+<b>Dec 2023</b> - Izzy Durda and Michelle Ruiz both presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session. Lovely data!
 
-**Markdown generator**
+<img src="../images/IzzyDec2023.jpeg" width="200"/>
+<img src="../images/MichelleDec2023.jpeg" width="200"/>
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+<b>Dec 2023</b> - Congratulations to Wendy Torrens who has won a travel award from SOBP! She will be presenting a poster on abnormal cortical excitability across sensory modalities in high schizotypy in May in Austin, TX.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<b>Nov 2023</b> - Wendy Torrens is presenting her poster at the Society for Neuroscience conference in Washington DC. Drop by to hear about her work developing a new EEG hair clip that works in all hair types!
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+<b>Oct 2023</b> - Congratulations to Carson Smith who won the Psychology Department's Wilson Award!
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+<b>Oct 2023</b> - We have a new publication on auditory discomfort. Check it out online [here](https://doi.org/10.3389/fpsyg.2023.1126481) This paper would not have been possible without the hard work of undergraduate RAs Anna Haugland, Lulu Mendoza, and Mackenzie Montero.
+
+<b>Aug 2023</b> - Welcome to Geo, Amber, and Kiara to the lab! Let's collect some data!
+
+<b>Aug 2023</b> - Congratulations to Wendy Torrens who was awarded a Trainee Development Program Award from the Society for Neuroscience! She will be presenting a poster on her recent data using hair clips to collect high quality EEG data regardless of hair type (patent pending).
+
+<b>July 2023</b> - We have a new publication modelling the neural processes underlying visual discomfort. Check it out [here](https://doi.org/10.3389/fnins.2023.1200661)
+
+<b>May 2023</b> - Carson Smith is presenting a poster on his study assessing visual functioning in migraine compared to headache-free individuals using ERG and EEG at the Vision Science Soiety conference in St Pete Beach, FL. 
+
+<img src="../images/WendyMS.jpeg" width="200" style="float: right"/>
+<b>May 2023</b> - Carson has also kindly volunteered to present my poster on the effects of flicker on reading at VSS this year, while I have my baby :)
+
+<b>May 2023</b> - The best part about being a mentor... going to graduation! Wendy Torrens was granted her MS in Neuroscience! And now onto the PhD...
+
+<b>May 2023</b> - Congratulations to our recent graduates: Matthew Cummings, Laura Van Key, and Savanna Blanchette. Good luck with the next chapter!
+
+<b>May 2023</b> - Congratulations to Wendy Torrens who was one of several graduate students to be awarded a Solso Award for Outstanding Scientific Achievement.
+
+<b>May 2023</b> - Michelle Ruiz, Lilly Martin, and Izzy Durda all presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session. Excellent work!
+
+<img src="../images/IzzyMe.jpeg" width="200"/>
+<img src="../images/MichelleMay2023.JPG" width="150"/>
+<img src="../images/LillyPoster.jpeg" width="200"/>
+<img src="../images/IzzyMay2023.jpeg" width="200"/>
+
+<b>March 2023</b> - A HUGE congratulations to Wendy Torrens for being awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types!!! This work is already preregistered [here](https://doi.org/10.17605/OSF.IO/AXU2C) and will be updated with tools and information as the project progresses.
+
+<b>March 2023</b> - We have a new publication on sensory and working memory in schizotypy. Check it out [here](https://doi.org/10.1111/ejn.15961)
+
+<b>Feb 2023</b> - Congratulations to Carson Smith who was awarded a travel award to attend this year's Vision Science Society conference in May! He will be presenting a poster on his recent work on visual responsiveness in migraine, assessed using electroretinography and electroencephalography.
+
