@@ -105,7 +105,6 @@ author:
   lastfm           :
   linkedin         : "www.linkedin.com/in/sarahmhaigh"
   orcid            : "http://orcid.org/0000-0003-2400-4412"
-  osf:             : "https://osf.io/wsp4j/"
   pinterest        :
   soundcloud       :
   stackoverflow    :
@@ -177,16 +176,16 @@ kramdown:
 
 # Collections
 collections:
-  research:
-    output: true
-    permalink: /:collection/:path/
-  peple:
+  teaching:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  photos:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  talks:
     output: true
     permalink: /:collection/:path/
 
@@ -211,23 +210,15 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # research
+  # _teaching
   - scope:
       path: ""
-      type: research
+      type: teaching
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # people
-  - scope:
-      path: ""
-      type: people
-    values:
-      layout: single
-      author_profile: true
-      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
@@ -237,16 +228,23 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _labphotos
+  # _portfolio
   - scope:
       path: ""
-      type: photos
+      type: portfolio
     values:
       layout: single
       author_profile: true
       share: true
-      comments: true
-
+      comment: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
