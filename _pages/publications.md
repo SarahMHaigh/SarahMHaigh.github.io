@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 For stimuli and scripts, see [GitHub](https://github.com/SarahMHaigh). 
-For data, preprints, and preregistrations, see [OSF](osf.io/wsp4j).
+For data, preprints, and preregistrations, see [OSF](https://osf.io/wsp4j).
 
 For those who are interested in the role of colour on causing and alleviating discomfort, check out this [webinar](https://www.youtube.com/watch?v=KRdoH2TUDYE).
 
@@ -14,7 +14,7 @@ For those who are interested in the role of colour on causing and alleviating di
 =====
 * Sarah M Haigh, Anna M Haugland, Lourdes M Mendoza, & Mackenzie Montero (accepted). Auditory discomfort in visually sensitive individuals. *Frontiers in Psychology.* Preprint available: [https://doi.org/10.31219/osf.io/uydfm](https://doi.org/10.31219/osf.io/uydfm)
 
-* Oliver Penacchio, Xavier Otazu, Arnold J Wilkins, & Sarah M Haigh (2023). A mechanistic account of visual discomfort. *Frontiers in Neuroscience: Perception Science,* 17. [https://doi.org/10.3389/fnins.2023.1200661](https://doi.org/10.3389/fnins.2023.1200661)
+* Olivier Penacchio, Xavier Otazu, Arnold J Wilkins, & Sarah M Haigh (2023). A mechanistic account of visual discomfort. *Frontiers in Neuroscience: Perception Science,* 17. [https://doi.org/10.3389/fnins.2023.1200661](https://doi.org/10.3389/fnins.2023.1200661)
 
 * Sarah Haigh†, Marian Berryhill†, Alexandrea Kilgore-Gomez, & Michael Dodd (2023).Working Memory and Sensory Memory in Subclinical High Schizotypy: An Avenue for Understanding Schizophrenia? († co-first authors). *European Journal of Neuroscience, 57,* 1577-1596. [https://doi.org/10.1111/ejn.15961](https://doi.org/10.1111/ejn.15961) Preprint: [10.22541/au.166618485.56676057/v1](10.22541/au.166618485.56676057/v1) 
 
