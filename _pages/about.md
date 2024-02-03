@@ -12,6 +12,25 @@ redirect_from:
 
 Do you find yourself feeling over-whelmed in noisy or busy environments? Find certain images or sounds repulsive or painful to look at? Or miss important information, even when you are focusing really hard? Have you noticed these behaviors happening more frequently since an event or trauma?
 
+<p><button class="button" style="float: right">
+ <p style='margin-top:1em; text-align:center'>
+ <b>A Quick Note</b></p>
+ <p style='margin-left:1em; margin-right:1em; text-align:left'>
+ I am currently not recruiting any<br> 
+ graduate students for Fall 2024. <br>
+ If you are an undergraduate at UNR <br>
+ and are interested in getting course <br>
+ credit (PSY 275/375) or volunteering <br>
+ in the lab, please contact me.<br><br>
+ If you are a graduate student,<br>
+ post-doc, or assistant professor and <br>
+ are interested in presenting at our <br>
+ Early Career Speaker series, please <br>
+ click on the 'ECS' tab above' for more<br>
+ information! </p></button></p>
+
+
+
 These are the issues we focus on in the lab. We investigate how early sensory processing affects the ability to process information, and how individual differences in sensory sensitivity affect the sensory pathways. We primarily assess the mechanisms underlying sensory sensitivity using neuroimaging, electrophysiological, and behavioral methods. 
 
 Many clinical conditions are associated with sensory complaints and so we are exploring the extent to which these complaints exacerbate symptoms, in individuals such as those with schizophrenia, autism, mTBI, visual stress, or migraine. Our approach is to view sensory sensitivity as a spectrum, with those who are on the extremes of the spectrum potentially requiring intervention to help daily functioning.
