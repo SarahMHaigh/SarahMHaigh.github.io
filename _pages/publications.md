@@ -10,9 +10,13 @@ For data, preprints, and preregistrations, see [OSF](https://osf.io/wsp4j).
 
 For those who are interested in the role of colour on causing and alleviating discomfort, check out this [webinar](https://www.youtube.com/watch?v=KRdoH2TUDYE).
 
+2024
+=====
+* Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (accepted). Pattern glare sensitivity distinguishes subclinical autism and schizotypy. *Cognitive Neuropsychiatry.* [https://doi.org/10.1080/13546805.2024.2335103](https://doi.org/10.1080/13546805.2024.2335103)
+
 2023
 =====
-* Sarah M Haigh, Anna M Haugland, Lourdes M Mendoza, & Mackenzie Montero (accepted). Auditory discomfort in visually sensitive individuals. *Frontiers in Psychology.* Preprint available: [https://doi.org/10.31219/osf.io/uydfm](https://doi.org/10.31219/osf.io/uydfm)
+* Sarah M Haigh, Anna M Haugland, Lourdes M Mendoza, & Mackenzie Montero (2023). Auditory discomfort in visually sensitive individuals. *Frontiers in Psychology.* Preprint available: [https://doi.org/10.31219/osf.io/uydfm](https://doi.org/10.31219/osf.io/uydfm)
 
 * Olivier Penacchio, Xavier Otazu, Arnold J Wilkins, & Sarah M Haigh (2023). A mechanistic account of visual discomfort. *Frontiers in Neuroscience: Perception Science,* 17. [https://doi.org/10.3389/fnins.2023.1200661](https://doi.org/10.3389/fnins.2023.1200661)
 
