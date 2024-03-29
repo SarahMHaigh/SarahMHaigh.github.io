@@ -34,7 +34,7 @@ Graduate Students
 <p> My research focuses on contributing to the understanding of the neurobiological mechanisms underlying the sensory experience of individuals with schizophrenia and autism. I also strive to improve neurophysiological methods (e.g., electroencephalography) by developing more racially inclusive materials.</p>
 <b>Publications </b>
 <p><ul>
-<li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (accepted). Pattern glare sensitivity distinguishes subclinical autism and schizotypy. Cognitive Neuropsychiatry. <a href="https://doi.org/10.1080/13546805.2024.2335103">https://doi.org/10.1080/13546805.2024.2335103</a>.</li>
+<li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (accepted). Pattern glare sensitivity distinguishes subclinical autism and schizotypy. Cognitive Neuropsychiatry. <a href="https://doi.org/10.1080/13546805.2024.2335103">https://doi.org/10.1080/13546805.2024.2335103</a>. Early access <a href="https://www.tandfonline.com/eprint/YJVAMPU4GUBRKBYJ3AMI/full?target=10.1080/13546805.2024.2335103">here:</a></li>
 <li>Wendy A Torrens†, Jenna N Pablo†, Jorja Shires, Sarah M Haigh & Marian E Berryhill (2022). People with High Schizotypy Experience More Illusions in the Pattern Glare Test: Consistent with the Hyperexcitability Hypothesis († co-first authors). European Journal of Neuroscience, 1-12. <a href="https://doi.org/10.1111/ejn.15886">https://doi.org/10.1111/ejn.15886</a>.</li> 
 </ul></p>
 <b>Conference Presentations </b>
