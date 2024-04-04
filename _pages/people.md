@@ -64,6 +64,11 @@ Graduate Students
 Undergraduate and Volunteer Research Assistants
 ======
 
+<h2>Jackie Vallo</h2>
+<img src="../images/Resized/Jackie.png" width="200" style="float: right"/>
+<p> Hello! My name is Jackie and I am a recent graduate of the University of Nevada, Reno. I majored in Microbiology and Immunology with a minor in Spanish (Language/Society). Currently, I am gearing up to apply for Physician Assistant (PA) school. On the other hand, I help out in the Haigh Lab as a Research Assistant under Wendy. I am broadly interested in clinical psychology with a focus on sensory processing of the brains in certain populations, such as autistic and schizophrenic populations, as well as researching methods that are more inclusive towards collecting valid data (Ex. testing other methods to measure EEGs since the default EEG caps is not as good as measuring data on curlier hair in comparison to straight hair). </p>
+<br>
+
 <h2>Lindsey Bevilacqua</h2>
 <img src="../images/Resized/LindseyB.png" width="200" style="float: right"/>
 <p> Lindsey is a senior psychology and neuroscience major, planning on graduating in summer 2024. She is interested in the development and treatment of trauma related mental disorders and schizophrenia.</p>

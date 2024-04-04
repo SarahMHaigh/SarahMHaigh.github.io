@@ -47,6 +47,10 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>March 2024</b> - Wendy Torrens was accepted to attend the Cold Springs Harbor Laboratory course on Schizophrenia & Related Disorders, [summer 2024](https://meetings.cshl.edu/courses.aspx?course=c-schiz&year=24)! She was also awarded a scholarship from the International Brain Research Organization to support her attendance - exciting!
+
+<b>March 2024</b> - Wendy Torrens has just had another paper published! She assessed the use of the Pattern Glare Test on distinguishing between autistic and schitoypy traits in the general population. Access it early [here](https://www.tandfonline.com/eprint/YJVAMPU4GUBRKBYJ3AMI/full?target=10.1080/13546805.2024.2335103).
+
 <b>Jan 2024</b> - Welcome Lindsey, Kate, Hailey, and Jackie to the lab! Hope you enjoy the research experience and gain some useful skills.
 
 <b>Jan 2024</b> - We bid a fond farewell to Jasmine Haggerty who has completed some wonderful work in the lab over the past couple of years. Good luck with medical school! And stay tuned for papers that are under review.
@@ -64,13 +68,13 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>Oct 2023</b> - Congratulations to Carson Smith who won the Psychology Department's Wilson Award!
 
-<b>Oct 2023</b> - We have a new publication on auditory discomfort. Check it out online [here](https://doi.org/10.3389/fpsyg.2023.1126481) This paper would not have been possible without the hard work of undergraduate RAs Anna Haugland, Lulu Mendoza, and Mackenzie Montero.
+<b>Oct 2023</b> - We have a new publication on auditory discomfort. Check it out online [here](https://doi.org/10.3389/fpsyg.2023.1126481). This paper would not have been possible without the hard work of undergraduate RAs Anna Haugland, Lulu Mendoza, and Mackenzie Montero.
 
 <b>Aug 2023</b> - Welcome to Geo, Amber, and Kiara to the lab! Let's collect some data!
 
 <b>Aug 2023</b> - Congratulations to Wendy Torrens who was awarded a Trainee Development Program Award from the Society for Neuroscience! She will be presenting a poster on her recent data using hair clips to collect high quality EEG data regardless of hair type (patent pending).
 
-<b>July 2023</b> - We have a new publication modelling the neural processes underlying visual discomfort. Check it out [here](https://doi.org/10.3389/fnins.2023.1200661)
+<b>July 2023</b> - We have a new publication modelling the neural processes underlying visual discomfort. Check it out [here](https://doi.org/10.3389/fnins.2023.1200661).
 
 <b>May 2023</b> - Carson Smith is presenting a poster on his study assessing visual functioning in migraine compared to headache-free individuals using ERG and EEG at the Vision Science Soiety conference in St Pete Beach, FL. 
 
@@ -81,7 +85,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>May 2023</b> - Congratulations to our recent graduates: Matthew Cummings, Laura Van Key, and Savanna Blanchette. Good luck with the next chapter!
 
-<b>May 2023</b> - Congratulations to Wendy Torrens who was one of several graduate students to be awarded a Solso Award for Outstanding Scientific Achievement.
+<b>May 2023</b> - Congratulations to Wendy Torrens who was one of several graduate students in the department to be awarded a Solso Award for Outstanding Scientific Achievement.
 
 <b>May 2023</b> - Michelle Ruiz, Lilly Martin, and Izzy Durda all presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session. Excellent work!
 
@@ -92,7 +96,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>March 2023</b> - A HUGE congratulations to Wendy Torrens for being awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types!!! This work is already preregistered [here](https://doi.org/10.17605/OSF.IO/AXU2C) and will be updated with tools and information as the project progresses.
 
-<b>March 2023</b> - We have a new publication on sensory and working memory in schizotypy. Check it out [here](https://doi.org/10.1111/ejn.15961)
+<b>March 2023</b> - We have a new publication on sensory and working memory in schizotypy. Check it out [here](https://doi.org/10.1111/ejn.15961).
 
 <b>Feb 2023</b> - Congratulations to Carson Smith who was awarded a travel award to attend this year's Vision Science Society conference in May! He will be presenting a poster on his recent work on visual responsiveness in migraine, assessed using electroretinography and electroencephalography.
 
