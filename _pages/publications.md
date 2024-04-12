@@ -12,6 +12,8 @@ For those who are interested in the role of colour on causing and alleviating di
 
 2024
 =====
+* Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (accepted). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. *Perception.*
+  
 * Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (accepted). Pattern glare sensitivity distinguishes subclinical autism and schizotypy. *Cognitive Neuropsychiatry.* [https://doi.org/10.1080/13546805.2024.2335103](https://doi.org/10.1080/13546805.2024.2335103). Early access <a href="https://www.tandfonline.com/eprint/YJVAMPU4GUBRKBYJ3AMI/full?target=10.1080/13546805.2024.2335103">here.</a>
 
 2023
