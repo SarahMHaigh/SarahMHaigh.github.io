@@ -277,7 +277,7 @@ Former Research Assistants
 <p>BA Psychology - Honors College, University of Nevada, Reno (2021)</p>
 <p>Received a Nevada Undergraduate Research Award (2021)</p>
 <b>Publications</b>
-<p>Sarah M Haigh, Tabatha P Walford, & Patricia Brosseau (2021). Heart rate variability in schizophrenia and autism. <i>Frontiers in Psychiatry: Schizophrenia. 12,</i> 2129. <a href=https://doi.org/10.3389/fpsyt.2021.760396">https://doi.org/10.3389/fpsyt.2021.760396</a></p>
+<p>Sarah M Haigh, Tabatha P Walford, & Patricia Brosseau (2021). Heart rate variability in schizophrenia and autism. <i>Frontiers in Psychiatry: Schizophrenia. 12,</i> 2129. <a href="https://doi.org/10.3389/fpsyt.2021.760396">https://doi.org/10.3389/fpsyt.2021.760396</a>.</p>
 <h2>Lourdes Mendoza</h2>
 <img src="../images/Resized/Lulu.png" width="100" style="float: right;"/>
 <p>BS Psychology - University of Nevada, Reno (2021)</p>
@@ -287,7 +287,7 @@ Former Research Assistants
 
 <h2>Xortia Ross</h2>
 <img src="../images/Resized/Xortia.png" width="100" style="float: right;"/>
-<p>BS Behavioral Analysis - University of Nevada, Reno (2021)
+<p>BS Behavioral Analysis - University of Nevada, Reno (2021)</p>
 <b>Publications</b>
 <p>Olivier Penacchio, Sarah M Haigh, Xortia Ross, Rebecca Ferguson, & Arnold J Wilkins (2021). Visual discomfort and variations in chromaticity in art and nature. <i>Frontiers in Neuroscience: Perception Science. 15,</i> 1706. <a href="https://doi.org/10.3389/fnins.2021.711064">https://doi.org/10.3389/fnins.2021.711064</a></p> 
 <b>Conference Presentations </b>
@@ -300,7 +300,7 @@ Former Research Assistants
 
 <h2>Rebecca Ferguson</h2>
 <img src="../images/Resized/Becca.png" width="100" style="float: right;"/>
-<p>BS Behavioral Analysis - University of Nevada, Reno (2021)
+<p>BS Behavioral Analysis - University of Nevada, Reno (2021)</p>
 <b>Publications</b>
 <p>Olivier Penacchio, Sarah M Haigh, Xortia Ross, Rebecca Ferguson, & Arnold J Wilkins (2021). Visual discomfort and variations in chromaticity in art and nature. <i>Frontiers in Neuroscience: Perception Science. 15,</i> 1706. <a href="https://doi.org/10.3389/fnins.2021.711064">https://doi.org/10.3389/fnins.2021.711064</a>.</p> 
 <b>Conference Presentations </b>
