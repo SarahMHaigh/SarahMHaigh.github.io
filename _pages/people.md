@@ -160,7 +160,7 @@ Former Lab Managers
 <li> Currently a PhD student in Psychology at Southern Cross University (started 2020)</li>
 </ul></p>
 <b>Publications</b>
-<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (accepted). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception.</i></p>
+<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (accepted). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. *Perception.* [https://doi.org/10.1177/03010066241252066](https://doi.org/10.1177/03010066241252066). Early access <a href="https://journals.sagepub.com/eprint/6S4HDCHX5N5CC2EZPMKN/full">here.</a></p>
 <b>Conference Presentations </b>
 <p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
 
@@ -192,7 +192,7 @@ Former Research Assistants
 
 <h2>Michelle Ruiz</h2>
 <img src="../images/Resized/Michelle.png" width="100" style="float: right"/>
-<p> BS Psychology - University of Nevada, Reno</p>
+<p> BS Psychology - University of Nevada, Reno (2024)</p>
 <b>Conference Presentations </b>
 <p><ul>
 <li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
@@ -201,7 +201,7 @@ Former Research Assistants
 
 <h2>Rasia Yankaway</h2>
 <img src="../images/Resized/Rasia.png" width="100" style="float: right"/>
-<p> BS Psychology - University of Nevada, Reno</p>
+<p> BS Psychology - University of Nevada, Reno (2024)</p>
 <b>Conference Presentations </b>
 <p><ul>
 <li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
@@ -210,11 +210,11 @@ Former Research Assistants
 
 <h2>Shane Trivitt</h2>
 <img src="../images/Resized/Shane.png" width="100" style="float: right"/>
-<p> BS Psychology - University of Nevada, Reno</p>
-
+<p> BS Psychology - University of Nevada, Reno (2024)</p>
+<br>
 <h2>Lindsey Bevilacqua</h2>
 <img src="../images/Resized/LindseyB.png" width="100" style="float: right"/>
-<p> BS Psychology - University of Nevada, Reno</p>
+<p> BS Psychology - University of Nevada, Reno (2024)</p>
 <br>
 
 <h2>Savanna Blanchette</h2>
@@ -226,7 +226,6 @@ Former Research Assistants
 <p> BS Neuroscience - University of Nevada, Reno (2023)</p>
 <b>Conference Presentations </b>
 <p>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>.</p>
-<br>
 <h2>Mariah Meagher</h2>
 <img src="../images/Resized/Mariah.png" width="100" style="float: right;"/>
 <p>BA Psychology - University of Nevada, Reno (2023)</p>
@@ -235,8 +234,7 @@ Former Research Assistants
 <img src="../images/Resized/Jasmine.png" width="100" style="float: right;"/>
 <p>BS Psychology - University of Nevada, Reno (2022)</p>
 <b>Publications</b>
-<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (accepted). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception.</i></p>
-<br>
+<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (accepted). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. *Perception.* [https://doi.org/10.1177/03010066241252066](https://doi.org/10.1177/03010066241252066). Early access <a href="https://journals.sagepub.com/eprint/6S4HDCHX5N5CC2EZPMKN/full">here.</a></p>
 <h2>Lena Kemmelmeier</h2>
 <img src="../images/Resized/Lena.png" width="100" style="float: right;"/>
 <p>Studying BA Psychology - University of Nevada, Reno</p>
@@ -319,7 +317,7 @@ Former Research Assistants
 <h2>Rory Thompson</h2>
 <p>BA Psychology - Vassar College (2021)</p>
 <b>Publications</b>
-<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (accepted). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception.</i></p>
+<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (accepted). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. *Perception.* [https://doi.org/10.1177/03010066241252066](https://doi.org/10.1177/03010066241252066). Early access <a href="https://journals.sagepub.com/eprint/6S4HDCHX5N5CC2EZPMKN/full">here.</a></p>
 <b>Conference Presentations </b>
 <p>Sarah M Haigh, Melissa M Cortez, Lauren M Thompson, Anastasia Chevychalova, Janea Santiago & KC Brennan (Nov 2022). Sensory sensitivity across the migraine cycle. Poster presented at the Society of Neuroscience conference. San Diego, CA, USA.</p>
 
