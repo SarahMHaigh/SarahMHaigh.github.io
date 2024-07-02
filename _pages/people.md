@@ -40,7 +40,7 @@ Graduate Students
 </ul></p>
 <b>Conference Presentations </b>
 <p><ul>
-<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster to be presented at the Society of Biological Psychiatry conference, Austin, TX, USA. SOBP travel award to Wendy Alfonso.</li>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster presented at the Society of Biological Psychiatry conference, Austin, TX, USA. SOBP travel award to Wendy Alfonso.</li>
 <li>Lena L Kemmelmeier, Jenna N Pablo, Jorja Shires, Hector Arciniega, Wendy A Torrens, Sarah M Haigh, Marian E Berryhill (April 2024). Reduced mismatch negativity in college students with a history of mTBI. Presentation at the Cognitive Neurosciences Society conference, Toronto, ON, Canada.</li>
 <li>Jenna N Pablo, Wendy A Torrens, Jorja Shires, Sarah M Haigh, & Marian E Berryhill (April 2024). Working memory deficit in high schizotypy: ERP but no power differences. Presentation at the Cognitive Neurosciences Society conference, Toronto, ON, Canada.</li>
 <li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA. TPDA award to Wendy Torrens.</li>
@@ -191,25 +191,25 @@ Former Research Assistants
 ======
 
 <h2>Michelle Ruiz</h2>
-<img src="../images/Resized/Michelle.png" width="200" style="float: right"/>
+<img src="../images/Resized/Michelle.png" width="100" style="float: right"/>
 <p> I will be graduating in Spring 2024, and I plan to pursue a PhD in a cognitive neuroscience program. I've been exposed to a broad range of research topics throughout my undergraduate career working in different labs at different universities, but my main interest is in learning more about potential biomarkers in schizophrenia. Dr. Haigh and my mentor, Wendy, have been excellent role models in guiding me in the world of research and learning more about graduate school in order to accomplish my long term goal of continuing to conduct research in academia.</p>
 <b>Conference Presentations </b>
 <p><ul>
-<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster to be presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
 <li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA.</li>
 </ul></p>
 
 <h2>Rasia Yankaway</h2>
-<img src="../images/Resized/Rasia.png" width="200" style="float: right"/>
+<img src="../images/Resized/Rasia.png" width="100" style="float: right"/>
 <p> I am in my fourth year of my undergraduate career here at UNR, majoring in Psychology with an emphasis on research along with a biology minor. My research interests include cognitive psychology and/or neuroscience. I hope to continue my research journey into graduate school or apply for medical school to specialize in psychiatry. I recently joined Dr. Haigh's lab this Fall semester of 2022 and I am excited to work with and help whoever I can!</p>
 <b>Conference Presentations </b>
 <p><ul>
-<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster to be presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
 <li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA.</li>
 </ul></p>
 
 <h2>Lindsey Bevilacqua</h2>
-<img src="../images/Resized/LindseyB.png" width="200" style="float: right"/>
+<img src="../images/Resized/LindseyB.png" width="100" style="float: right"/>
 <p> Lindsey is a senior psychology and neuroscience major, planning on graduating in summer 2024. She is interested in the development and treatment of trauma related mental disorders and schizophrenia.</p>
 <br>
 
