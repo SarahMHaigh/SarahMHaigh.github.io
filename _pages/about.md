@@ -62,7 +62,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 <b>May 2024</b> - Both Wendy and Carson presented their work at the Institute for Neuroscience's annual retreat. Wendy was joined by her RAs: Rasia and Michelle.
 
 <img src="../images/IfNretreat.jpg" width="200"/>
-<img src="../images/IfNretreatRasia.jpg" width="100"/>
+<img src="../images/IfNretreatRasia.jpg" width="150"/>
 <img src="../images/IfNretreatMichelle.jpg" width="200"/>
 
 <b>May 2024</b> -  Michelle Ruiz and Izzy Durda both presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session. This is Michelle's sixth and final presentation with us - she's been amazing.
