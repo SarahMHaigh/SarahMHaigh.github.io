@@ -51,7 +51,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>June 2024</b> - Wendy Torrens attended (and thoroughly enjoyed) attending the Cold Springs Harbor Laboratory course on Schizophrenia & Related Disorders, [summer 2024](https://meetings.cshl.edu/courses.aspx?course=c-schiz&year=24).
 
-<img src="../images/CSHL.jpg" width="200"/>
+<img src="../images/CSHL.jpg" width="100"/>
 
 <b>May 2024</b> - Wendy and Michelle attended this year's Society of Biological Psychiatry ([SOBP](https://sobp.org/2024-sobp-annual-meeting/)) conference in Autin, TX.
 
