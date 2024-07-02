@@ -47,13 +47,13 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
-<b>June 2024</b> - Carson and Wendy helped and attended the International Multisensory Research Forum ([IMRF])(https://imrf2024.sciencesconf.org/?lang=en) in Reno. Hope you all enjoyed our beautiful city!
+<b>June 2024</b> - Carson and Wendy helped and attended the International Multisensory Research Forum ([IMRF](https://imrf2024.sciencesconf.org/?lang=en)) in Reno. Hope you all enjoyed our beautiful city!
 
 <b>June 2024</b> - Wendy Torrens attended (and thoroughly enjoyed) attending the Cold Springs Harbor Laboratory course on Schizophrenia & Related Disorders, [summer 2024](https://meetings.cshl.edu/courses.aspx?course=c-schiz&year=24).
 
 <img src="../images/CSHL.jpeg" width="200"/>
 
-<b>May 2024</b> - Wendy and Michelle attended this year's Society of Biological Psychiatry ([SOBP])(https://sobp.org/2024-sobp-annual-meeting/) conference in Autin, TX.
+<b>May 2024</b> - Wendy and Michelle attended this year's Society of Biological Psychiatry ([SOBP](https://sobp.org/2024-sobp-annual-meeting/)) conference in Autin, TX.
 
 <b>Graduation 2024!</b> - A huge congratulation to Michelle Ruiz, Shane Trivitt, and Lindsey Bevilacqua for graduating. Good luck with the next chapter.
 
