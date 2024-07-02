@@ -47,6 +47,27 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>June 2024</b> - Carson and Wendy helped and attended the International Multisensory Research Forum ([IMRF])(https://imrf2024.sciencesconf.org/?lang=en) in Reno. Hope you all enjoyed our beautiful city!
+
+<b>May 2024</b> - Wendy and Michelle attended this year's Society of Biological Psychiatry ([SOBP])(https://sobp.org/2024-sobp-annual-meeting/) conference in Autin, TX.
+
+<b>Graduation 2024!</b> - A huge congratulation to Michelle Ruiz, Shane Trivitt, and Lindsey Bevilacqua for graduating. Good luck with the next chapter.
+
+<b>May 2024</b> - Carson Smith successfully defended his Master's on "Localizing Visual Allodynia in Migraine". Watch out for the paper to be submitted soon...
+
+<b>May 2024</b> - Both Wendy and Carson presented their work at the Institute for Neuroscience's annual retreat. Wendy was joined by her RAs: Rasia and Michelle.
+
+<img src="../images/IfNretreat.jpeg" width="200"/>
+<img src="../images/IfNretreatRasia.jpeg" width="200"/>
+<img src="../images/IfNretreatMichelle.jpeg" width="200"/>
+
+<b>May 2024</b> -  Michelle Ruiz and Izzy Durda both presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session. This is Michelle's sixth and final presentation with us - she's been amazing.
+
+<img src="../images/WolfPackMichelleMay24.jpeg" width="200"/>
+<img src="../images/WolfPackIzzyMay24.jpeg" width="200"/>
+
+<b>May 2024</b> - We have published a paper on the effects of flickering light on reading. This wouldn't have been possible without the work of Caitlin Laycox, Rory Thompson, and Jasmine Haggerty - thank you. Access the paper [here](https://doi.org/10.1177/03010066241252066) for more information.
+
 <b>March 2024</b> - Wendy Torrens was accepted to attend the Cold Springs Harbor Laboratory course on Schizophrenia & Related Disorders, [summer 2024](https://meetings.cshl.edu/courses.aspx?course=c-schiz&year=24)! She was also awarded a scholarship from the International Brain Research Organization to support her attendance - exciting!
 
 <b>March 2024</b> - Wendy Torrens has just had another paper published! She assessed the use of the Pattern Glare Test on distinguishing between autistic and schitoypy traits in the general population. Access it early [here](https://www.tandfonline.com/eprint/YJVAMPU4GUBRKBYJ3AMI/full?target=10.1080/13546805.2024.2335103).
@@ -81,9 +102,8 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 <img src="../images/WendyMS.jpeg" width="200" style="float: right"/>
 <b>May 2023</b> - Carson has also kindly volunteered to present my poster on the effects of flicker on reading at VSS this year, while I have my baby :)
 
-<b>May 2023</b> - The best part about being a mentor... going to graduation! Wendy Torrens was granted her MS in Neuroscience! And now onto the PhD...
-
-<b>May 2023</b> - Congratulations to our recent graduates: Matthew Cummings, Laura Van Key, and Savanna Blanchette. Good luck with the next chapter!
+<b>Graduation 2023!</b> - The best part about being a mentor... going to graduation! Wendy Torrens was granted her MS in Neuroscience! And now onto the PhD... 
+Congratulations to our recent graduates: Matthew Cummings, Laura Van Key, and Savanna Blanchette. Good luck with the next chapter!
 
 <b>May 2023</b> - Congratulations to Wendy Torrens who was one of several graduate students in the department to be awarded a Solso Award for Outstanding Scientific Achievement.
 
