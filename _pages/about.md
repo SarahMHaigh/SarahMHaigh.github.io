@@ -55,7 +55,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>May 2024</b> - Wendy and Michelle attended this year's Society of Biological Psychiatry ([SOBP](https://sobp.org/2024-sobp-annual-meeting/)) conference in Autin, TX.
 
-<b>Graduation 2024!</b> - A huge congratulation to Michelle Ruiz, Shane Trivitt, and Lindsey Bevilacqua for graduating. Good luck with the next chapter.
+<b>Graduation 2024!</b> - A huge congratulation to Michelle Ruiz, Rasia Yankaway, Shane Trivitt, and Lindsey Bevilacqua for graduating. Good luck with the next chapter.
 
 <b>May 2024</b> - Carson Smith successfully defended his Master's on "Localizing Visual Allodynia in Migraine". Watch out for the paper to be submitted soon...
 

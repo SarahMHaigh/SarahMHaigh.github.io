@@ -70,11 +70,6 @@ Undergraduate and Volunteer Research Assistants
 <p> Hello! My name is Jackie and I am a recent graduate of the University of Nevada, Reno. I majored in Microbiology and Immunology with a minor in Spanish (Language/Society). Currently, I am gearing up to apply for Physician Assistant (PA) school. On the other hand, I help out in the Haigh Lab as a Research Assistant under Wendy. I am broadly interested in clinical psychology with a focus on sensory processing of the brains in certain populations, such as autistic and schizophrenic populations, as well as researching methods that are more inclusive towards collecting valid data (Ex. testing other methods to measure EEGs since the default EEG caps is not as good as measuring data on curlier hair in comparison to straight hair). </p>
 <br>
 
-<h2>Lindsey Bevilacqua</h2>
-<img src="../images/Resized/LindseyB.png" width="200" style="float: right"/>
-<p> Lindsey is a senior psychology and neuroscience major, planning on graduating in summer 2024. She is interested in the development and treatment of trauma related mental disorders and schizophrenia.</p>
-<br>
-
 <h2>Kate Pellegrino</h2>
 <img src="../images/Resized/KateP.png" width="200" style="float: right"/>
 <p> I am a freshman at the University of Nevada, Reno studying Neuroscience. I am excited to learn about different laboratory techniques that can help us have a better understanding of the brain like EEG, ERG, and ABR. Additionally interested in how a lab runs and works as a whole.</p>
@@ -94,24 +89,6 @@ Undergraduate and Volunteer Research Assistants
 <img src="../images/Resized/Izzy.png" width="200" style="float: right"/>
 <p> I am currently a sophmore at UNR majoring in Psychology and doing a minor/certificate program in gerontology. While I’ve helped in a lab before coming to UNR, working with Dr. Haigh is the first official lab experience I have had. I am excited to have the opportunity to learn new things and grow throughout this journey. As of right now, I want to become an occupational therapist specializing in pediatrics because I am passionate about helping people live their lives to the fullest and love working with kids!</p>
 <br>
-
-<h2>Michelle Ruiz</h2>
-<img src="../images/Resized/Michelle.png" width="200" style="float: right"/>
-<p> I will be graduating in Spring 2024, and I plan to pursue a PhD in a cognitive neuroscience program. I've been exposed to a broad range of research topics throughout my undergraduate career working in different labs at different universities, but my main interest is in learning more about potential biomarkers in schizophrenia. Dr. Haigh and my mentor, Wendy, have been excellent role models in guiding me in the world of research and learning more about graduate school in order to accomplish my long term goal of continuing to conduct research in academia.</p>
-<b>Conference Presentations </b>
-<p><ul>
-<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster to be presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
-<li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA.</li>
-</ul></p>
-
-<h2>Rasia Yankaway</h2>
-<img src="../images/Resized/Rasia.png" width="200" style="float: right"/>
-<p> I am in my fourth year of my undergraduate career here at UNR, majoring in Psychology with an emphasis on research along with a biology minor. My research interests include cognitive psychology and/or neuroscience. I hope to continue my research journey into graduate school or apply for medical school to specialize in psychiatry. I recently joined Dr. Haigh's lab this Fall semester of 2022 and I am excited to work with and help whoever I can!</p>
-<b>Conference Presentations </b>
-<p><ul>
-<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster to be presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
-<li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA.</li>
-</ul></p>
 
 Former Graduate Students
 ======
@@ -212,6 +189,30 @@ Former Lab Managers
 
 Former Research Assistants
 ======
+
+<h2>Michelle Ruiz</h2>
+<img src="../images/Resized/Michelle.png" width="200" style="float: right"/>
+<p> I will be graduating in Spring 2024, and I plan to pursue a PhD in a cognitive neuroscience program. I've been exposed to a broad range of research topics throughout my undergraduate career working in different labs at different universities, but my main interest is in learning more about potential biomarkers in schizophrenia. Dr. Haigh and my mentor, Wendy, have been excellent role models in guiding me in the world of research and learning more about graduate school in order to accomplish my long term goal of continuing to conduct research in academia.</p>
+<b>Conference Presentations </b>
+<p><ul>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster to be presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
+<li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA.</li>
+</ul></p>
+
+<h2>Rasia Yankaway</h2>
+<img src="../images/Resized/Rasia.png" width="200" style="float: right"/>
+<p> I am in my fourth year of my undergraduate career here at UNR, majoring in Psychology with an emphasis on research along with a biology minor. My research interests include cognitive psychology and/or neuroscience. I hope to continue my research journey into graduate school or apply for medical school to specialize in psychiatry. I recently joined Dr. Haigh's lab this Fall semester of 2022 and I am excited to work with and help whoever I can!</p>
+<b>Conference Presentations </b>
+<p><ul>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster to be presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
+<li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA.</li>
+</ul></p>
+
+<h2>Lindsey Bevilacqua</h2>
+<img src="../images/Resized/LindseyB.png" width="200" style="float: right"/>
+<p> Lindsey is a senior psychology and neuroscience major, planning on graduating in summer 2024. She is interested in the development and treatment of trauma related mental disorders and schizophrenia.</p>
+<br>
+
 <h2>Savanna Blanchette</h2>
 <img src="../images/Resized/Savanna.png" width="100" style="float: right;"/>
 <p> BA Psychology - University of Nevada, Reno (2023)</p>
