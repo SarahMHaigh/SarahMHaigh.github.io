@@ -20,6 +20,7 @@ Principal Investigator
 <li> Post-doctoral Associate - University of Pittsburgh School of Medicine (2014)</li>
 <li> Research Scientist - Carnegie Mellon University (2017)</li>
 <li> Assistant Professor - University of Nevada, Reno (2018)</li>
+<li> Associate Professor - University of Nevada, Reno (2024)</li>
 </ul></p>
 
 Graduate Students
