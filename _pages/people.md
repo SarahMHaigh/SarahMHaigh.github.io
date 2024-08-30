@@ -65,20 +65,15 @@ Graduate Students
 Undergraduate and Volunteer Research Assistants
 ======
 
-<h2>Jackie Vallo</h2>
-<img src="../images/Resized/Jackie.png" width="200" style="float: right"/>
-<p> Hello! My name is Jackie and I am a recent graduate of the University of Nevada, Reno. I majored in Microbiology and Immunology with a minor in Spanish (Language/Society). Currently, I am gearing up to apply for Physician Assistant (PA) school. On the other hand, I help out in the Haigh Lab as a Research Assistant under Wendy. I am broadly interested in clinical psychology with a focus on sensory processing of the brains in certain populations, such as autistic and schizophrenic populations, as well as researching methods that are more inclusive towards collecting valid data (Ex. testing other methods to measure EEGs since the default EEG caps is not as good as measuring data on curlier hair in comparison to straight hair). </p>
-<br>
+<h2>Kate Pellegrino</h2>
+<img src="../images/Resized/Kensal.png" width="200" style="float: right"/>
+<p> Hi! I am currently a senior studying neuroscience at UNR. I am passionate about this field of research and excited by the opportunity to explore perception and sensory sensitivity in the Haigh Lab. I am particularly interested in research that examines sensory processing in ASD. I am also fascinated by the application of brain imaging techniques like EEG to investigate such topics. I plan on continuing to graduate school to earn a neuroscience PhD. </p>
+<br><br><br>
 
 <h2>Kate Pellegrino</h2>
 <img src="../images/Resized/KateP.png" width="200" style="float: right"/>
 <p> I am a freshman at the University of Nevada, Reno studying Neuroscience. I am excited to learn about different laboratory techniques that can help us have a better understanding of the brain like EEG, ERG, and ABR. Additionally interested in how a lab runs and works as a whole.</p>
 <br><br><br>
-
-<h2>Hailey Snook</h2>
-<img src="../images/Resized/HaileyS.png" width="200" style="float: right"/>
-<p> I am currently a senior here at UNR. I am majoring in Psychology with a double minor in Addiction and Treatment Services and Women's, Gender and Sexuality studies. This is my first time participating in a research lab and I am hoping to get a better understanding of the research field as a whole. I am also very interested in getting practice using the methodologies that will help me in my future endeavors.</p>
-<br>
 
 <h2>Amber Thaxton</h2>
 <img src="../images/Resized/Amber.png" width="200" style="float: right"/>
@@ -198,6 +193,15 @@ Former Research Assistants
 <li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
 <li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA.</li>
 </ul></p>
+
+<h2>Hailey Snook</h2>
+<img src="../images/Resized/HaileyS.png" width="100" style="float: right"/>
+<br>
+
+<h2>Jackie Vallo</h2>
+<img src="../images/Resized/Jackie.png" width="100" style="float: right"/>
+<p> BS Microbiology & Immunology - University of Nevada, Reno (2023)</p>
+<br>
 
 <h2>Rasia Yankaway</h2>
 <img src="../images/Resized/Rasia.png" width="100" style="float: right"/>
