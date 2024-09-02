@@ -89,7 +89,6 @@ Undergraduate and Volunteer Research Assistants
 <h2>Amber Thaxton</h2>
 <img src="../images/Resized/Amber.png" width="200" style="float: right"/>
 <p> IHi! I am currently a junior studying neuroscience at UNR and have started working as a research assistant in Dr. Haigh and Carson Smith’s lab. While my research interests are still broad, I love exploring the clinical aspect of neuroscience namely neurodegenerative diseases, neuropsychiatric disorders, and developmental psychology. After graduating, I plan to apply to a clinical psychology PhD program where I can further pursue these interests and work towards a profession as a clinical psychologist. In the meantime, I’m super excited to get the opportunity to build my proficiency with different neuroscience techniques and explore sensory processing in the auditory and visual systems! </p>
-<br>
 
 <h2>Isabella Durda</h2>
 <img src="../images/Resized/Izzy.png" width="200" style="float: right"/>
