@@ -35,6 +35,7 @@ Graduate Students
 <p> My research focuses on contributing to the understanding of the neurobiological mechanisms underlying the sensory experience of individuals with schizophrenia and autism. I also strive to improve neurophysiological methods (e.g., electroencephalography) by developing more racially inclusive materials.</p>
 <b>Publications </b>
 <p><ul>
+<li>Wendy Torrens (2024). Pattern Glare Sensitivity: Illusions and Sensations. <i>figshare.</i> Figure. <a href="https://doi.org/10.6084/m9.figshare.26852950.v1">https://doi.org/10.6084/m9.figshare.26852950.v1</a>.</li>
 <li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (accepted). Pattern glare sensitivity distinguishes subclinical autism and schizotypy. <i>Cognitive Neuropsychiatry</i>. <a href="https://doi.org/10.1080/13546805.2024.2335103">https://doi.org/10.1080/13546805.2024.2335103</a>. Early access <a href="https://www.tandfonline.com/eprint/YJVAMPU4GUBRKBYJ3AMI/full?target=10.1080/13546805.2024.2335103">here.</a></li>
 <li>Wendy A Torrens†, Jenna N Pablo†, Jorja Shires, Sarah M Haigh & Marian E Berryhill (2022). People with High Schizotypy Experience More Illusions in the Pattern Glare Test: Consistent with the Hyperexcitability Hypothesis († co-first authors). <i>European Journal of Neuroscience,</i> 1-12. <a href="https://doi.org/10.1111/ejn.15886">https://doi.org/10.1111/ejn.15886</a>.</li> 
 </ul></p>
@@ -65,10 +66,20 @@ Graduate Students
 Undergraduate and Volunteer Research Assistants
 ======
 
-<h2>Kate Pellegrino</h2>
+<h2>Alayna McGuire</h2>
+<img src="../images/Resized/Alayna.png" width="200" style="float: right"/>
+<p> Hello! My name is Alayna McGuire and I am a Junior pursuing a Neuroscience B.S. I love to travel, cook/bake, and try new things, and despite my broad interest in the Neuroscience field, I have a particular regard for cognitive neuroscience. As for my research interests, I want to study more on sensory processing, specifically deficits for people with neurological disorders. I have found a passion in studying neuroscience through the research I have done in the past, and what I am doing now. My goal is to explore and learn what I can through my research, and potentially pursue an MD/PhD program or a PhD in Neuroscience working at a company's research lab. I hope to make a valuable contribution to the Neuroscience community, and help people with these issues through my discoveries. </p>
+<br>
+
+<h2>Sidney Hulsey</h2>
+<img src="../images/Resized/Sid.png" width="200" style="float: right"/>
+<p> Hi! I am a junior at the University of Nevada, Reno studying Neuroscience with a minor/certificate in Gerontology. Previously, I worked in Dr. Piantadosi’s Computation and Language Lab for a summer studying psychophysical modeling techniques for approximate number tasks. My research interests are in sensory processing and neurodevelopmental disorders. I love working with students on campus with IDDs and other disabilities with the P2I and TAPDINTO-STEM programs. After graduating, I plan to apply to an M.D.-Ph.D. program where I can further pursue my interests. </p>
+<br>
+
+<h2>Kensil Coudriet</h2>
 <img src="../images/Resized/Kensal.png" width="200" style="float: right"/>
 <p> Hi! I am currently a senior studying neuroscience at UNR. I am passionate about this field of research and excited by the opportunity to explore perception and sensory sensitivity in the Haigh Lab. I am particularly interested in research that examines sensory processing in ASD. I am also fascinated by the application of brain imaging techniques like EEG to investigate such topics. I plan on continuing to graduate school to earn a neuroscience PhD. </p>
-<br><br><br>
+<br>
 
 <h2>Kate Pellegrino</h2>
 <img src="../images/Resized/KateP.png" width="200" style="float: right"/>

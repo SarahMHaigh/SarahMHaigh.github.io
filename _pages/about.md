@@ -47,6 +47,10 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>August 2024</b> - Welcome to the new semester! We have Kensal Coudriet, Alayna McGuire, Sidney Hulsey, Yasmin Perry, Neville Roy, Mia Price, and Angelina Solorzano-Zamora joining the lab this semester.
+
+<b>August 2024</b> - For those who have been requesting a version of Wendy's Pattern Glare Test image, she has kindly created a new version ([here](https://doi.org/10.6084/m9.figshare.26852950.v1). Please remember to cite appropriately.
+
 <b>June 2024</b> - Carson and Wendy helped and attended the International Multisensory Research Forum ([IMRF](https://imrf2024.sciencesconf.org/?lang=en)) in Reno. Hope you all enjoyed our beautiful city!
 
 <b>June 2024</b> - Wendy Torrens attended (and thoroughly enjoyed) attending the Cold Springs Harbor Laboratory course on Schizophrenia & Related Disorders, [summer 2024](https://meetings.cshl.edu/courses.aspx?course=c-schiz&year=24).
