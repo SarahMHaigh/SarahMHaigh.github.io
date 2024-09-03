@@ -66,6 +66,11 @@ Graduate Students
 Undergraduate and Volunteer Research Assistants
 ======
 
+<h2>Angelina Solorzano-Zamora</h2>
+<img src="../images/Resized/Angelina.png" width="200" style="float: right"/>
+<p> Hi! I am in my final semester at the University of Nevada, Reno studying Psychology with a minor in Information Systems. Although I do not have much background in neuropsychology, I am excited to explore the field. Specifically in the aspect of sensory experience within different types of individuals. After gaining my B.S., I plan to further pursue my interests within a clinical psychology Ph.D. program.  </p>
+<br>
+
 <h2>Alayna McGuire</h2>
 <img src="../images/Resized/Alayna.png" width="200" style="float: right"/>
 <p> Hello! My name is Alayna McGuire and I am a Junior pursuing a Neuroscience B.S. I love to travel, cook/bake, and try new things, and despite my broad interest in the Neuroscience field, I have a particular regard for cognitive neuroscience. As for my research interests, I want to study more on sensory processing, specifically deficits for people with neurological disorders. I have found a passion in studying neuroscience through the research I have done in the past, and what I am doing now. My goal is to explore and learn what I can through my research, and potentially pursue an MD/PhD program or a PhD in Neuroscience working at a company's research lab. I hope to make a valuable contribution to the Neuroscience community, and help people with these issues through my discoveries. </p>
