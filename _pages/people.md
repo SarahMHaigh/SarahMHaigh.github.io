@@ -66,6 +66,11 @@ Graduate Students
 Undergraduate and Volunteer Research Assistants
 ======
 
+<h2>Mia Price</h2>
+<img src="../images/Resized/Mia.png" width="200" style="float: right"/>
+<p> Hey! I am a junior pursuing a B.S. in Psychology, minoring in Black Studies and Social Justice. Although I do not have very much neuroscience experience through this lab I'm hoping to get more exposure to everything neuroscience! I have not yet decided if I want to go down a clinical or research career path however, I am sure I want to help communities of color and more specifically the Black community with whatever work I do. </p>
+<br>
+
 <h2>Angelina Solorzano-Zamora</h2>
 <img src="../images/Resized/Angelina.png" width="200" style="float: right"/>
 <p> Hi! I am in my final semester at the University of Nevada, Reno studying Psychology with a minor in Information Systems. Although I do not have much background in neuropsychology, I am excited to explore the field. Specifically in the aspect of sensory experience within different types of individuals. After gaining my B.S., I plan to further pursue my interests within a clinical psychology Ph.D. program.  </p>
