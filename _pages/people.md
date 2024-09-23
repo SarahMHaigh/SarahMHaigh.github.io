@@ -66,6 +66,11 @@ Graduate Students
 Undergraduate and Volunteer Research Assistants
 ======
 
+<h2>Yasmin Perry</h2>
+<img src="../images/Resized/Mia.png" width="200" style="float: right"/>
+<p> Hi! I'm Yasmin and I am a senior at the University of Nevada, Reno studying Kinesiology with a minor in Psychology. I am passionate about exploring neurodegenerative diseases and their implications in neurological health. Working closely in research, particularly related to migraines and vection, I hope to gain more knowledge about how sensory processing affects individuals differently. By using tools like EEG and ECG to analyze brain and heart activity and from my experience in the lab, I hope to learn research skills and insights that will help prepare me for graduate school if I choose to pursue a PHD. </p>
+<br>
+
 <h2>Mia Price</h2>
 <img src="../images/Resized/Mia.png" width="200" style="float: right"/>
 <p> Hey! I am a junior pursuing a B.S. in Psychology, minoring in Black Studies and Social Justice. Although I do not have very much neuroscience experience through this lab I'm hoping to get more exposure to everything neuroscience! I have not yet decided if I want to go down a clinical or research career path however, I am sure I want to help communities of color and more specifically the Black community with whatever work I do. </p>
