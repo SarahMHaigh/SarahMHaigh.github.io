@@ -67,7 +67,7 @@ Undergraduate and Volunteer Research Assistants
 ======
 
 <h2>Yasmin Perry</h2>
-<img src="../images/Resized/Mia.png" width="200" style="float: right"/>
+<img src="../images/Resized/Yasmin.png" width="200" style="float: right"/>
 <p> Hi! I'm Yasmin and I am a senior at the University of Nevada, Reno studying Kinesiology with a minor in Psychology. I am passionate about exploring neurodegenerative diseases and their implications in neurological health. Working closely in research, particularly related to migraines and vection, I hope to gain more knowledge about how sensory processing affects individuals differently. By using tools like EEG and ECG to analyze brain and heart activity and from my experience in the lab, I hope to learn research skills and insights that will help prepare me for graduate school if I choose to pursue a PHD. </p>
 <br>
 
