@@ -262,6 +262,7 @@ Former Research Assistants
 <h2>Jasmine Haggerty</h2>
 <img src="../images/Resized/Jasmine.png" width="100" style="float: right;"/>
 <p>BS Psychology - University of Nevada, Reno (2022)</p>
+<p>Currently a medical student at the University of Cincinnati College of Medicine in Cincinnati, Ohio (class 2028)</p>
 <b>Publications</b>
 <p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception.</i> <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>. Early access <a href="https://journals.sagepub.com/eprint/6S4HDCHX5N5CC2EZPMKN/full">here.</a></p>
 <b>Conference Presentations </b>

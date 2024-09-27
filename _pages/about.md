@@ -47,6 +47,8 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>September 2024</b> - Some news from lab alum, Jasmine Haggerty. She has started medical school at the University of Cincinnati and has just had her white coat induction ceremony - congratulations! We love hearing about how our alumni are doing, so please keep in touch.
+
 <b>August 2024</b> - Welcome to the new semester! We have Kensal Coudriet, Alayna McGuire, Sidney Hulsey, Yasmin Perry, Neville Roy, Mia Price, and Angelina Solorzano-Zamora joining the lab this semester.
 
 <b>August 2024</b> - For those who have been requesting a version of Wendy's Pattern Glare Test image, she has kindly created a new version [here](https://doi.org/10.6084/m9.figshare.26852950.v1). Please remember to cite appropriately.
