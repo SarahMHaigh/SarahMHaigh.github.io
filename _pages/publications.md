@@ -12,9 +12,11 @@ For those who are interested in the role of colour on causing and alleviating di
 
 2024
 =====
-* Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. *Perception. 53*(8) [https://doi.org/10.1177/03010066241252066](https://doi.org/10.1177/03010066241252066). Early access <a href="https://journals.sagepub.com/eprint/6S4HDCHX5N5CC2EZPMKN/full">here.</a>
+* Thomas J Hostler et al. (accepted). Research Priorities for Autonomous Sensory Meridian Response: An Interdisciplinary Delphi Study. *Multisensory Research*.
+
+* Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. *Perception. 53*(8), 512-528. [https://doi.org/10.1177/03010066241252066](https://doi.org/10.1177/03010066241252066). Early access <a href="https://journals.sagepub.com/eprint/6S4HDCHX5N5CC2EZPMKN/full">here.</a>
   
-* Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (accepted). Pattern glare sensitivity distinguishes subclinical autism and schizotypy. *Cognitive Neuropsychiatry.* [https://doi.org/10.1080/13546805.2024.2335103](https://doi.org/10.1080/13546805.2024.2335103). Early access <a href="https://www.tandfonline.com/eprint/YJVAMPU4GUBRKBYJ3AMI/full?target=10.1080/13546805.2024.2335103">here.</a>
+* Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (accepted). Pattern glare sensitivity distinguishes subclinical autism and schizotypy. *Cognitive Neuropsychiatry. 29*(3), 155-172. [https://doi.org/10.1080/13546805.2024.2335103](https://doi.org/10.1080/13546805.2024.2335103). Early access <a href="https://www.tandfonline.com/eprint/YJVAMPU4GUBRKBYJ3AMI/full?target=10.1080/13546805.2024.2335103">here.</a>
 
 2023
 =====
