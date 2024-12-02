@@ -139,13 +139,15 @@ Book Chapter
 
 Special Thanks to Our Funders
 ====
-National Institute of Mental Health - R15 MH122935
+National Institute of Mental Health (R15 MH122935)
 
 Research Supplements to Promote Diversity in Health-Related Research to Jenna Pablo and Wendy Torrens (MH122935-01S1; MH122935-01S2).
 
-Pilot grant through National Institute of General MedicalSciences - COBRE PG20 GM103650
+Pilot grant through National Institute of General Medical Sciences - COBRE (PG20 GM103650)
 
-Brain and Behavior Research Foundation - NARSAD YoungInvestigator Award 26282
+NSF EPSCoR (1632849)
+
+Brain and Behavior Research Foundation - NARSAD Young Investigator Award (26282)
 
 <p align="center">
   <img src="Funders.jpg" />
