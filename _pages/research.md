@@ -14,7 +14,7 @@ We take a four-pronged approach: first we identify stimuli that the majority of 
 We approach sensory sensitivity as a spectrum, where some individuals are highly sensitive (are hyperresponsive) whereas others are under-sensitive (are hypo-responsive). The list of research interests listed below is not exhaustive and are not described in any particular order.
 
 <p align="center">
-<img src="../images/Summary.jpg" width="600" />
+<img src="../images/Summary.jpg" width="1000" />
   <figcaption class="figure-caption text-center"> Figure 1. Summary of approach to sensory sensitivity and its effects on behavior.</figcaption></p>
 
 Sensory Discomfort
