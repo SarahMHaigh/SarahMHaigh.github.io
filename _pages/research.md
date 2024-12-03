@@ -15,7 +15,7 @@ We approach sensory sensitivity as a spectrum, where some individuals are highly
 
 <p align="center">
 <img src="../images/Summary.jpg" width="600" />
-  <figcaption> Figure 1. Summary of approach to sensory sensitivity and its effects on behavior.</figcaption></p>
+  <figcaption class="figure-caption text-center"> Figure 1. Summary of approach to sensory sensitivity and its effects on behavior.</figcaption></p>
 
 Sensory Discomfort
 ====
@@ -40,7 +40,7 @@ Sensory allodynia (sensitivity and discomfort to stimuli) is commonly reported i
 
 <p align="center">
   <img src="../images/MigraineCycle.jpg width="400"/>
-  <figcaption> Figure 3. Anticipated changes in sensory sensitivity of the migraine cycle compared to headache-free individuals.</figcaption></p>
+  <figcaption class="figure-caption text-center"> Figure 3. Anticipated changes in sensory sensitivity of the migraine cycle compared to headache-free individuals.</figcaption></p>
 
 Autism and Schizophrenia Spectrum Disorders
 =
@@ -48,12 +48,12 @@ Schizophrenia and autism share many diagnostic features, including pertubations 
 
 <p align="center">
   <img src="../images/Spectrum.jpg" width="400"/>
-  <figcaption> Figure 4. An illustration of how variable sensory imput could destabilize processing negatively affect later cognition. See the following papers for details: <a href="https://doi.org/10.1111/ejn.13601">1</a>; <a href="https://doi.org/10.1016/j.schres.2016.03.036">2</a>; <a href="https://doi.org/10.1007/s10803-022-05771-0">3.</a></figcaption></p>
+  <figcaption class="figure-caption text-center"> Figure 4. An illustration of how variable sensory imput could destabilize processing negatively affect later cognition. See the following papers for details: <a href="https://doi.org/10.1111/ejn.13601">1</a>; <a href="https://doi.org/10.1016/j.schres.2016.03.036">2</a>; <a href="https://doi.org/10.1007/s10803-022-05771-0">3.</a></figcaption></p>
   
 Schizophrenia and autistic traits can also be detected in the general populations subclinically. This offers a way to understanding these conditions without medical confounds such as medication, and can reduce the burden on the clinical population. Similar to the diangosed populations, we are finding significant overlap in behavioral traits between subclinical high autim and schizophrenia (schizotypy) trait individuals, but that sensory processing can help distinguish between the <a href="https://doi.org/10.1080/13546805.2024.2335103">two</a>.
 
 The next aim is to find methods to stabilize their early sensory responses and identify their effect on later processing.
 
 <p align="center">
-  <img src="../images/Spectra.jpg" width="400"/>
-  <figcaption> Figure 5. Schizophrenia and autism spectra, from controls to subclinical to clinical conditions (courtesy of Wendy Torrens </figcaption></p>
+  <img src="../images/Spectra.jpg" width="600"/>
+  <figcaption class="figure-caption text-center"> Figure 5. Schizophrenia and autism spectra, from controls to subclinical to clinical conditions (courtesy of Wendy Torrens </figcaption></p>
