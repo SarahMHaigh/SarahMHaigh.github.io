@@ -25,7 +25,7 @@ We are now expanding this focus to identify if uncomfortable sensory environment
 
 <p align="center">
 <img src="../images/SensorySensitivityMigraine.jpg" width="600" />
-  <figcaption> Figure 2. Discomfort from an image can be tracked by measuring low level features such as color difference. And we can measure the effects on neural functioning and later processing. See the following papers for details: <a href="https://doi.org/10.1016/j.visres.2013.07.003">1</a>; <a href="https://doi.org/10.1016/j.visres.2021.01.007">2</a>; <a href="https://doi.org/10.3389/fnins.2021.711064">3</a>; <a href="https://doi.org/10.3389/fnins.2023.1200661">4</a>; <a href=" https://doi.org/10.1111/2041-210X.14268">5.</a></figcaption></p>
+  <figcaption class="figure-caption text-center"> Figure 2. Discomfort from an image can be tracked by measuring low level features such as color difference. And we can measure the effects on neural functioning and later processing. See the following papers for details: <a href="https://doi.org/10.1016/j.visres.2013.07.003">1</a>; <a href="https://doi.org/10.1016/j.visres.2021.01.007">2</a>; <a href="https://doi.org/10.3389/fnins.2021.711064">3</a>; <a href="https://doi.org/10.3389/fnins.2023.1200661">4</a>; <a href=" https://doi.org/10.1111/2041-210X.14268">5.</a></figcaption></p>
   
 Individual Differences in Sensory Sensitivity
 ====
@@ -39,8 +39,8 @@ Tracking Sensory Sensitivity in Migraine
 Sensory allodynia (sensitivity and discomfort to stimuli) is commonly reported in migraine during an attack, but also between attacks. We are assessing the efficacy in tracking sensory sensitivity across the migraine cycle as a cause or an indicator of impending attack. Identifying what stimuli trigger allodynia and why they are uncomfortable is imperative for generating comfortable and sensorily efficient environments at home and in the workplace. Understanding the behavioral and neural responses to uncomfortable stimuli can also help identify the underlying psychopathology of migraine. 
 
 <p align="center">
-  <img src="../images/MigraineCycle.jpg width="400" />
-  <align="center"><figcaption> Figure 3. Anticipated changes in sensory sensitivity of the migraine cycle compared to headache-free individuals.</figcaption></p>
+  <img src="../images/MigraineCycle.jpg width="400"/>
+  <figcaption> Figure 3. Anticipated changes in sensory sensitivity of the migraine cycle compared to headache-free individuals.</figcaption></p>
 
 Autism and Schizophrenia Spectrum Disorders
 =
