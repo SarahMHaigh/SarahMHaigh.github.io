@@ -39,15 +39,15 @@ Tracking Sensory Sensitivity in Migraine
 Sensory allodynia (sensitivity and discomfort to stimuli) is commonly reported in migraine during an attack, but also between attacks. We are assessing the efficacy in tracking sensory sensitivity across the migraine cycle as a cause or an indicator of impending attack. Identifying what stimuli trigger allodynia and why they are uncomfortable is imperative for generating comfortable and sensorily efficient environments at home and in the workplace. Understanding the behavioral and neural responses to uncomfortable stimuli can also help identify the underlying psychopathology of migraine. 
 
 <p align="center">
-  <img src="../images/Spectrum.jpg" />
-  <figcaption> Figure 3. Anticipated changes in sensory sensitivity of the migraine cycle compared to headache-free individuals.</figcaption></p>
+  <img src="../images/MigraineCycle.jpg" />
+  <align="center"><figcaption> Figure 3. Anticipated changes in sensory sensitivity of the migraine cycle compared to headache-free individuals.</figcaption></p>
 
 Autism and Schizophrenia Spectrum Disorders
 =
 Schizophrenia and autism share many diagnostic features, including pertubations in sensory processing. Understanding the different mechanisms can lead to improved biomarkers that are diagnostically specific. Overall, we are finding that autistic adults tend to over-respond to simple sensory input whereas adults with schizophrenia under-respond. However, they both exhibit greater trial-to-trial variability which appears to be related to their sensory sensitivity. Focusing on sensory processing may be a viable method for distinguishing between schizophrenia and autism.
 
 <p align="center">
-  <img src="../images/Spectrum.jpg" />
+  <img src="../images/Spectrum.jpg" width="600"/>
   <figcaption> Figure 4. An illustration of how variable sensory imput could destabilize processing negatively affect later cognition. See the following papers for details: <a href="https://doi.org/10.1111/ejn.13601">1</a>; <a href="https://doi.org/10.1016/j.schres.2016.03.036">2</a>; <a href="https://doi.org/10.1007/s10803-022-05771-0">3.</a></figcaption></p>
   
 Schizophrenia and autistic traits can also be detected in the general populations subclinically. This offers a way to understanding these conditions without medical confounds such as medication, and can reduce the burden on the clinical population. Similar to the diangosed populations, we are finding significant overlap in behavioral traits between subclinical high autim and schizophrenia (schizotypy) trait individuals, but that sensory processing can help distinguish between the <a href="https://doi.org/10.1080/13546805.2024.2335103">two</a>.
