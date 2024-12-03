@@ -39,7 +39,7 @@ Tracking Sensory Sensitivity in Migraine
 Sensory allodynia (sensitivity and discomfort to stimuli) is commonly reported in migraine during an attack, but also between attacks. We are assessing the efficacy in tracking sensory sensitivity across the migraine cycle as a cause or an indicator of impending attack. Identifying what stimuli trigger allodynia and why they are uncomfortable is imperative for generating comfortable and sensorily efficient environments at home and in the workplace. Understanding the behavioral and neural responses to uncomfortable stimuli can also help identify the underlying psychopathology of migraine. 
 
 <p align="center">
-  <img src="../images/MigraineCycle.jpg" width="600"/>
+  <img src="../images/MigraineCycle.jpg" width="500"/>
   <figcaption class="figure-caption text-center"> Figure 3. Anticipated changes in sensory sensitivity of the migraine cycle compared to headache-free individuals.</figcaption></p>
 
 Autism and Schizophrenia Spectrum Disorders
