@@ -40,18 +40,18 @@ For those who are interested in the role of colour on causing and alleviating di
 
 * Sarah M Haigh, Tabatha P Walford, & Patricia Brosseau (2021). Heart rate variability in schizophrenia and autism. *Frontiers in Psychiatry: Schizophrenia. 12,* 2129. [https://doi.org/10.3389/fpsyt.2021.760396](https://doi.org/10.3389/fpsyt.2021.760396)
 
-* Marena S Manierka, Rachel Rezaei, Samantha Palacios, Sarah M Haigh, Jeffrey J Hutsler (2021). In the mood to be social: affective state influences facial emotionrecognition in healthy adults. *Emotion.*
+* Marena S Manierka, Rachel Rezaei, Samantha Palacios, Sarah M Haigh, Jeffrey J Hutsler (2021). In the mood to be social: affective state influences facial emotionrecognition in healthy adults. *Emotion. 21*(7), 1576-1581.
 [https://doi.org/10.1037/emo0000999](https://doi.org/10.1037/emo0000999)
 
-* Arnold J Wilkins, Sarah M Haigh, Omar A Mahroo & Gordon T Plant (2021).Photophobia in migraine: a symptom cluster? *Cephalalgia.*[https://doi.org/10.1177/03331024211014633](https://doi.org/10.1177/03331024211014633)
+* Arnold J Wilkins, Sarah M Haigh, Omar A Mahroo & Gordon T Plant (2021).Photophobia in migraine: a symptom cluster? *Cephalalgia.41*(11-12), 1240-1248. [https://doi.org/10.1177/03331024211014633](https://doi.org/10.1177/03331024211014633)
 
-* Alireza Charmanzar†, Sarah M Haigh†, Pulkit Grover & Marlene Behrmann (2021). Abnormalities in cortical pattern of coherence in interictal migraine using ultrahigh-density EEG (†Joint first authors). *Brain Communications. 3* (2). [https://doi.org/10.1093/braincomms/fcab061](https://doi.org/10.1093/braincomms/fcab061)
+* Alireza Charmanzar†, Sarah M Haigh†, Pulkit Grover & Marlene Behrmann (2021). Abnormalities in cortical pattern of coherence in interictal migraine using ultrahigh-density EEG (†Joint first authors). *Brain Communications. 3*(2), 1-18. [https://doi.org/10.1093/braincomms/fcab061](https://doi.org/10.1093/braincomms/fcab061)
 
 * Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visualdiscomfort and chromaticity separation on neural processing during a visual task. *Vision Research. 182,* 27-35. [https://doi.org/10.1016/j.visres.2021.01.007](https://doi.org/10.1016/j.visres.2021.01.007)
 
 2020
 ====
-* Sarah M Haigh, Yaara Endevelt-Shapira & Marlene Behrmann (2020). Trial-to-trial variability in electrodermal activity to odor in autism. *Autism Research. 13*(12),2083-2093. [https://doi.org/10.1002/aur.2377](https://doi.org/10.1002/aur.2377)
+* Sarah M Haigh, Yaara Endevelt-Shapira & Marlene Behrmann (2020). Trial-to-trial variability in electrodermal activity to odor in autism. *Autism Research. 13*(12), 2083-2093. [https://doi.org/10.1002/aur.2377](https://doi.org/10.1002/aur.2377)
 
 * Timothy K Murphy, Sarah M Haigh, Brian A Coffman, & Dean F. Salisbury (2020). Mismatch Negativity and Impaired Social Functioning in First EpisodeSchizophrenia Spectrum Psychosis. *Frontiers in Psychiatry. 11,* 544. [https://doi.org/10.3389/fpsyt.2020.00544](https://doi.org/10.3389/fpsyt.2020.00544)
 
@@ -59,11 +59,11 @@ For those who are interested in the role of colour on causing and alleviating di
 
 * Sarah M Haigh, Timothy A Keller, Nancy J Minshew & Shaun M Eack (2020). Reduced white matter integrity and deficits in neuropsychological functioning inadults with autism spectrum disorder. *Autism Research. 13*(5), 702-714. [https://doi.org/10.1002/aur.2271](https://doi.org/10.1002/aur.2271)
 
-* Dean F Salisbury, Anna R Shafer, Timothy K Murphy, Sarah M Haigh, & Brian A Coffman (2020). Pitch and duration mismatch negativity and Heschel’s gyrus volume in first-episode schizophrenia-spectrum individuals. *Clinical EEG and Neuroscience.* [https://doi.org/10.1177/1550059420914214](https://doi.org/10.1177/1550059420914214)
+* Dean F Salisbury, Anna R Shafer, Timothy K Murphy, Sarah M Haigh, & Brian A Coffman (2020). Pitch and duration mismatch negativity and Heschel’s gyrus volume in first-episode schizophrenia-spectrum individuals. *Clinical EEG and Neuroscience. 51*(6), 359-364. [https://doi.org/10.1177/1550059420914214](https://doi.org/10.1177/1550059420914214)
 
 2019
 ====
-* Sarah M Haigh, Shaun M Eack, Timothy Keller, Nancy J Minshew & Marlene Behrmann (2019). White Matter Integrity in Schizophrenia and Autism: Abnormal Diffusion Across the Brain in Schizophrenia. *Neuropsychologia.* 135. [https://doi.org/10.1016/j.neuropsychologia.2019.107233](https://doi.org/10.1016/j.neuropsychologia.2019.107233)
+* Sarah M Haigh, Shaun M Eack, Timothy Keller, Nancy J Minshew & Marlene Behrmann (2019). White Matter Integrity in Schizophrenia and Autism: Abnormal Diffusion Across the Brain in Schizophrenia. *Neuropsychologia. 135,* 107233. [https://doi.org/10.1016/j.neuropsychologia.2019.107233](https://doi.org/10.1016/j.neuropsychologia.2019.107233)
 
 * Sarah M Haigh, Alireza Chamanzar, Pulkit Grover & Marlene Behrmann (2019). Cortical Hyper-Excitability in Migraine in Response to Chromatic Patterns. *Headache: The Journal of Head and Face Pain. 59,* 1773-1787. [https://doi.org/10.1111/head.13620](https://doi.org/10.1111/head.13620)
 
@@ -93,9 +93,9 @@ For those who are interested in the role of colour on causing and alleviating di
 
 * Brian A Coffman, Sarah M Haigh, Timothy K Murphy, Dean F Salisbury (2017).Impairment in mismatch negativity but not repetition suppression in schizophrenia. *Brain Topography. 30,* 521-539. [https://doi.org/10.1007/s10548-017-0571-1](https://doi.org/10.1007/s10548-017-0571-1)
 
-* Dean F Salisbury, Nicola R Polizzotto, Paul G Nestor, Sarah M Haigh, JustineKoehler, & Robert W McCarley. (2017). Pitch and duration MMN are not reduced inhigh functioning first hospitalized schizophrenia. *Schizophrenia Bulletin. 43*(2),407-416. [https://doi.org/10.1016/j.schres.2017.04.044](https://doi.org/10.1016/j.schres.2017.04.044)
+* Dean F Salisbury, Nicola R Polizzotto, Paul G Nestor, Sarah M Haigh, Justine Koehler, & Robert W McCarley. (2017). Pitch and duration MMN are not reduced inhigh functioning first hospitalized schizophrenia. *Schizophrenia Bulletin. 43*(2), 407-416. [https://doi.org/10.1016/j.schres.2017.04.044](https://doi.org/10.1016/j.schres.2017.04.044)
 
-* Sarah M Haigh, Brian A Coffman. & Dean F Salisbury (2017). Mismatch negativityin first-episode schizophrenia: a meta-analysis. *Clinical EEG and Neuroscience.48*(1), 3-10. [https://doi.org/10.1007/s10548-017-0571-1](https://doi.org/10.1007/s10548-017-0571-1)
+* Sarah M Haigh, Brian A Coffman. & Dean F Salisbury (2017). Mismatch negativityin first-episode schizophrenia: a meta-analysis. *Clinical EEG and Neuroscience. 48*(1), 3-10. [https://doi.org/10.1007/s10548-017-0571-1](https://doi.org/10.1007/s10548-017-0571-1)
 
 2016
 ====
@@ -119,7 +119,7 @@ For those who are interested in the role of colour on causing and alleviating di
 
 2013
 ====
-* Sarah M Haigh, Laura Barningham, Monica Berntsen, Louise V Coutts, Emily S T Hobbs, Jennifer Irabor, Eleanor M Lever, Peter Tang, & Arnold J Wilkins. (2013).Discomfort and the cortical haemodynamic response to coloured gratings. *Vision Research, 89* (30), 47-53. [https://doi.org/10.1016/j.visres.2013.07.003](https://doi.org/10.1016/j.visres.2013.07.003)
+* Sarah M Haigh, Laura Barningham, Monica Berntsen, Louise V Coutts, Emily S T Hobbs, Jennifer Irabor, Eleanor M Lever, Peter Tang, & Arnold J Wilkins. (2013).Discomfort and the cortical haemodynamic response to coloured gratings. *Vision Research, 89*(30), 47-53. [https://doi.org/10.1016/j.visres.2013.07.003](https://doi.org/10.1016/j.visres.2013.07.003)
 
 * Sarah M Haigh, Wolfgang Jaschinski, Peter M Allen, & Arnold J Wilkins (2013).Accommodation to uncomfortable patterns. *Perception, 42*(2), 208-222. [https://doi.org/10.1068/p7397](https://doi.org/10.1068/p7397)
 
