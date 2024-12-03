@@ -20,7 +20,7 @@ For those who are interested in the role of colour on causing and alleviating di
 
 2023
 =====
-* Sarah M Haigh, Anna M Haugland, Lourdes M Mendoza, & Mackenzie Montero (2023). Auditory discomfort in visually sensitive individuals. *Frontiers in Psychology.* Preprint available: [https://doi.org/10.31219/osf.io/uydfm](https://doi.org/10.31219/osf.io/uydfm)
+* Sarah M Haigh, Anna M Haugland, Lourdes M Mendoza, & Mackenzie Montero (2023). Auditory discomfort in visually sensitive individuals. *Frontiers in Psychology. 14,* 1126481. [https://doi.org/10.3389/fpsyg.2023.1126481](https://doi.org/10.3389/fpsyg.2023.1126481). Preprint available: [https://doi.org/10.31219/osf.io/uydfm](https://doi.org/10.31219/osf.io/uydfm)
 
 * Olivier Penacchio, Xavier Otazu, Arnold J Wilkins, & Sarah M Haigh (2023). A mechanistic account of visual discomfort. *Frontiers in Neuroscience: Perception Science,* 17. [https://doi.org/10.3389/fnins.2023.1200661](https://doi.org/10.3389/fnins.2023.1200661)
 
@@ -28,9 +28,9 @@ For those who are interested in the role of colour on causing and alleviating di
 
 2022
 =====
-* Wendy A Torrens†, Jenna N Pablo†, Jorja Shires, Sarah M Haigh & Marian E Berryhill (2022). People with High Schizotypy Experience More Illusions in the Pattern Glare Test: Consistent with the Hyperexcitability Hypothesis († co-firstauthors). *European Journal of Neuroscience,* 1–12 [https://doi.org/10.1111/ejn.15886](https://doi.org/10.1111/ejn.15886) Preprint(10.22541/au.166817986.63141633/v1)
+* Wendy A Torrens†, Jenna N Pablo†, Jorja Shires, Sarah M Haigh & Marian E Berryhill (2022). People with High Schizotypy Experience More Illusions in the Pattern Glare Test: Consistent with the Hyperexcitability Hypothesis († co-first authors). *European Journal of Neuroscience,* 1–12 [https://doi.org/10.1111/ejn.15886](https://doi.org/10.1111/ejn.15886) Preprint (10.22541/au.166817986.63141633/v1)
 
-* Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, DeanF Salisbury & Marlene Behrmann (2022). Assessing Trial-to-Trial Variability inAuditory ERPs in Autism and Schizophrenia. S.I.: Developmental Approach andTargeted Treatment of Sensory Alterations. *Journal of Autism and Developmental Disorders.* [https://doi.org/10.1007/s10803-022-05771-0](https://doi.org/10.1007/s10803-022-05771-0)
+* Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury & Marlene Behrmann (2022). Assessing Trial-to-Trial Variability inAuditory ERPs in Autism and Schizophrenia. S.I.: Developmental Approach andTargeted Treatment of Sensory Alterations. *Journal of Autism and Developmental Disorders.* [https://doi.org/10.1007/s10803-022-05771-0](https://doi.org/10.1007/s10803-022-05771-0)
 
 * Sarah M Haigh, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury, & Marlene Behrmann (2022). Hyper-sensitivity to pitch and poorer prosodyprocessing in adults with autism: an ERP study. *Frontiers in Psychiatry: Autism. 13.* [https://doi.org/10.3389/fpsyt.2022.844830](https://doi.org/10.3389/fpsyt.2022.844830)
 
