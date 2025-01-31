@@ -47,6 +47,14 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>January 2025</b> - Welcome to Spring 2025! We have Marcos Moreno Cervantes (through the PREP program), Cheyenne McCormick, and Ruby Snyder joining the lab.
+
+<b>December 2024</b> - Sid Hulsey, Alayna McGuire, and Kensal Coudriet presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session.
+
+<img src="../images/Sid_WPD_2024_1.png" width="200"/> <img src="../images/Alayna_WPD_2024.jpg" width="150"/> <img src="../images/Kensal_WPD_2024.jpg" width="200"/>  
+
+<b>November 20204</b> - New paper on research priorities in the field of ASMR (Autonomous Sensory Meridian Response) [here](https://doi.org/10.1163/22134808-bja10136).
+
 <b>September 2024</b> - Some news from lab alum, Jasmine Haggerty. She has started medical school at the University of Cincinnati and has just had her white coat induction ceremony - congratulations! We love hearing about how our alumni are doing, so please keep in touch.
 
 <b>August 2024</b> - Welcome to the new semester! We have Kensal Coudriet, Alayna McGuire, Sidney Hulsey, Yasmin Perry, Neville Roy, Mia Price, and Angelina Solorzano-Zamora joining the lab this semester.

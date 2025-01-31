@@ -41,6 +41,7 @@ Graduate Students
 </ul></p>
 <b>Conference Presentations </b>
 <p><ul>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E Berryhill & Sarah M Haigh (June 2024). Anomalous multisensory cortical excitability in Schizotypy. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
 <li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster presented at the Society of Biological Psychiatry conference, Austin, TX, USA. SOBP travel award to Wendy Alfonso.</li>
 <li>Lena L Kemmelmeier, Jenna N Pablo, Jorja Shires, Hector Arciniega, Wendy A Torrens, Sarah M Haigh, Marian E Berryhill (April 2024). Reduced mismatch negativity in college students with a history of mTBI. Presentation at the Cognitive Neurosciences Society conference, Toronto, ON, Canada.</li>
 <li>Jenna N Pablo, Wendy A Torrens, Jorja Shires, Sarah M Haigh, & Marian E Berryhill (April 2024). Working memory deficit in high schizotypy: ERP but no power differences. Presentation at the Cognitive Neurosciences Society conference, Toronto, ON, Canada.</li>
@@ -61,10 +62,28 @@ Graduate Students
 <p> My research interests include exploring the mechanisms behind our sensory systems that permit complex perception of the world around us. By examining the limits of our visual and auditory systems, we can begin to paint a clearer picture of how various stimuli shape our environmental perception.</p>
 <p>Specifically, my current project investigates how sensory sensitivity changes over the migraine cycle with the aim to identify biomarkers that signal approaching migraine-onset. While there is a lot of variability across migraineurs, a common symptom is sensitivity to light (photophobia) and/or sound (phonophobia). Using electroencephalography (EEG), electroretinography (ERG), and auditory brainstem response (ABR), my research contrasts the effects of sensory stimuli on migraineurs and headache free individuals from the retina and brainstem to the visual and auditory cortices. </p>
 <b>Conference Presentations </b>
-<p>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>. VSS travel award to Carson Smith.</p>
+<p><ul>
+<li>Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (June 2024). Localizing Visual Allodynia in Migraine. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
+<li>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>. VSS travel award to Carson Smith.</li>
+</ul></p>
 
 Undergraduate and Volunteer Research Assistants
 ======
+
+<h2>Marcos Moreno Cervantes</h2>
+<img src="../images/Resized/Marcos.png" width="200" style="float: right"/>
+<p>Hey, my name is Marcos Moreno Cervantes. I am a Freshman at the University of Nevada, Reno, majoring in neuroscience. I love learning about the mind and finding ways to use that information to optimize my life. Along with this, I enjoy weightlifting, cinematography, and mixing music during my free time. I have no background in research but recently got accepted into PREP with Dr. Haigh as my mentor. I aspire to become a psychiatrist, where I will gain a better understanding of the mind and body to not only help those with psychiatric disorders but also neurotypical individuals.</p>
+<br>
+
+<h2>Cheyenne McCormick</h2>
+<img src="../images/Resized/Cheyenne.png" width="200" style="float: right"/>
+<p>Hello! My name is Cheyenne McCormick and I am a junior pursuing a B.S. in Psychology, minoring in sociology. In my free time I enjoy traveling and baking. I am also a cheerleader for the University. I am hoping to have a career in clinical psychology one day. I do not have much prior experience with experimental psychology, but I am eager to learn and grow within this lab. In my time with Professor Haigh and Wendy Alfonso, I hope to expand my knowledge on experimentation; Specifically how to collect and interpret data.</p>
+<br>
+
+<h2>Ruby Snyder</h2>
+<img src="../images/Resized/Ruby.png" width="200" style="float: right"/>
+<p>Hello! I’m Ruby and I am a senior majoring in Psychology with a minor in Art. I hope to one day become a practicing clinical psychologist working with clients who have suffered from traumatic events. While the clinical side of psychology is my ultimate passion, I love the community environment of academic research and getting to help others through the pursuit of knowledge. I am particularly excited to work in the Haigh lab due to their work on sensory sensitivity and the limitations of our senses.</p>
+<br>
 
 <h2>Neville Roy</h2>
 <img src="../images/Resized/Neville.png" width="200" style="float: right"/>
@@ -79,11 +98,6 @@ Undergraduate and Volunteer Research Assistants
 <h2>Mia Price</h2>
 <img src="../images/Resized/Mia.png" width="200" style="float: right"/>
 <p> Hey! I am a junior pursuing a B.S. in Psychology, minoring in Black Studies and Social Justice. Although I do not have very much neuroscience experience through this lab I'm hoping to get more exposure to everything neuroscience! I have not yet decided if I want to go down a clinical or research career path however, I am sure I want to help communities of color and more specifically the Black community with whatever work I do. </p>
-<br>
-
-<h2>Angelina Solorzano-Zamora</h2>
-<img src="../images/Resized/Angelina.png" width="200" style="float: right"/>
-<p> Hi! I am in my final semester at the University of Nevada, Reno studying Psychology with a minor in Information Systems. Although I do not have much background in neuropsychology, I am excited to explore the field. Specifically in the aspect of sensory experience within different types of individuals. After gaining my B.S., I plan to further pursue my interests within a clinical psychology Ph.D. program.  </p>
 <br>
 
 <h2>Alayna McGuire</h2>
@@ -105,10 +119,6 @@ Undergraduate and Volunteer Research Assistants
 <img src="../images/Resized/KateP.png" width="200" style="float: right"/>
 <p> I am a sophomore at the University of Nevada, Reno studying Neuroscience. I am excited to learn about different laboratory techniques that can help us have a better understanding of the brain like EEG, ERG, and ABR. Additionally interested in how a lab runs and works as a whole.</p>
 <br><br><br>
-
-<h2>Amber Thaxton</h2>
-<img src="../images/Resized/Amber.png" width="200" style="float: right"/>
-<p> IHi! I am currently a junior studying neuroscience at UNR and have started working as a research assistant in Dr. Haigh and Carson Smith’s lab. While my research interests are still broad, I love exploring the clinical aspect of neuroscience namely neurodegenerative diseases, neuropsychiatric disorders, and developmental psychology. After graduating, I plan to apply to a clinical psychology PhD program where I can further pursue these interests and work towards a profession as a clinical psychologist. In the meantime, I’m super excited to get the opportunity to build my proficiency with different neuroscience techniques and explore sensory processing in the auditory and visual systems! </p>
 
 <h2>Isabella Durda</h2>
 <img src="../images/Resized/Izzy.png" width="200" style="float: right"/>
@@ -215,11 +225,21 @@ Former Lab Managers
 Former Research Assistants
 ======
 
+<h2>Amber Thaxton</h2>
+<img src="../images/Resized/Amber.png" width="100" style="float: right"/>
+<br>
+
+<h2>Angelina Solorzano-Zamora</h2>
+<img src="../images/Resized/Angelina.png" width="100" style="float: right"/>
+<p> BS Psychology - University of Nevada, Reno (2024)</p>
+<br>
+
 <h2>Michelle Ruiz</h2>
 <img src="../images/Resized/Michelle.png" width="100" style="float: right"/>
 <p> BS Psychology - University of Nevada, Reno (2024)</p>
 <b>Conference Presentations </b>
 <p><ul>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E Berryhill & Sarah M Haigh (June 2024). Anomalous multisensory cortical excitability in Schizotypy. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
 <li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
 <li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA.</li>
 </ul></p>
@@ -238,6 +258,7 @@ Former Research Assistants
 <p> BS Psychology - University of Nevada, Reno (2024)</p>
 <b>Conference Presentations </b>
 <p><ul>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E Berryhill & Sarah M Haigh (June 2024). Anomalous multisensory cortical excitability in Schizotypy. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
 <li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
 <li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA.</li>
 </ul></p>
@@ -245,7 +266,11 @@ Former Research Assistants
 <h2>Shane Trivitt</h2>
 <img src="../images/Resized/Shane.png" width="100" style="float: right"/>
 <p> BS Psychology - University of Nevada, Reno (2024)</p>
-<br>
+<b>Conference Presentations </b>
+<p><ul>
+<li>Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (June 2024). Localizing Visual Allodynia in Migraine. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
+</ul></p>
+
 <h2>Lindsey Bevilacqua</h2>
 <img src="../images/Resized/LindseyB.png" width="100" style="float: right"/>
 <p> BS Psychology - University of Nevada, Reno (2024)</p>
