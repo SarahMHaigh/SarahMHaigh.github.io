@@ -10,6 +10,10 @@ For data, preprints, and preregistrations, see [OSF](https://osf.io/wsp4j).
 
 For those who are interested in the role of colour on causing and alleviating discomfort, check out this [webinar](https://www.youtube.com/watch?v=KRdoH2TUDYE).
 
+2025
+=====
+* Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (accepted). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. *Cognitive Neuropsychiatry*.
+
 2024
 =====
 * Thomas J Hostler, Giulia L. Poerio, Clau Nader, Safiyya Mank, Andrew C. Lin, Mario Villena-González, Lemera ASMR, Sharon Shares ASMR, Yoloma ASMR, Moongem ASMR, Nate Plutzik, Nitin K. Ahuja, Daniel H. Baker, Scott Bannister, Emma L Barratt, Stacey A. Bedwell, Pierre-Edouard Billot, Emma Blakey, Flavia Cardini, Daniella K. Cash, Nick J. Davis, Bleiz M. Del Sette, Mercede Erfanian, Josephine R. Flockton, Beverley Fredborg, Helge Gillmeister, Emma Gray, Sarah M. Haigh, Laura L. Heisick, Agnieszka Janik McErlean, Helle Breth Klausen, Hirohito M. Kondo, Franzisca Maas, L. Taylor Maurand, Lawrie S. McKay, Marco Mozzoni, Gabriele Navyte, Jessica A. Ortega-Balderas, Emma C. Palmer-Cooper, Craig A. H. Richard, Natalie Roberts, Vincenzo Romei, Felix Schoeller, Steven D. Shaw, Julia Simner, Stephen D. Smith, Eva Specker, Angelica Succi, Niilo V. Valtakari, Jennie Weinheimer, Jasper Zehetgruber  (2024). Research Priorities for Autonomous Sensory Meridian Response: An Interdisciplinary Delphi Study. *Multisensory Research. 37*(6-8), 499-528. [https://doi.org/10.1163/22134808-bja10136](https://doi.org/10.1163/22134808-bja10136)
