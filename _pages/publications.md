@@ -34,9 +34,9 @@ For those who are interested in the role of colour on causing and alleviating di
 =====
 * Wendy A Torrens†, Jenna N Pablo†, Jorja Shires, Sarah M Haigh & Marian E Berryhill (2022). People with High Schizotypy Experience More Illusions in the Pattern Glare Test: Consistent with the Hyperexcitability Hypothesis († co-first authors). *European Journal of Neuroscience,* 1–12 [https://doi.org/10.1111/ejn.15886](https://doi.org/10.1111/ejn.15886) Preprint (10.22541/au.166817986.63141633/v1)
 
-* Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury & Marlene Behrmann (2022). Assessing Trial-to-Trial Variability inAuditory ERPs in Autism and Schizophrenia. S.I.: Developmental Approach andTargeted Treatment of Sensory Alterations. *Journal of Autism and Developmental Disorders.* [https://doi.org/10.1007/s10803-022-05771-0](https://doi.org/10.1007/s10803-022-05771-0)
+* Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury & Marlene Behrmann (2022). Assessing Trial-to-Trial Variability in Auditory ERPs in Autism and Schizophrenia. S.I.: Developmental Approach and Targeted Treatment of Sensory Alterations. *Journal of Autism and Developmental Disorders.* [https://doi.org/10.1007/s10803-022-05771-0](https://doi.org/10.1007/s10803-022-05771-0)
 
-* Sarah M Haigh, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury, & Marlene Behrmann (2022). Hyper-sensitivity to pitch and poorer prosodyprocessing in adults with autism: an ERP study. *Frontiers in Psychiatry: Autism. 13.* [https://doi.org/10.3389/fpsyt.2022.844830](https://doi.org/10.3389/fpsyt.2022.844830)
+* Sarah M Haigh, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury, & Marlene Behrmann (2022). Hyper-sensitivity to pitch and poorer prosody processing in adults with autism: an ERP study. *Frontiers in Psychiatry: Autism. 13.* [https://doi.org/10.3389/fpsyt.2022.844830](https://doi.org/10.3389/fpsyt.2022.844830)
 
 2021
 ====
