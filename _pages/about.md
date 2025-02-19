@@ -47,6 +47,8 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>February 2025</b> - Wendy Torrens' trip to Cold Springs Harbor Laboratory was covered in this month's [Nevada Today](https://www.unr.edu/nevada-today/news/2025/cold-springs-harbor-lab-summer-courses)
+
 <b>January 2025</b> - Welcome to Spring 2025! We have Marcos Moreno Cervantes (through the PREP program), Cheyenne McCormick, and Ruby Snyder joining the lab.
 
 <b>December 2024</b> - Sid Hulsey, Alayna McGuire, and Kensal Coudriet presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session.

@@ -12,7 +12,7 @@ For those who are interested in the role of colour on causing and alleviating di
 
 2025
 =====
-* Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (accepted). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. *Cognitive Neuropsychiatry*.
+* Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (accepted). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. *Cognitive Neuropsychiatry*. [https://doi.org/10.1080/13546805.2025.2464728](https://doi.org/10.1080/13546805.2025.2464728) Early access link [here](https://www.tandfonline.com/eprint/AMVF9BPFTMGY866TXTQH/full?target=10.1080/13546805.2025.2464728)
 
 2024
 =====
