@@ -54,7 +54,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>May 2025</b> - Sid Hulsey, Alayna McGuire, Kensal Coudriet, & Marcos Moreno Cervantes presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session.
 
-<img src="../images/Sid_WPDspring2025.jpg" width="200"/> <img src="../images/Alayna_WPDspring2025.jpg" width="150"/> <img src="../images/Kensal_WPDspring2025.jpg" width="150"/> <img src="../images/Marcos_WPDspring2025.jpg" width="200"/> 
+<img src="../images/Sid_WPDspring2025.jpg" width="150"/> <img src="../images/Alayna_WPDspring2025.jpg" width="150"/> <img src="../images/Kensal_WPDspring2025.jpg" width="150"/> <img src="../images/Marcos_WPDspring2025.jpg" width="200"/> 
 
 <b>February 2025</b> - New paper using classification analysis to separate subclinical autism from schizotypy (nice work Jenna!) [here](https://doi.org/10.1080/13546805.2025.2464728).
 
