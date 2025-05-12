@@ -56,6 +56,8 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <img src="../images/Sid_WPDspring2025.jpg" width="150"/> <img src="../images/Alayna_WPDspring2025.jpg" width="150"/> <img src="../images/Kensal_WPDspring2025.jpg" width="150"/> <img src="../images/Marcos_WPDspring2025.jpg" width="200"/> 
 
+<b>April 2025</b> - Update from one of our alum, Shane Trivitt has been accepted to the clinical PhD program at Northern Arizona University - congratulations!
+ 
 <b>February 2025</b> - New paper using classification analysis to separate subclinical autism from schizotypy (nice work Jenna!) [here](https://doi.org/10.1080/13546805.2025.2464728).
 
 <b>February 2025</b> - Wendy Torrens' trip to Cold Springs Harbor Laboratory was covered in this month's [Nevada Today](https://www.unr.edu/nevada-today/news/2025/cold-springs-harbor-lab-summer-courses)

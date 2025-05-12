@@ -217,14 +217,17 @@ Former Research Assistants
 
 <h2>Kensal Coudriet</h2>
 <img src="../images/Resized/Kensal.png" width="100" style="float: right"/>
+<p> BS Neuroscience - University of Nevada, Reno (2025)</p>
 <br>
 
 <h2>Yasmin Perry</h2>
 <img src="../images/Resized/Yasmin.png" width="100" style="float: right"/>
+<p> BA Psychology - University of Nevada, Reno (2025)</p>
 <br>
 
 <h2>Amber Thaxton</h2>
 <img src="../images/Resized/Amber.png" width="100" style="float: right"/>
+<p> BS Neuroscience - University of Nevada, Reno (2025)</p>
 <br>
 
 <h2>Angelina Solorzano-Zamora</h2>
