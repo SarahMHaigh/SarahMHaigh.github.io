@@ -227,7 +227,7 @@ Former Research Assistants
 
 <h2>Amber Thaxton</h2>
 <img src="../images/Resized/Amber.png" width="100" style="float: right"/>
-<p> BS Neuroscience - University of Nevada, Reno (2025)</p>
+<p> BS Neuroscience - University of Nevada, Reno (2024)</p>
 <br>
 
 <h2>Angelina Solorzano-Zamora</h2>
@@ -247,6 +247,7 @@ Former Research Assistants
 
 <h2>Hailey Snook</h2>
 <img src="../images/Resized/HaileyS.png" width="100" style="float: right"/>
+<p> BS Psychology - University of Nevada, Reno (2024)</p>
 <br>
 
 <h2>Jackie Vallo</h2>
