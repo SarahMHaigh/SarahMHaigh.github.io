@@ -35,8 +35,9 @@ Graduate Students
 <p> My research focuses on contributing to the understanding of the neurobiological mechanisms underlying the sensory experience of individuals with schizophrenia and autism. I also strive to improve neurophysiological methods (e.g., electroencephalography) by developing more racially inclusive materials.</p>
 <b>Publications </b>
 <p><ul>
+<li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (accepted). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry</i>. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li> Early access link <a href="here">https://www.tandfonline.com/eprint/AMVF9BPFTMGY866TXTQH/full?target=10.1080/13546805.2025.2464728</a></li>
 <li>Wendy Torrens (2024). Pattern Glare Sensitivity: Illusions and Sensations. <i>figshare.</i> Figure. <a href="https://doi.org/10.6084/m9.figshare.26852950.v1">https://doi.org/10.6084/m9.figshare.26852950.v1</a>.</li>
-<li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (accepted). Pattern glare sensitivity distinguishes subclinical autism and schizotypy. <i>Cognitive Neuropsychiatry</i>. <a href="https://doi.org/10.1080/13546805.2024.2335103">https://doi.org/10.1080/13546805.2024.2335103</a>. Early access <a href="https://www.tandfonline.com/eprint/YJVAMPU4GUBRKBYJ3AMI/full?target=10.1080/13546805.2024.2335103">here.</a></li>
+<li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2024). Pattern glare sensitivity distinguishes subclinical autism and schizotypy. <i>Cognitive Neuropsychiatry. 29</i>(3), 155-175. <a href="https://doi.org/10.1080/13546805.2024.2335103">https://doi.org/10.1080/13546805.2024.2335103</a>.</li>
 <li>Wendy A Torrens†, Jenna N Pablo†, Jorja Shires, Sarah M Haigh & Marian E Berryhill (2022). People with High Schizotypy Experience More Illusions in the Pattern Glare Test: Consistent with the Hyperexcitability Hypothesis († co-first authors). <i>European Journal of Neuroscience,</i> 1-12. <a href="https://doi.org/10.1111/ejn.15886">https://doi.org/10.1111/ejn.15886</a>.</li> 
 </ul></p>
 <b>Conference Presentations </b>
@@ -185,7 +186,7 @@ Former Lab Managers
 <li> Currently a PhD student in Psychology at Southern Cross University (started 2020)</li>
 </ul></p>
 <b>Publications</b>
-<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception.</i> <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>. Early access <a href="https://journals.sagepub.com/eprint/6S4HDCHX5N5CC2EZPMKN/full">here.</a></p>
+<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>.
 <b>Conference Presentations </b>
 <p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
 
@@ -296,7 +297,7 @@ Former Research Assistants
 <p>BS Psychology - University of Nevada, Reno (2022)</p>
 <p>Currently a medical student at the University of Cincinnati College of Medicine in Cincinnati, Ohio (class 2028)</p>
 <b>Publications</b>
-<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception.</i> <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>. Early access <a href="https://journals.sagepub.com/eprint/6S4HDCHX5N5CC2EZPMKN/full">here.</a></p>
+<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>.
 <b>Conference Presentations </b>
 <p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
 
@@ -382,7 +383,7 @@ Former Research Assistants
 <h2>Rory Thompson</h2>
 <p>BA Psychology - Vassar College (2021)</p>
 <b>Publications</b>
-<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception.</i> <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>. Early access <a href="https://journals.sagepub.com/eprint/6S4HDCHX5N5CC2EZPMKN/full">here.</a></p>
+<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>.
 <b>Conference Presentations </b>
 <p>Sarah M Haigh, Melissa M Cortez, Lauren M Thompson, Anastasia Chevychalova, Janea Santiago & KC Brennan (Nov 2022). Sensory sensitivity across the migraine cycle. Poster presented at the Society of Neuroscience conference. San Diego, CA, USA.</p>
 <p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
