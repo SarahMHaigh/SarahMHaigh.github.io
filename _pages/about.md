@@ -50,7 +50,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>May 2025</b> Alayna, Sid and I are headed to the[ Vision Sciences Socity](https://www.visionsciences.org/schedule-of-events/) conference in St Pete Beach, FL this week and will be presenting posters on the effects of uncomfortable visual environments on reading. I will be presenting Izzy's work Friday afternoon and Sid will be presenting Alayna's project on Tuesday afternoon. If you're attending, please drop by and say hello.
 
-<b>Graduation 2025</b> - Congratulations to Kensal Coudriet, Yasmin Perry on graduating! Thank you for your hard work and good luck.
+<b>Graduation 2025</b> - Congratulations to Kensal Coudriet and Yasmin Perry on graduating! Thank you for your hard work and good luck.
 
 <b>May 2025</b> - Sid Hulsey, Alayna McGuire, Kensal Coudriet, & Marcos Moreno Cervantes presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session.
 
