@@ -16,8 +16,9 @@ Do you find yourself feeling over-whelmed in noisy or busy environments? Find ce
  <p style='margin-top:1em; text-align:center'>
  <b>A Quick Note</b></p>
  <p style='margin-left:1em; margin-right:1em; text-align:left'>
- I am currently not recruiting any<br> 
- graduate students for Fall 2024. <br>
+ I am currently recruiting graduate <br>
+ students for Fall 2026. Please contact <br>
+ me for details. <br><br>
  If you are an undergraduate at UNR <br>
  and are interested in getting course <br>
  credit (PSY 275/375) or volunteering <br>
@@ -47,6 +48,14 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>Graduation 2025</b> - Congratulations to Kensal Coudriet, Yasmin Perry on graduating! Thank you for your hard work and good luck!
+
+<b>May 2025</b> - Sid Hulsey, Alayna McGuire, Kensal Coudriet, & Marcos Moreno Cervantes presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session.
+
+<img src="../images/Sid_WPDspring2025.png" width="200"/> <img src="../images/Alayna_WPDspring2025.jpg" width="150"/> <img src="../images/Kensal_WPDspring2025.jpg" width="200"/> <img src="../images/Marcos_WPDspring2025.jpg" width="200"/> 
+
+<b>February 2025</b> - New paper using classification analysis to separate subclinical autism from schizotypy (nice work Jenna!) [here](https://doi.org/10.1080/13546805.2025.2464728).
+
 <b>February 2025</b> - Wendy Torrens' trip to Cold Springs Harbor Laboratory was covered in this month's [Nevada Today](https://www.unr.edu/nevada-today/news/2025/cold-springs-harbor-lab-summer-courses)
 
 <b>January 2025</b> - Welcome to Spring 2025! We have Marcos Moreno Cervantes (through the PREP program), Cheyenne McCormick, and Ruby Snyder joining the lab.
@@ -57,7 +66,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>November 20204</b> - New paper on research priorities in the field of ASMR (Autonomous Sensory Meridian Response) [here](https://doi.org/10.1163/22134808-bja10136).
 
-<b>September 2024</b> - Some news from lab alum, Jasmine Haggerty. She has started medical school at the University of Cincinnati and has just had her white coat induction ceremony - congratulations! We love hearing about how our alumni are doing, so please keep in touch.
+<b>September 2024</b> - Some news from lab alum, Jasmine Haggerty. She has started medical school at the University of Cincinnati and has just had her induction ceremony - congratulations! We love hearing about how our alumni are doing, so please keep in touch.
 
 <b>August 2024</b> - Welcome to the new semester! We have Kensal Coudriet, Alayna McGuire, Sidney Hulsey, Yasmin Perry, Neville Roy, Mia Price, and Angelina Solorzano-Zamora joining the lab this semester.
 
