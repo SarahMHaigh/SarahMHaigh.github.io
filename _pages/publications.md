@@ -12,7 +12,9 @@ For those who are interested in the role of colour on causing and alleviating di
 
 2025
 =====
-* Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (accepted). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. *Cognitive Neuropsychiatry*. [https://doi.org/10.1080/13546805.2025.2464728](https://doi.org/10.1080/13546805.2025.2464728) Early access link [here](https://www.tandfonline.com/eprint/AMVF9BPFTMGY866TXTQH/full?target=10.1080/13546805.2025.2464728)
+* Sarah M Haigh, Jasmine A Haggerty & Aimee Delgado (accepted). Auditory Discomfort and Visual Sensitivity. *Vision Research: Special Issue on Sensory Discomfort*.
+
+* Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. *Cognitive Neuropsychiatry*. [https://doi.org/10.1080/13546805.2025.2464728](https://doi.org/10.1080/13546805.2025.2464728).
 
 2024
 =====
@@ -49,15 +51,15 @@ For those who are interested in the role of colour on causing and alleviating di
 
 * Arnold J Wilkins, Sarah M Haigh, Omar A Mahroo & Gordon T Plant (2021).Photophobia in migraine: a symptom cluster? *Cephalalgia.41*(11-12), 1240-1248. [https://doi.org/10.1177/03331024211014633](https://doi.org/10.1177/03331024211014633)
 
-* Alireza Charmanzar†, Sarah M Haigh†, Pulkit Grover & Marlene Behrmann (2021). Abnormalities in cortical pattern of coherence in interictal migraine using ultrahigh-density EEG (†Joint first authors). *Brain Communications. 3*(2), 1-18. [https://doi.org/10.1093/braincomms/fcab061](https://doi.org/10.1093/braincomms/fcab061)
+* Alireza Charmanzar†, Sarah M Haigh†, Pulkit Grover & Marlene Behrmann (2021). Abnormalities in cortical pattern of coherence in interictal migraine using ultra high-density EEG (†Joint first authors). *Brain Communications. 3*(2), 1-18. [https://doi.org/10.1093/braincomms/fcab061](https://doi.org/10.1093/braincomms/fcab061)
 
-* Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visualdiscomfort and chromaticity separation on neural processing during a visual task. *Vision Research. 182,* 27-35. [https://doi.org/10.1016/j.visres.2021.01.007](https://doi.org/10.1016/j.visres.2021.01.007)
+* Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visual discomfort and chromaticity separation on neural processing during a visual task. *Vision Research. 182,* 27-35. [https://doi.org/10.1016/j.visres.2021.01.007](https://doi.org/10.1016/j.visres.2021.01.007)
 
 2020
 ====
 * Sarah M Haigh, Yaara Endevelt-Shapira & Marlene Behrmann (2020). Trial-to-trial variability in electrodermal activity to odor in autism. *Autism Research. 13*(12), 2083-2093. [https://doi.org/10.1002/aur.2377](https://doi.org/10.1002/aur.2377)
 
-* Timothy K Murphy, Sarah M Haigh, Brian A Coffman, & Dean F. Salisbury (2020). Mismatch Negativity and Impaired Social Functioning in First EpisodeSchizophrenia Spectrum Psychosis. *Frontiers in Psychiatry. 11,* 544. [https://doi.org/10.3389/fpsyt.2020.00544](https://doi.org/10.3389/fpsyt.2020.00544)
+* Timothy K Murphy, Sarah M Haigh, Brian A Coffman, & Dean F. Salisbury (2020). Mismatch Negativity and Impaired Social Functioning in First Episode Schizophrenia Spectrum Psychosis. *Frontiers in Psychiatry. 11,* 544. [https://doi.org/10.3389/fpsyt.2020.00544](https://doi.org/10.3389/fpsyt.2020.00544)
 
 * Dean F Salisbury, Brian A Coffman & Sarah M Haigh (2020). Reductions in Complex Mismatch Negativity to Extra Tone Gestalt Pattern Deviance in First-Episode Schizophrenia. *Frontiers in Psychiatry. 11*, 505. [https://doi.org/10.3389/fpsyt.2020.00505](https://doi.org/10.3389/fpsyt.2020.00505)
 
