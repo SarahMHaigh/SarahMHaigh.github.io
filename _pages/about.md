@@ -48,7 +48,7 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
-<b>June 2025</b> - New paper out on auditory discomfort, including some near infrared spectroscopy data. Thanks to Jasmine and Aimee for collecting the data!
+<b>June 2025</b> - New paper out on auditory discomfort, including some near infrared spectroscopy data. Thanks to Jasmine and Aimee for collecting the data! Get early access [here](https://authors.elsevier.com/a/1lI0y9jMUGSdE).
 
 <b>May 2025</b> - Alayna, Sid and I attended to the[ Vision Sciences Socity](https://www.visionsciences.org/schedule-of-events/) conference in St Pete Beach, FL and presented posters on the effects of uncomfortable visual environments on reading. I presented Izzy's work and Sid presented Alayna's project. We had a blast!
 
