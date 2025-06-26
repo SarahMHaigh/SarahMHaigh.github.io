@@ -209,7 +209,7 @@ Former Lab Managers
 <li> Currently a medical student at the University of Nevada, Reno</li>
 </ul></p>
 <b>Publications</b>
-<p>Sarah M Haigh†, Marian E Berryhill†, Alexandrea Kilgore-Gomez, & Michael Dodd (2023). Working memory and sensory memory in schizotypy: an avenue for understanding schizophrenia? (†Joint first authors). <i>European Journal of Neuroscience, 57,</i> 1577-1596. <a href="https://doi.org/10.1111/ejn.15961">https://doi.org/10.1111/ejn.15961</a>.</p>
+<p>Sarah M Haigh†, Marian E Berryhill†, Alexandrea Kilgore-Gomez, & Michael Dodd (2023). Working memory and sensory memory in schizotypy: an avenue for understanding schizophrenia? (†Joint first authors). <i>European Journal of Neuroscience, 57,</i> 1577-1596. <a href="https://doi.org/10.1111/ejn.15961">https://doi.org/10.1111/ejn.15961</a>.</p></ul>
 
 
 
@@ -297,6 +297,7 @@ Former Research Assistants
 <p>BS Psychology - University of Nevada, Reno (2022)</p>
 <p>Currently a medical student at the University of Cincinnati College of Medicine in Cincinnati, Ohio (class 2028)</p>
 <b>Publications</b>
+<p>Sarah M Haigh, Jasmine A Haggerty & Aimee Delgado (2025). Auditory Discomfort and Visual Sensitivity. *Vision Research: Special Issue on Sensory Discomfort. 234*, 108655. <a href="https://doi.org/10.1016/j.visres.2025.108655">https://doi.org/10.1016/j.visres.2025.108655</a>.
 <p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>.
 <b>Conference Presentations </b>
 <p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
