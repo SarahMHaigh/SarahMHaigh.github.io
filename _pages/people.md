@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+<br>
 <h1>Principal Investigator</h1>
-
 <h2>Sarah Haigh</h2>
 <img src="../images/Resized/Me.png" width="200" style="float: right"/>
 <p> <ul>
@@ -22,9 +21,9 @@ redirect_from:
 <li> Assistant Professor - University of Nevada, Reno (2018)</li>
 <li> Associate Professor - University of Nevada, Reno (2024)</li>
 </ul></p>
+<br>
 
 <h1>Graduate Students</h1>
-
 <h2>Wendy Alfonso Torrens</h2>
 <img src="../images/Resized/Wendy.png" width="200" style="float: right"/>
 <p> <ul>
@@ -67,9 +66,9 @@ redirect_from:
 <li>Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (June 2024). Localizing Visual Allodynia in Migraine. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
 <li>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>. VSS travel award to Carson Smith.</li>
 </ul></p>
+<br>
 
 <h1>Undergraduate and Volunteer Research Assistants</h1>
-
 <h2>Marcos Moreno Cervantes</h2>
 <img src="../images/Resized/Marcos.png" width="200" style="float: right"/>
 <p>Hey, my name is Marcos Moreno Cervantes. I am a Freshman at the University of Nevada, Reno, majoring in neuroscience. I love learning about the mind and finding ways to use that information to optimize my life. Along with this, I enjoy weightlifting, cinematography, and mixing music during my free time. I have no background in research but recently got accepted into PREP with Dr. Haigh as my mentor. I aspire to become a psychiatrist, where I will gain a better understanding of the mind and body to not only help those with psychiatric disorders but also neurotypical individuals.</p>
@@ -116,7 +115,6 @@ redirect_from:
 <br>
 
 <h1>Former Graduate Students</h1>
-
 <h2>Stephanie Otto</h2>
 <img src="../images/Resized/Steph.png" width="200" style="float: right"/>
 <p> <ul>
@@ -173,9 +171,9 @@ redirect_from:
 <li>Lisa Lindquist, Gregory R McIntire Jr & Sarah M Haigh (September 2019). The impact of chromaticity separation on information processing. Poster presented at the Bay Area Vision Research Day. Berkeley, CA, USA.</li> 
 <li>Gregory R McIntire Jr, Lisa Lindquist & Sarah M Haigh (September 2019). The impact of uncomfortable visual stimuli on face processing. Poster presented at the Bay Area Vision Research Day. Berkeley, CA, USA.</li>
 </ul></p>
+<br>
 
 <h1>Former Lab Managers</h1>
-
 <h2>Caitlin Laycox</h2>
 <img src="../images/Resized/Caitlin.png" width="200" style="float: right"/>
 <p> <ul>
@@ -212,7 +210,6 @@ redirect_from:
 <br>
 
 <h1>Former Research Assistants</h1>
-
 <h2>Kensal Coudriet</h2>
 <img src="../images/Resized/Kensal.png" width="100" style="float: right"/>
 <p> BS Neuroscience - University of Nevada, Reno (2025)</p>
