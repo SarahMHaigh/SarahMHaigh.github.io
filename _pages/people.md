@@ -9,9 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-======
 <h1>Principal Investigator</h1>
-======
 
 <h2>Sarah Haigh</h2>
 <img src="../images/Resized/Me.png" width="200" style="float: right"/>
@@ -25,9 +23,7 @@ redirect_from:
 <li> Associate Professor - University of Nevada, Reno (2024)</li>
 </ul></p>
 
-======
 <h1>Graduate Students</h1>
-======
 
 <h2>Wendy Alfonso Torrens</h2>
 <img src="../images/Resized/Wendy.png" width="200" style="float: right"/>
@@ -72,9 +68,7 @@ redirect_from:
 <li>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>. VSS travel award to Carson Smith.</li>
 </ul></p>
 
-======
 <h1>Undergraduate and Volunteer Research Assistants</h1>
-======
 
 <h2>Marcos Moreno Cervantes</h2>
 <img src="../images/Resized/Marcos.png" width="200" style="float: right"/>
@@ -122,7 +116,6 @@ redirect_from:
 <br>
 
 <h1>Former Graduate Students</h1>
-======
 
 <h2>Stephanie Otto</h2>
 <img src="../images/Resized/Steph.png" width="200" style="float: right"/>
@@ -181,9 +174,7 @@ redirect_from:
 <li>Gregory R McIntire Jr, Lisa Lindquist & Sarah M Haigh (September 2019). The impact of uncomfortable visual stimuli on face processing. Poster presented at the Bay Area Vision Research Day. Berkeley, CA, USA.</li>
 </ul></p>
 
-======
 <h1>Former Lab Managers</h1>
-======
 
 <h2>Caitlin Laycox</h2>
 <img src="../images/Resized/Caitlin.png" width="200" style="float: right"/>
@@ -220,9 +211,7 @@ redirect_from:
 </p>
 <br>
 
-======
 <h1>Former Research Assistants</h1>
-======
 
 <h2>Kensal Coudriet</h2>
 <img src="../images/Resized/Kensal.png" width="100" style="float: right"/>
