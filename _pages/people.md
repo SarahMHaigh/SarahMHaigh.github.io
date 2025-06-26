@@ -9,8 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Principal Investigator
 ======
+<h1>Principal Investigator</h1>
+======
+
 <h2>Sarah Haigh</h2>
 <img src="../images/Resized/Me.png" width="200" style="float: right"/>
 <p> <ul>
@@ -23,8 +25,10 @@ Principal Investigator
 <li> Associate Professor - University of Nevada, Reno (2024)</li>
 </ul></p>
 
-Graduate Students
 ======
+<h1>Graduate Students</h1>
+======
+
 <h2>Wendy Alfonso Torrens</h2>
 <img src="../images/Resized/Wendy.png" width="200" style="float: right"/>
 <p> <ul>
@@ -68,7 +72,8 @@ Graduate Students
 <li>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>. VSS travel award to Carson Smith.</li>
 </ul></p>
 
-Undergraduate and Volunteer Research Assistants
+======
+<h1>Undergraduate and Volunteer Research Assistants</h1>
 ======
 
 <h2>Marcos Moreno Cervantes</h2>
@@ -116,8 +121,9 @@ Undergraduate and Volunteer Research Assistants
 <p> I am currently a junior at UNR majoring in Psychology and doing a minor/certificate program in gerontology. While I’ve helped in a lab before coming to UNR, working with Dr. Haigh is the first official lab experience I have had. I am excited to have the opportunity to learn new things and grow throughout this journey. As of right now, I want to become an occupational therapist specializing in pediatrics because I am passionate about helping people live their lives to the fullest and love working with kids!</p>
 <br>
 
-Former Graduate Students
+<h1>Former Graduate Students</h1>
 ======
+
 <h2>Stephanie Otto</h2>
 <img src="../images/Resized/Steph.png" width="200" style="float: right"/>
 <p> <ul>
@@ -175,7 +181,8 @@ Former Graduate Students
 <li>Gregory R McIntire Jr, Lisa Lindquist & Sarah M Haigh (September 2019). The impact of uncomfortable visual stimuli on face processing. Poster presented at the Bay Area Vision Research Day. Berkeley, CA, USA.</li>
 </ul></p>
 
-Former Lab Managers
+======
+<h1>Former Lab Managers</h1>
 ======
 
 <h2>Caitlin Laycox</h2>
@@ -213,6 +220,7 @@ Former Lab Managers
 </p>
 <br>
 
+======
 <h1>Former Research Assistants</h1>
 ======
 
