@@ -213,7 +213,7 @@ Former Lab Managers
 </p>
 <br>
 
-Former Research Assistants
+<h1>Former Research Assistants</h1>
 ======
 
 <h2>Kensal Coudriet</h2>
