@@ -209,7 +209,8 @@ Former Lab Managers
 <li> Currently a medical student at the University of Nevada, Reno</li>
 </ul></p>
 <b>Publications</b>
-<p>Sarah M Haigh†, Marian E Berryhill†, Alexandrea Kilgore-Gomez, & Michael Dodd (2023). Working memory and sensory memory in schizotypy: an avenue for understanding schizophrenia? (†Joint first authors). <i>European Journal of Neuroscience, 57,</i> 1577-1596. <a href="https://doi.org/10.1111/ejn.15961">https://doi.org/10.1111/ejn.15961</a>.</p>
+<p><ul>
+<li>Sarah M Haigh†, Marian E Berryhill†, Alexandrea Kilgore-Gomez, & Michael Dodd (2023). Working memory and sensory memory in schizotypy: an avenue for understanding schizophrenia? (†Joint first authors). <i>European Journal of Neuroscience, 57,</i> 1577-1596. <a href="https://doi.org/10.1111/ejn.15961">https://doi.org/10.1111/ejn.15961</a>.</li></ul></p>
 <br>
 
 Former Research Assistants
