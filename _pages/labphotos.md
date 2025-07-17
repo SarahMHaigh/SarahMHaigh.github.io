@@ -6,14 +6,14 @@ author_profile: true
 ---
 A collection of fun photos over the years.
 
-<b>May 2023</>
+<b>May 2023</b>
 
 Wendy Torrens' MS in Neuroscience and Michelle Ruiz, Lilly Martin, and Izzy Durda's posters at the Spring WolfPack Discoveries poster session.
 
-<img src="../images/IzzyMe.jpeg" width="200"/>
-<img src="../images/MichelleMay2023.JPG" width="150"/>
-<img src="../images/LillyPoster.jpeg" width="200"/>
-<img src="../images/IzzyMay2023.jpeg" width="200"/>
+<img src="../images/IzzyMe.jpeg" width="250"/>
+<img src="../images/MichelleMay2023.JPG" width="200"/>
+<img src="../images/LillyPoster.jpeg" width="250"/>
+<img src="../images/IzzyMay2023.jpeg" width="250"/>
 
 <b>March 2023</b>
 
