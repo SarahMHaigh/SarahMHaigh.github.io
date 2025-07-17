@@ -32,6 +32,7 @@ redirect_from:
 <li> Currently a PhD student in Neuroscience at the University of Nevada, Reno</li>
 </ul></p>
 <p> My research focuses on contributing to the understanding of the neurobiological mechanisms underlying the sensory experience of individuals with schizophrenia and autism. I also strive to improve neurophysiological methods (e.g., electroencephalography) by developing more racially inclusive materials.</p>
+<p> Wendy was awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types. This work is already preregistered <a href="here">https://doi.org/10.17605/OSF.IO/AXU2C</a> and will be updated with tools and information as the project progresses.</p>
 <b>Publications </b>
 <p><ul>
 <li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (accepted). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry</i>. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li> Early access link <a href="here">https://www.tandfonline.com/eprint/AMVF9BPFTMGY866TXTQH/full?target=10.1080/13546805.2025.2464728</a></li>

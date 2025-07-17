@@ -48,9 +48,11 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>June 2025</b> - Wendy was accepted to the Cold Springs Harbor Laboratory meeting on Autism Spectrum Disorders. Congratulations!!!
+
 <b>June 2025</b> - New paper out on auditory discomfort, including some near infrared spectroscopy data. Thanks to Jasmine and Aimee for collecting the data! Get early access [here](https://authors.elsevier.com/a/1lI0y9jMUGSdE).
 
-<b>May 2025</b> - Alayna, Sid and I attended to the[ Vision Sciences Socity](https://www.visionsciences.org/schedule-of-events/) conference in St Pete Beach, FL and presented posters on the effects of uncomfortable visual environments on reading. I presented Izzy's work and Sid presented Alayna's project. We had a blast!
+<b>May 2025</b> - Alayna, Sid and I attended to the [Vision Sciences Socity](https://www.visionsciences.org/schedule-of-events/) conference in St Pete Beach, FL and presented posters on the effects of uncomfortable visual environments on reading. I presented Izzy's work and Sid presented Alayna's project. We had a blast!
 
 <b>Graduation 2025</b> - Congratulations to Kensal Coudriet and Yasmin Perry on graduating! Thank you for your hard work and good luck.
 
@@ -129,29 +131,3 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 <b>Aug 2023</b> - Welcome to Geo, Amber, and Kiara to the lab! Let's collect some data.
 
 <b>Aug 2023</b> - Congratulations to Wendy Torrens who was awarded a Trainee Development Program Award from the Society for Neuroscience. She will be presenting a poster on her recent data using hair clips to collect high quality EEG data regardless of hair type (patent pending).
-
-<b>July 2023</b> - We have a new publication modelling the neural processes underlying visual discomfort. Check it out [here](https://doi.org/10.3389/fnins.2023.1200661).
-
-<b>May 2023</b> - Carson Smith is presenting a poster on his study assessing visual functioning in migraine compared to headache-free individuals using ERG and EEG at the Vision Science Soiety conference in St Pete Beach, FL. 
-
-<img src="../images/WendyMS.jpeg" width="200" style="float: right"/>
-<b>May 2023</b> - Carson has also kindly volunteered to present my poster on the effects of flicker on reading at VSS this year, while I have my baby :)
-
-<b>Graduation 2023</b> - The best part about being a mentor... going to graduation! Wendy Torrens was granted her MS in Neuroscience. And now onto the PhD... 
-Congratulations to our recent graduates: Matthew Cummings, Laura Van Key, and Savanna Blanchette. Good luck with the next chapter.
-
-<b>May 2023</b> - Congratulations to Wendy Torrens who was one of several graduate students in the department to be awarded a Solso Award for Outstanding Scientific Achievement.
-
-<b>May 2023</b> - Michelle Ruiz, Lilly Martin, and Izzy Durda all presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session. Excellent work.
-
-<img src="../images/IzzyMe.jpeg" width="200"/>
-<img src="../images/MichelleMay2023.JPG" width="150"/>
-<img src="../images/LillyPoster.jpeg" width="200"/>
-<img src="../images/IzzyMay2023.jpeg" width="200"/>
-
-<b>March 2023</b> - A HUGE congratulations to Wendy Torrens for being awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types. This work is already preregistered [here](https://doi.org/10.17605/OSF.IO/AXU2C) and will be updated with tools and information as the project progresses.
-
-<b>March 2023</b> - We have a new publication on sensory and working memory in schizotypy. Check it out [here](https://doi.org/10.1111/ejn.15961).
-
-<b>Feb 2023</b> - Congratulations to Carson Smith who was awarded a travel award to attend this year's Vision Science Society conference in May! He will be presenting a poster on his recent work on visual responsiveness in migraine, assessed using electroretinography and electroencephalography.
-

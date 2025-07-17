@@ -6,6 +6,22 @@ author_profile: true
 ---
 A collection of fun photos over the years.
 
+<b>May 2023</>
+
+Wendy Torrens' MS in Neuroscience and Michelle Ruiz, Lilly Martin, and Izzy Durda's posters at the Spring WolfPack Discoveries poster session.
+
+<img src="../images/IzzyMe.jpeg" width="200"/>
+<img src="../images/MichelleMay2023.JPG" width="150"/>
+<img src="../images/LillyPoster.jpeg" width="200"/>
+<img src="../images/IzzyMay2023.jpeg" width="200"/>
+
+<b>March 2023</b>
+
+Our work was featured in the College of Science's Discovery Monthly:
+[view here](https://www.unr.edu/nevada-today/news/2023/schizotypy-and-illusions)
+
+<img src="../images/SchizotypyTeam.png" width="400"/>
+
 <b>December 2022</b>
 
 Stephanie Otto's PhD graduation!!! And Michelle Ruiz's poster at the Fall WolfPack Discoveries poster session.
