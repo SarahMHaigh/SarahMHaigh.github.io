@@ -76,7 +76,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>October 2024</b> - New CBS group photo after our picnic
 
-<img src="../images/CBSfall2024.jpg" width="200"/>
+<img src="../images/CBSfall2024.jpg" width="400"/>
 
 <b>September 2024</b> - Some news from lab alum, Jasmine Haggerty. She has started medical school at the University of Cincinnati and has just had her induction ceremony - congratulations! We love hearing about how our alumni are doing, so please keep in touch.
 
