@@ -58,7 +58,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>May 2025</b> - Alayna, Sid and I attended to the [Vision Sciences Socity](https://www.visionsciences.org/schedule-of-events/) conference in St Pete Beach, FL and presented posters on the effects of uncomfortable visual environments on reading. I presented Izzy's work and Sid presented Alayna's project. We had a blast!
 
-<img src="../images/SidVSS.jpg" width="150"/>
+<img src="../images/SidVSS.jpeg" width="150"/>
 
 <b>Graduation 2025</b> - Congratulations to Kensal Coudriet and Yasmin Perry on graduating! Thank you for your hard work and good luck.
 
