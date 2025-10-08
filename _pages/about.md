@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="../images/LabLogo.png" width="200" style="float: right"/>
 
-Do you find yourself feeling over-whelmed in noisy or busy environments? Find certain images or sounds repulsive or painful to look at? Or miss important information, even when you are focusing really hard? Have you noticed these behaviors happening more frequently since an event or trauma?
+Do you or someone you are close with feel over-whelmed in noisy or busy environments? Find certain images or sounds repulsive or painful to look at? Or miss important information, even when you are focusing really hard? Have you noticed these behaviors happening more frequently since an event or trauma?
 
 <p><button class="button" style="float: right">
  <p style='margin-top:1em; text-align:center'>
@@ -32,7 +32,7 @@ Do you find yourself feeling over-whelmed in noisy or busy environments? Find ce
 
 
 
-These are the issues we focus on in the lab. We investigate how early sensory processing affects the ability to process information, and how individual differences in sensory sensitivity affect the sensory pathways. We primarily assess the mechanisms underlying sensory sensitivity using neuroimaging, electrophysiological, and behavioral methods. 
+These are the issues we focus on in the lab. We investigate how early sensory processing affects health, the ability to process information, and how individual differences in sensory sensitivity affect the sensory pathways. We primarily assess the mechanisms underlying sensory sensitivity using neuroimaging, electrophysiological, and behavioral methods. 
 
 Many clinical conditions are associated with sensory complaints and so we are exploring the extent to which these complaints exacerbate symptoms, in individuals such as those with schizophrenia, autism, mTBI, visual stress, or migraine. Our approach is to view sensory sensitivity as a spectrum, with those who are on the extremes of the spectrum potentially requiring intervention to help daily functioning.
 
@@ -48,11 +48,17 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
-<b>June 2025</b> - Wendy was accepted to the Cold Springs Harbor Laboratory meeting on Autism Spectrum Disorders. Congratulations!!!
+<b>Sept 2025</b> - Carson, Sid, and I will be attending and presenting at this year's Auditory Perception and Cognition Annual Meeting [(APCAM)](https://apcsociety.org/apcam-call.html). If you're attending, please drop by to say hello.
+
+<b>Aug 2025</b> - Welcome to the lab, Leo Lopez and Danielle Nochera!
+
+<b>June 2025</b> - Wendy was accepted to and attended the Cold Springs Harbor Laboratory meeting on Autism Spectrum Disorders. Congratulations!!!
 
 <b>June 2025</b> - New paper out on auditory discomfort, including some near infrared spectroscopy data. Thanks to Jasmine and Aimee for collecting the data! Get early access [here](https://authors.elsevier.com/a/1lI0y9jMUGSdE).
 
 <b>May 2025</b> - Alayna, Sid and I attended to the [Vision Sciences Socity](https://www.visionsciences.org/schedule-of-events/) conference in St Pete Beach, FL and presented posters on the effects of uncomfortable visual environments on reading. I presented Izzy's work and Sid presented Alayna's project. We had a blast!
+
+<img src="../images/SidVSS.jpg" width="150"/>
 
 <b>Graduation 2025</b> - Congratulations to Kensal Coudriet and Yasmin Perry on graduating! Thank you for your hard work and good luck.
 
@@ -134,4 +140,4 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>Aug 2023</b> - Welcome to Geo, Amber, and Kiara to the lab! Let's collect some data.
 
-<b>Aug 2023</b> - Congratulations to Wendy Torrens who was awarded a Trainee Development Program Award from the Society for Neuroscience. She will be presenting a poster on her recent data using hair clips to collect high quality EEG data regardless of hair type (patent pending).
+<b>Aug 2023</b> - Congratulations to Wendy Torrens who was awarded a Trainee Development Program Award from the Society for Neuroscience. She will be presenting a poster on her recent data using hair clips to collect high quality EEG data regardless of hair type.
