@@ -13,13 +13,13 @@ redirect_from:
 <h2>Sarah Haigh</h2>
 <img src="../images/Resized/Me.png" width="200" style="float: right"/>
 <p> <ul>
-<li> BS (hons) Psychology - University of Bristol, UK (2009)</li>
-<li> PhD Vision Science - University of Essex, UK (2012)</li>
-<li> Post-doctoral Researcher - Carnegie Mellon University (2013)</li>
-<li> Post-doctoral Associate - University of Pittsburgh School of Medicine (2014)</li>
-<li> Research Scientist - Carnegie Mellon University (2017)</li>
-<li> Assistant Professor - University of Nevada, Reno (2018)</li>
-<li> Associate Professor - University of Nevada, Reno (2024)</li>
+<li>BS (hons) Psychology - University of Bristol, UK (2009)</li>
+<li>PhD Vision Science - University of Essex, UK (2012)</li>
+<li>Post-doctoral Researcher - Carnegie Mellon University (2013)</li>
+<li>Post-doctoral Associate - University of Pittsburgh School of Medicine (2014)</li>
+<li>Research Scientist - Carnegie Mellon University (2017)</li>
+<li>Assistant Professor - University of Nevada, Reno (2018)</li>
+<li>Associate Professor - University of Nevada, Reno (2024)</li>
 </ul></p>
 <br>
 
@@ -27,12 +27,12 @@ redirect_from:
 <h2>Wendy Alfonso Torrens</h2>
 <img src="../images/Resized/Wendy.png" width="200" style="float: right"/>
 <p> <ul>
-<li> BA Psychology with a minor in Spanish - Colorado State University-Pueblo</li>
-<li> MS Neuroscience - University of Nevada, Reno</li>
-<li> Currently a PhD student in Neuroscience at the University of Nevada, Reno</li>
+<li>BA Psychology with a minor in Spanish - Colorado State University-Pueblo</li>
+<li>MS Neuroscience - University of Nevada, Reno</li>
+<li>Currently a PhD student in Neuroscience at the University of Nevada, Reno</li>
 </ul></p>
-<p> My research focuses on contributing to the understanding of the neurobiological mechanisms underlying the sensory experience of individuals with schizophrenia and autism. I also strive to improve neurophysiological methods (e.g., electroencephalography) by developing more racially inclusive materials.</p>
-<p> Wendy was awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types. This work is already preregistered <a href="here">https://doi.org/10.17605/OSF.IO/AXU2C</a> and will be updated with tools and information as the project progresses.</p>
+<p>My research focuses on contributing to the understanding of the neurobiological mechanisms underlying the sensory experience of individuals with schizophrenia and autism. I also strive to improve neurophysiological methods (e.g., electroencephalography) by developing more racially inclusive materials.</p>
+<p>Wendy was awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types. This work is already preregistered <a href="here">https://doi.org/10.17605/OSF.IO/AXU2C</a> and will be updated with tools and information as the project progresses.</p>
 <b>Publications </b>
 <p><ul>
 <li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li> 
@@ -57,10 +57,10 @@ redirect_from:
 <h2>Carson Smith</h2>
 <img src="../images/Resized/Carson.png" width="200" style="float: right"/>
 <p> <ul>
-<li> BS Psychology and Neuroscience - Northeastern University, MA</li>
-<li> Currently a PhD student in Neuroscience at the University of Nevada, Reno</li>
+<li>BS Psychology and Neuroscience - Northeastern University, MA</li>
+<li>Currently a PhD student in Neuroscience at the University of Nevada, Reno</li>
 </ul></p>
-<p> My research interests include exploring the mechanisms behind our sensory systems that permit complex perception of the world around us. By examining the limits of our visual and auditory systems, we can begin to paint a clearer picture of how various stimuli shape our environmental perception.</p>
+<p>My research interests include exploring the mechanisms behind our sensory systems that permit complex perception of the world around us. By examining the limits of our visual and auditory systems, we can begin to paint a clearer picture of how various stimuli shape our environmental perception.</p>
 <p>Specifically, my current project investigates how sensory sensitivity changes over the migraine cycle with the aim to identify biomarkers that signal approaching migraine-onset. While there is a lot of variability across migraineurs, a common symptom is sensitivity to light (photophobia) and/or sound (phonophobia). Using electroencephalography (EEG), electroretinography (ERG), and auditory brainstem response (ABR), my research contrasts the effects of sensory stimuli on migraineurs and headache free individuals from the retina and brainstem to the visual and auditory cortices. </p>
 <b>Conference Presentations </b>
 <p><ul>
@@ -94,26 +94,29 @@ redirect_from:
 <h2>Alayna McGuire</h2>
 <img src="../images/Resized/Alayna.png" width="200" style="float: right"/>
 <p> Hello! My name is Alayna McGuire and I am a Junior pursuing a Neuroscience B.S. I love to travel, cook/bake, and try new things, and despite my broad interest in the Neuroscience field, I have a particular regard for cognitive neuroscience. As for my research interests, I want to study more on sensory processing, specifically deficits for people with neurological disorders. I have found a passion in studying neuroscience through the research I have done in the past, and what I am doing now. My goal is to explore and learn what I can through my research, and potentially pursue an MD/PhD program or a PhD in Neuroscience working at a company's research lab. I hope to make a valuable contribution to the Neuroscience community, and help people with these issues through my discoveries. </p>
+<p>Alayna is currently funded by the ENDURE program</p>
 <br>
 
 <h2>Sidney Hulsey</h2>
 <img src="../images/Resized/Sid.png" width="200" style="float: right"/>
 <p> Hi! I am a junior at the University of Nevada, Reno studying Neuroscience with a minor/certificate in Gerontology. Previously, I worked in Dr. Piantadosi’s Computation and Language Lab for a summer studying psychophysical modeling techniques for approximate number tasks. My research interests are in sensory processing and neurodevelopmental disorders. I love working with students on campus with IDDs and other disabilities with the P2I and TAPDINTO-STEM programs. After graduating, I plan to apply to an M.D.-Ph.D. program where I can further pursue my interests. </p>
+<p>Sid is currently funded by the ENDURE program</p>
 <br>
 
 <h2>Isabella Durda</h2>
 <img src="../images/Resized/Izzy.png" width="200" style="float: right"/>
-<p> I am currently a junior at UNR majoring in Psychology and doing a minor/certificate program in gerontology. While I’ve helped in a lab before coming to UNR, working with Dr. Haigh is the first official lab experience I have had. I am excited to have the opportunity to learn new things and grow throughout this journey. As of right now, I want to become an occupational therapist specializing in pediatrics because I am passionate about helping people live their lives to the fullest and love working with kids!</p>
+<p>I am currently a junior at UNR majoring in Psychology and doing a minor/certificate program in gerontology. While I’ve helped in a lab before coming to UNR, working with Dr. Haigh is the first official lab experience I have had. I am excited to have the opportunity to learn new things and grow throughout this journey. As of right now, I want to become an occupational therapist specializing in pediatrics because I am passionate about helping people live their lives to the fullest and love working with kids!</p>
+<p>Izzy was funded by the PREP program and a Nevada Undergraduate Research Award</p>
 <br>
 
 <h1>Former Graduate Students</h1>
 <h2>Stephanie Otto</h2>
 <img src="../images/Resized/Steph.png" width="200" style="float: right"/>
 <p> <ul>
-<li> BA Psychology - University of Hawaii, West Oahu (2015)</li>
-<li> MS Cognitive Brain Science - University of Nevada, Reno (2020)</li>
-<li> PhD Cognitive Brain Science - University of Nevada, Reno (2022)</li>
-<li> Currently a post-doctoral researcher at the Naval Medical Research Unit, Dayton, OH</li>
+<li>BA Psychology - University of Hawaii, West Oahu (2015)</li>
+<li>MS Cognitive Brain Science - University of Nevada, Reno (2020)</li>
+<li>PhD Cognitive Brain Science - University of Nevada, Reno (2022)</li>
+<li>Currently a post-doctoral researcher at the Naval Medical Research Unit, Dayton, OH</li>
 </ul></p>
 <b>Publications</b>
 <p> Simon Whitton, Jung Min Kim, Alexandra N. Scurry, Stephanie Otto, Xiaowei Zhuang, Dietman Cordes, & Fang Jiang. (2021). Multisensory temporal processing in early deaf. <i>Neuropsychologia, 163,</i> 108069. <a href="https://doi.org/10.1016/j.neuropsychologia.2021.108069">https://doi.org/10.1016/j.neuropsychologia.2021.108069</a>.</p>
@@ -127,21 +130,21 @@ redirect_from:
 <h2>Marena Manierka</h2>
 <img src="../images/Resized/Marena.png" width="200" style="float: right"/>
 <p> <ul>
-<li> BS (hons) Neuroscience & Psychology - University of Toronto, Canada (2013)</li>
-<li> PhD Neuroscience - University of Nevada, Reno (2021)</li>
-<li> Currently a medical writer for BOLDSCIENCE</li>
+<li>BS (hons) Neuroscience & Psychology - University of Toronto, Canada (2013)</li>
+<li>PhD Neuroscience - University of Nevada, Reno (2021)</li>
+<li>Currently a medical writer for BOLDSCIENCE</li>
 </ul></p>
 <b>Publications</b>
-<p> Marena S Manierka, Rachel Rezaei, Samantha Palacios, Sarah M Haigh, Jeffrey J Hutsler (2021). In the mood to be social: affective state influences facial emotion recognition in healthy adults. <i>Emotion.</i> <a href="https://doi.org/10.1037/emo0000999">https://doi.org/10.1037/emo0000999</a>.</p>
+<p>Marena S Manierka, Rachel Rezaei, Samantha Palacios, Sarah M Haigh, Jeffrey J Hutsler (2021). In the mood to be social: affective state influences facial emotion recognition in healthy adults. <i>Emotion.</i> <a href="https://doi.org/10.1037/emo0000999">https://doi.org/10.1037/emo0000999</a>.</p>
 
 <h2>Lisa Lindquist</h2>
 <img src="../images/Resized/Lisa.png" width="200" style="float: right"/>
 <p> <ul>
-<li> BS Speech and Hearing Science - Western Washington University, Bellingham, WA</li>
-<li> MS Speech-Language Pathology - Rush University, Chicago, IL</li>
+<li>BS Speech and Hearing Science - Western Washington University, Bellingham, WA</li>
+<li>MS Speech-Language Pathology - Rush University, Chicago, IL</li>
 </ul></p>
 <b>Publications</b>
-<p> Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visual discomfort and chromaticity separation on neural processing during a visual task. <i>Vision Research. 182,</i> 27-35. <a href="https://doi.org/10.1016/j.visres.2021.01.007">https://doi.org/10.1016/j.visres.2021.01.007</a>.</p>
+<p>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visual discomfort and chromaticity separation on neural processing during a visual task. <i>Vision Research. 182,</i> 27-35. <a href="https://doi.org/10.1016/j.visres.2021.01.007">https://doi.org/10.1016/j.visres.2021.01.007</a>.</p>
 <b>Conference Presentations </b>
 <p><ul>
 <li>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (May 2020). The effect of chromaticity separation on neural processing during a visual task. Poster presented at virtual Vision Sciences Society (vVSS). <i>Journal of Vision 20</i>(11), 828-828. <a href="https://doi.org/10.1167/jov.20.11.828">https://doi.org/10.1167/jov.20.11.828</a>. </li>
@@ -152,11 +155,11 @@ redirect_from:
 <h2>Gregory McIntire</h2>
 <img src="../images/Resized/Greg.png" width="200" style="float: right"/>
 <p> <ul>
-<li> BA Psychology & Biology - University of Nevada, Las Vegas (2018)</li>
-<li> MS Neuroscience - University of Nevada, Reno</li>
+<li>BA Psychology & Biology - University of Nevada, Las Vegas (2018)</li>
+<li>MS Neuroscience - University of Nevada, Reno</li>
 </ul></p>
 <b>Publications</b>
-<p> Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visual discomfort and chromaticity separation on neural processing during a visual task. <i>Vision Research. 182,</i> 27-35. <a href="https://doi.org/10.1016/j.visres.2021.01.007">https://doi.org/10.1016/j.visres.2021.01.007</a>.</p>
+<p>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visual discomfort and chromaticity separation on neural processing during a visual task. <i>Vision Research. 182,</i> 27-35. <a href="https://doi.org/10.1016/j.visres.2021.01.007">https://doi.org/10.1016/j.visres.2021.01.007</a>.</p>
 <b>Conference Presentations </b>
 <p><ul>
 <li>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (May 2020). The effect of chromaticity separation on neural processing during a visual task. Poster presented at virtual Vision Sciences Society (vVSS). <i>Journal of Vision 20</i>(11), 828-828. <a href="https://doi.org/10.1167/jov.20.11.828">https://doi.org/10.1167/jov.20.11.828</a>. </li>
@@ -169,9 +172,9 @@ redirect_from:
 <h2>Caitlin Laycox</h2>
 <img src="../images/Resized/Caitlin.png" width="200" style="float: right"/>
 <p> <ul>
-<li> BS Psychology - Griffith University Australia (2018)</li>
-<li> Honour's from Southern Cross University (2019)</li>
-<li> Currently a PhD student in Psychology at Southern Cross University (started 2020)</li>
+<li>BS Psychology - Griffith University Australia (2018)</li>
+<li>Honour's from Southern Cross University (2019)</li>
+<li>Currently a PhD student in Psychology at Southern Cross University (started 2020)</li>
 </ul></p>
 <b>Publications</b>
 <p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>.
@@ -181,8 +184,8 @@ redirect_from:
 <h2>Mackenzie Montero</h2>
 <img src="../images/Resized/Mackenzie.png" width="200" style="float: right"/>
 <p> <ul>
-<li> BS-MD Neuroscience - University of Nevada, Reno (2021)</li>
-<li> Currently a medical student at the University of Nevada, Reno</li>
+<li>BS-MD Neuroscience - University of Nevada, Reno (2021)</li>
+<li>Currently a medical student at the University of Nevada, Reno</li>
 </ul></p>
 <b>Publications</b>
 <p>Sarah M Haigh, Anna M Haugland, Lourdes M Mendoza, & Mackenzie Montero (2023). Auditory discomfort in visually sensitive individuals. <i>Frontiers in Psychology: Perception Science. 14,</i> 1126481. <a href="https://doi.org/10.3389/fpsyg.2023.1126481">https://doi.org/10.3389/fpsyg.2023.1126481</a>.</p>
@@ -192,9 +195,9 @@ redirect_from:
 <h2>Alexandrea Kilgore-Gomez</h2>
 <img src="../images/Resized/Alex.png" width="200" style="float: right"/>
 <p><ul>
-<li> BS Neuroscience - University of Nevada, Reno (2020)</li>
-<li> NIH IRTA postbaccalaureate in Dr. Sheerena Rahman's lab</li>
-<li> Currently a medical student at the University of Nevada, Reno</li>
+<li>BS Neuroscience - University of Nevada, Reno (2020)</li>
+<li>NIH IRTA postbaccalaureate in Dr. Sheerena Rahman's lab</li>
+<li>Currently a medical student at the University of Nevada, Reno</li>
 </ul></p>
 <b>Publications</b>
 <p>Sarah M Haigh†, Marian E Berryhill†, Alexandrea Kilgore-Gomez, & Michael Dodd (2023). Working memory and sensory memory in schizotypy: an avenue for understanding schizophrenia? (†Joint first authors). <i>European Journal of Neuroscience, 57,</i> 1577-1596. <a href="https://doi.org/10.1111/ejn.15961">https://doi.org/10.1111/ejn.15961</a>.
@@ -216,27 +219,29 @@ redirect_from:
 
 <h2>Kensal Coudriet</h2>
 <img src="../images/Resized/Kensal.png" width="100" style="float: right"/>
-<p> BS Neuroscience - University of Nevada, Reno (2025)</p>
+<p>BS Neuroscience - University of Nevada, Reno (2025)</p>
+<p>Kensal was funded by the ENDURE program</p>
 <br>
 
 <h2>Yasmin Perry</h2>
 <img src="../images/Resized/Yasmin.png" width="100" style="float: right"/>
-<p> BA Psychology - University of Nevada, Reno (2025)</p>
+<p>BA Psychology - University of Nevada, Reno (2025)</p>
 <br>
 
 <h2>Amber Thaxton</h2>
 <img src="../images/Resized/Amber.png" width="100" style="float: right"/>
-<p> BS Neuroscience - University of Nevada, Reno (2024)</p>
+<p>BS Neuroscience - University of Nevada, Reno (2024)</p>
 <br>
 
 <h2>Angelina Solorzano-Zamora</h2>
 <img src="../images/Resized/Angelina.png" width="100" style="float: right"/>
-<p> BS Psychology - University of Nevada, Reno (2024)</p>
+<p>BS Psychology - University of Nevada, Reno (2024)</p>
 <br>
 
 <h2>Michelle Ruiz</h2>
 <img src="../images/Resized/Michelle.png" width="100" style="float: right"/>
-<p> BS Psychology - University of Nevada, Reno (2024)</p>
+<p>BS Psychology - University of Nevada, Reno (2024)</p>
+<p>Michelle was funded by the ENDURE program</p>
 <b>Conference Presentations </b>
 <p><ul>
 <li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E Berryhill & Sarah M Haigh (June 2024). Anomalous multisensory cortical excitability in Schizotypy. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
@@ -246,17 +251,17 @@ redirect_from:
 
 <h2>Hailey Snook</h2>
 <img src="../images/Resized/HaileyS.png" width="100" style="float: right"/>
-<p> BS Psychology - University of Nevada, Reno (2024)</p>
+<p>BS Psychology - University of Nevada, Reno (2024)</p>
 <br>
 
 <h2>Jackie Vallo</h2>
 <img src="../images/Resized/Jackie.png" width="100" style="float: right"/>
-<p> BS Microbiology & Immunology - University of Nevada, Reno (2023)</p>
+<p>BS Microbiology & Immunology - University of Nevada, Reno (2023)</p>
 <br>
 
 <h2>Rasia Yankaway</h2>
 <img src="../images/Resized/Rasia.png" width="100" style="float: right"/>
-<p> BS Psychology - University of Nevada, Reno (2024)</p>
+<p>BS Psychology - University of Nevada, Reno (2024)</p>
 <b>Conference Presentations </b>
 <p><ul>
 <li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E Berryhill & Sarah M Haigh (June 2024). Anomalous multisensory cortical excitability in Schizotypy. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
@@ -266,7 +271,7 @@ redirect_from:
 
 <h2>Shane Trivitt</h2>
 <img src="../images/Resized/Shane.png" width="100" style="float: right"/>
-<p> BS Psychology - University of Nevada, Reno (2024)</p>
+<p>BS Psychology - University of Nevada, Reno (2024)</p>
 <b>Conference Presentations </b>
 <p><ul>
 <li>Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (June 2024). Localizing Visual Allodynia in Migraine. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
@@ -274,16 +279,16 @@ redirect_from:
 
 <h2>Lindsey Bevilacqua</h2>
 <img src="../images/Resized/LindseyB.png" width="100" style="float: right"/>
-<p> BS Psychology - University of Nevada, Reno (2024)</p>
+<p>BS Psychology - University of Nevada, Reno (2024)</p>
 <br>
 
 <h2>Savanna Blanchette</h2>
 <img src="../images/Resized/Savanna.png" width="100" style="float: right;"/>
-<p> BA Psychology - University of Nevada, Reno (2023)</p>
+<p>BA Psychology - University of Nevada, Reno (2023)</p>
 <br>
 <h2>Matthew Cummings</h2>
 <img src="../images/Resized/Matthew.png" width="100" style="float: right;"/>
-<p> BS Neuroscience - University of Nevada, Reno (2023)</p>
+<p>BS Neuroscience - University of Nevada, Reno (2023)</p>
 <b>Conference Presentations </b>
 <p>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>.</p>
 <h2>Mariah Meagher</h2>
@@ -304,13 +309,15 @@ redirect_from:
 <h2>Lena Kemmelmeier</h2>
 <img src="../images/Resized/Lena.png" width="100" style="float: right;"/>
 <p>BA Psychology - University of Nevada, Reno (2025)</p>
+<p>Currently a graduate student at San Diego State University</p>
+<p>Lena was funded by our R15 AREA grant from NIMH</p>
 <b>Publications</b>
-<p><ul>
-<li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li> 
+<p>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></p>
 <br>
 <h2>Karina Kneeland</h2>
 <img src="../images/Resized/Karina.png" width="100" style="float: right;"/>
 <p>BA Psychology - University of Nevada, Reno (2024)</p>
+<p>Karina was funded by our R15 AREA grant from NIMH</p>
 <br>
 <h2>Wesley Chen</h2>
 <img src="../images/Resized/Wesley.png" width="100" style="float: right;"/>
@@ -348,7 +355,7 @@ redirect_from:
 <h2>Tabatha Walford</h2>
 <img src="../images/Resized/Tabatha.png" width="100" style="float: right;"/>
 <p>BA Psychology - Honors College, University of Nevada, Reno (2021)</p>
-<p>Received a Nevada Undergraduate Research Award (2021)</p>
+<p>Tabatha was funded by a Nevada Undergraduate Research Award</p>
 <b>Publications</b>
 <p>Sarah M Haigh, Tabatha P Walford, & Patricia Brosseau (2021). Heart rate variability in schizophrenia and autism. <i>Frontiers in Psychiatry: Schizophrenia. 12,</i> 2129. <a href="https://doi.org/10.3389/fpsyt.2021.760396">https://doi.org/10.3389/fpsyt.2021.760396</a>.</p>
 <h2>Lourdes Mendoza</h2>
@@ -397,6 +404,7 @@ redirect_from:
 
 <h2>Pat Brosseau</h2>
 <p>BS Psychology - Carnegie Mellon University (2020)</p>
+<p>Funded by our NARSAD award</p>
 <b>Publications </b>
 <p><ul>
 <li>Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury & Marlene Behrmann (2023). Assessing Trial-to-Trial Variability in Auditory ERPs in Autism and Schizophrenia. S.I.: Developmental Approach and Targeted Treatment of Sensory Alterations. <i>Journal of Autism and Developmental Disorders. 53</i>(12), 4856-4871. <a href="https://doi.org/10.1007/s10803-022-05771-0">https://doi.org/10.1007/s10803-022-05771-0</a>.</li> 
