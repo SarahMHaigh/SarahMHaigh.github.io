@@ -70,6 +70,11 @@ redirect_from:
 <br>
 
 <h1>Undergraduate and Volunteer Research Assistants</h1>
+<h2>Danielle Nochera</h2>
+<img src="../images/Resized/Danielle.png" width="200" style="float: right"/>
+<p>Hi! I am a sophomore studying Psychological Science with a minor in Philosophy at UNR. I am most interested in cognitive psychology and am excited to be in the lab learning new things, especially how to go through the data collection process. I love to travel, cook, and express my creativity through journaling, jewelry making and glassblowing! I am passionate about understanding cognitive processing and plan to one day go into medicinal assisted studies!</p>
+<br>
+
 <h2>Marcos Moreno Cervantes</h2>
 <img src="../images/Resized/Marcos.png" width="200" style="float: right"/>
 <p>Hey, my name is Marcos Moreno Cervantes. I am a Freshman at the University of Nevada, Reno, majoring in neuroscience. I love learning about the mind and finding ways to use that information to optimize my life. Along with this, I enjoy weightlifting, cinematography, and mixing music during my free time. I have no background in research but recently got accepted into PREP with Dr. Haigh as my mentor. I aspire to become a psychiatrist, where I will gain a better understanding of the mind and body to not only help those with psychiatric disorders but also neurotypical individuals.</p>

@@ -48,6 +48,10 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>Oct 2025</b> - We had another CBS picnic with yummy food from Mari Chuy in midtown
+
+<img src="../images/CBSpicnic2025.jpeg" width="200"/>
+
 <b>Sept 2025</b> - Carson, Sid, and I will be attending and presenting at this year's Auditory Perception and Cognition Annual Meeting [(APCAM)](https://apcsociety.org/apcam-call.html). If you're attending, please drop by to say hello.
 
 <b>Aug 2025</b> - Welcome to the lab, Leo Lopez and Danielle Nochera!
