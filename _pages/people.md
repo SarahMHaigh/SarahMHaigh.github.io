@@ -35,7 +35,7 @@ redirect_from:
 <p> Wendy was awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types. This work is already preregistered <a href="here">https://doi.org/10.17605/OSF.IO/AXU2C</a> and will be updated with tools and information as the project progresses.</p>
 <b>Publications </b>
 <p><ul>
-<li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (accepted). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry</i>. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li> Early access link <a href="here">https://www.tandfonline.com/eprint/AMVF9BPFTMGY866TXTQH/full?target=10.1080/13546805.2025.2464728</a></li>
+<li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li> 
 <li>Wendy Torrens (2024). Pattern Glare Sensitivity: Illusions and Sensations. <i>figshare.</i> Figure. <a href="https://doi.org/10.6084/m9.figshare.26852950.v1">https://doi.org/10.6084/m9.figshare.26852950.v1</a>.</li>
 <li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2024). Pattern glare sensitivity distinguishes subclinical autism and schizotypy. <i>Cognitive Neuropsychiatry. 29</i>(3), 155-175. <a href="https://doi.org/10.1080/13546805.2024.2335103">https://doi.org/10.1080/13546805.2024.2335103</a>.</li>
 <li>Wendy A Torrens†, Jenna N Pablo†, Jorja Shires, Sarah M Haigh & Marian E Berryhill (2022). People with High Schizotypy Experience More Illusions in the Pattern Glare Test: Consistent with the Hyperexcitability Hypothesis († co-first authors). <i>European Journal of Neuroscience,</i> 1-12. <a href="https://doi.org/10.1111/ejn.15886">https://doi.org/10.1111/ejn.15886</a>.</li> 
@@ -80,16 +80,6 @@ redirect_from:
 <p>Hey, my name is Marcos Moreno Cervantes. I am a Freshman at the University of Nevada, Reno, majoring in neuroscience. I love learning about the mind and finding ways to use that information to optimize my life. Along with this, I enjoy weightlifting, cinematography, and mixing music during my free time. I have no background in research but recently got accepted into PREP with Dr. Haigh as my mentor. I aspire to become a psychiatrist, where I will gain a better understanding of the mind and body to not only help those with psychiatric disorders but also neurotypical individuals.</p>
 <br>
 
-<h2>Cheyenne McCormick</h2>
-<img src="../images/Resized/Cheyenne.png" width="200" style="float: right"/>
-<p>Hello! My name is Cheyenne McCormick and I am a junior pursuing a B.S. in Psychology, minoring in sociology. In my free time I enjoy traveling and baking. I am also a cheerleader for the University. I am hoping to have a career in clinical psychology one day. I do not have much prior experience with experimental psychology, but I am eager to learn and grow within this lab. In my time with Professor Haigh and Wendy Alfonso, I hope to expand my knowledge on experimentation; Specifically how to collect and interpret data.</p>
-<br>
-
-<h2>Ruby Snyder</h2>
-<img src="../images/Resized/Ruby.png" width="200" style="float: right"/>
-<p>Hello! I’m Ruby and I am a senior majoring in Psychology with a minor in Art. I hope to one day become a practicing clinical psychologist working with clients who have suffered from traumatic events. While the clinical side of psychology is my ultimate passion, I love the community environment of academic research and getting to help others through the pursuit of knowledge. I am particularly excited to work in the Haigh lab due to their work on sensory sensitivity and the limitations of our senses.</p>
-<br>
-
 <h2>Neville Roy</h2>
 <img src="../images/Resized/Neville.png" width="200" style="float: right"/>
 <p> I am a sophomore studying Neuroscience at UNR. I have always been fascinated with the brain and I'm glad Dr.Haigh gave me this opportunity. My research interests are everything Migraine because I have so many friends and family that have the condition. After graduating, I plan to join an MD program and become a psychiatrist.</p>
@@ -98,6 +88,7 @@ redirect_from:
 <h2>Mia Price</h2>
 <img src="../images/Resized/Mia.png" width="200" style="float: right"/>
 <p> Hey! I am a junior pursuing a B.S. in Psychology, minoring in Black Studies and Social Justice. Although I do not have very much neuroscience experience through this lab I'm hoping to get more exposure to everything neuroscience! I have not yet decided if I want to go down a clinical or research career path however, I am sure I want to help communities of color and more specifically the Black community with whatever work I do. </p>
+<p>Mia is currently funded by a Nevada Undergraduate Research Award</p>
 <br>
 
 <h2>Alayna McGuire</h2>
@@ -109,11 +100,6 @@ redirect_from:
 <img src="../images/Resized/Sid.png" width="200" style="float: right"/>
 <p> Hi! I am a junior at the University of Nevada, Reno studying Neuroscience with a minor/certificate in Gerontology. Previously, I worked in Dr. Piantadosi’s Computation and Language Lab for a summer studying psychophysical modeling techniques for approximate number tasks. My research interests are in sensory processing and neurodevelopmental disorders. I love working with students on campus with IDDs and other disabilities with the P2I and TAPDINTO-STEM programs. After graduating, I plan to apply to an M.D.-Ph.D. program where I can further pursue my interests. </p>
 <br>
-
-<h2>Kate Pellegrino</h2>
-<img src="../images/Resized/KateP.png" width="200" style="float: right"/>
-<p> I am a sophomore at the University of Nevada, Reno studying Neuroscience. I am excited to learn about different laboratory techniques that can help us have a better understanding of the brain like EEG, ERG, and ABR. Additionally interested in how a lab runs and works as a whole.</p>
-<br><br><br>
 
 <h2>Isabella Durda</h2>
 <img src="../images/Resized/Izzy.png" width="200" style="float: right"/>
@@ -216,6 +202,18 @@ redirect_from:
 <br>
 
 <h1>Former Research Assistants</h1>
+<h2>Kate Pellegrino</h2>
+<img src="../images/Resized/KateP.png" width="100" style="float: right"/>
+<br>
+
+<h2>Cheyenne McCormick</h2>
+<img src="../images/Resized/Cheyenne.png" width="100" style="float: right"/>
+<br>
+
+<h2>Ruby Snyder</h2>
+<img src="../images/Resized/Ruby.png" width="100" style="float: right"/>
+<br>
+
 <h2>Kensal Coudriet</h2>
 <img src="../images/Resized/Kensal.png" width="100" style="float: right"/>
 <p> BS Neuroscience - University of Nevada, Reno (2025)</p>
