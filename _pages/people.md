@@ -303,11 +303,14 @@ redirect_from:
 
 <h2>Lena Kemmelmeier</h2>
 <img src="../images/Resized/Lena.png" width="100" style="float: right;"/>
-<p>Studying BA Psychology - University of Nevada, Reno</p>
+<p>BA Psychology - University of Nevada, Reno (2025)</p>
+<b>Publications</b>
+<p><ul>
+<li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li> 
 <br>
 <h2>Karina Kneeland</h2>
 <img src="../images/Resized/Karina.png" width="100" style="float: right;"/>
-<p>Studying BA Psychology - University of Nevada, Reno</p>
+<p>BA Psychology - University of Nevada, Reno (2024)</p>
 <br>
 <h2>Wesley Chen</h2>
 <img src="../images/Resized/Wesley.png" width="100" style="float: right;"/>
