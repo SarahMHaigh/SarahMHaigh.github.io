@@ -83,6 +83,7 @@ redirect_from:
 <h2>Marcos Moreno Cervantes</h2>
 <img src="../images/Resized/Marcos.png" width="200" style="float: right"/>
 <p>Hey, my name is Marcos Moreno Cervantes. I am a Freshman at the University of Nevada, Reno, majoring in neuroscience. I love learning about the mind and finding ways to use that information to optimize my life. Along with this, I enjoy weightlifting, cinematography, and mixing music during my free time. I have no background in research but recently got accepted into PREP with Dr. Haigh as my mentor. I aspire to become a psychiatrist, where I will gain a better understanding of the mind and body to not only help those with psychiatric disorders but also neurotypical individuals.</p>
+<p>Marcos was funded by the Nevada PREP program</p>
 <br>
 
 <h2>Neville Roy</h2>
@@ -111,7 +112,7 @@ redirect_from:
 <h2>Isabella Durda</h2>
 <img src="../images/Resized/Izzy.png" width="200" style="float: right"/>
 <p>I am currently a junior at UNR majoring in Psychology and doing a minor/certificate program in gerontology. While I’ve helped in a lab before coming to UNR, working with Dr. Haigh is the first official lab experience I have had. I am excited to have the opportunity to learn new things and grow throughout this journey. As of right now, I want to become an occupational therapist specializing in pediatrics because I am passionate about helping people live their lives to the fullest and love working with kids!</p>
-<p>Izzy was funded by the PREP program and a Nevada Undergraduate Research Award</p>
+<p>Izzy was funded by the Nevada PREP program and a Nevada Undergraduate Research Award</p>
 <br>
 
 <h1>Former Graduate Students</h1>
