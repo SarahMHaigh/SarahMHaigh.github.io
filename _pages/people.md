@@ -70,6 +70,11 @@ redirect_from:
 <br>
 
 <h1>Undergraduate and Volunteer Research Assistants</h1>
+<h2>Leo Lopez</h>
+<img src="../images/Resized/Leo.png" width="200" style="float: right"/>
+<p>Hello! I’m Leo Lopez and I am a senior majoring in Neuroscience with a pre-med focus! As I navigate through my pre-med journey I hope to become an anesthesiologist. Outside of school I really enjoy soccer, rock climbing, and nature. I’ve always been super interested in anything brain related as it’s so interesting to learn about the mind! I'm very grateful for Dr. Haigh and Carson for giving me the opportunity to be part of a great team within the lab and am excited to learn under Carson.</p>
+<br>
+
 <h2>Danielle Nochera</h2>
 <img src="../images/Resized/Danielle.png" width="200" style="float: right"/>
 <p>Hi! I am a sophomore studying Psychological Science with a minor in Philosophy at UNR. I am most interested in cognitive psychology and am excited to be in the lab learning new things, especially how to go through the data collection process. I love to travel, cook, and express my creativity through journaling, jewelry making and glassblowing! I am passionate about understanding cognitive processing and plan to one day go into medicinal assisted studies!</p>
