@@ -56,7 +56,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>Dec 2025</b> - Mia Price, Sid Hulsey, Alayna McGuire, and Daniel Caringal presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session.
 
-<img src="../images/MiaWPDf25.jpg" width="200"/> <img src="../images/SidWPDf25.jpeg" width="200"/> <img src="../images/AlaynaWPDf25.jpeg" width="100"/> <img src="../images/DanielWPDf25.jpeg" width="100"/>
+<img src="../images/MiaWPDf25.jpg" width="200"/> <img src="../images/SidWPDf25.jpeg" width="200"/> <img src="../images/AlaynaWPDf25.jpeg" width="120"/> <img src="../images/DanielWPDf25.jpeg" width="150"/>
 
 <b>Nov 2025</b> - Wendy presented the latest findings in her hair and EEG study at the Society for Neuroscience conference in San Diego.
 
