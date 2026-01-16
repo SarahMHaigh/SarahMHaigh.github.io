@@ -37,8 +37,7 @@ redirect_from:
 <p>Wendy was awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types. This work is already preregistered <a href="here">https://doi.org/10.17605/OSF.IO/AXU2C</a> and will be updated with tools and information as the project progresses.</p>
 <b>Publications </b>
 <p><ul>
-<li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2025). Perturbed sensory memory associated with schizotypy symptom load. *Schizophrenia Research, 287*, 129-137. <a href="https://doi.org/10.1016/j.schres.2025.12.001">https://doi.org/10.1016/j.schres.2025.12.001).</a></li>
-<li>Marian E Berryhill, Jenna N Pablo, Lena L Kemmelmeier, Wendy A Torrens & Sarah M Haigh (Nov 2025). Barking up the wrong tree: Visual, not auditory, sensitivity differences in high schizotypy. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
+<li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2025). Perturbed sensory memory associated with schizotypy symptom load. <i>Schizophrenia Research, 287</i>, 129-137. <a href="https://doi.org/10.1016/j.schres.2025.12.001">https://doi.org/10.1016/j.schres.2025.12.001).</a></li>
 <li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li> 
 <li>Wendy Torrens (2024). Pattern Glare Sensitivity: Illusions and Sensations. <i>figshare.</i> Figure. <a href="https://doi.org/10.6084/m9.figshare.26852950.v1">https://doi.org/10.6084/m9.figshare.26852950.v1</a>.</li>
 <li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2024). Pattern glare sensitivity distinguishes subclinical autism and schizotypy. <i>Cognitive Neuropsychiatry. 29</i>(3), 155-175. <a href="https://doi.org/10.1080/13546805.2024.2335103">https://doi.org/10.1080/13546805.2024.2335103</a>.</li>
@@ -47,6 +46,7 @@ redirect_from:
 <b>Conference Presentations </b>
 <p><ul>
 <li>Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
+<li>Marian E Berryhill, Jenna N Pablo, Lena L Kemmelmeier, Wendy A Torrens & Sarah M Haigh (Nov 2025). Barking up the wrong tree: Visual, not auditory, sensitivity differences in high schizotypy. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
 <li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E Berryhill & Sarah M Haigh (June 2024). Anomalous multisensory cortical excitability in Schizotypy. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
 <li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster presented at the Society of Biological Psychiatry conference, Austin, TX, USA. SOBP travel award to Wendy Alfonso.</li>
 <li>Lena L Kemmelmeier, Jenna N Pablo, Jorja Shires, Hector Arciniega, Wendy A Torrens, Sarah M Haigh, Marian E Berryhill (April 2024). Reduced mismatch negativity in college students with a history of mTBI. Presentation at the Cognitive Neurosciences Society conference, Toronto, ON, Canada.</li>
@@ -97,8 +97,8 @@ redirect_from:
 <p> Hey! I am a junior pursuing a B.S. in Psychology, minoring in Black Studies and Social Justice. Although I do not have very much neuroscience experience through this lab I'm hoping to get more exposure to everything neuroscience! I have not yet decided if I want to go down a clinical or research career path however, I am sure I want to help communities of color and more specifically the Black community with whatever work I do. </p>
 <p>Mia was funded by a Nevada Undergraduate Research Award</p>
 <b>Conference Presentations </b>
-<p><ul>
-<li>Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
+<p>
+Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.
 <br>
 
 <h2>Alayna McGuire</h2>
@@ -106,8 +106,8 @@ redirect_from:
 <p> Hello! My name is Alayna McGuire and I am a Junior pursuing a Neuroscience B.S. I love to travel, cook/bake, and try new things, and despite my broad interest in the Neuroscience field, I have a particular regard for cognitive neuroscience. As for my research interests, I want to study more on sensory processing, specifically deficits for people with neurological disorders. I have found a passion in studying neuroscience through the research I have done in the past, and what I am doing now. My goal is to explore and learn what I can through my research, and potentially pursue an MD/PhD program or a PhD in Neuroscience working at a company's research lab. I hope to make a valuable contribution to the Neuroscience community, and help people with these issues through my discoveries. </p>
 <p>Alayna is currently funded by the ENDURE program</p>
 <b>Conference Presentations </b>
-<p><ul>
-<li>Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Flicker and its effect on reading speed and cognition. Poster presented at the Undergraduate Just-In-Time session at the Vision Sciences Society conference, St Pete Beach, FL, USA.</li>
+<p>
+Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Flicker and its effect on reading speed and cognition. Poster presented at the Undergraduate Just-In-Time session at the Vision Sciences Society conference, St Pete Beach, FL, USA.
 <br>
 
 <h2>Sidney Hulsey</h2>
@@ -117,7 +117,7 @@ redirect_from:
 <b>Conference Presentations </b>
 <p><ul>
 <li>Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Flicker and its effect on reading speed and cognition. Poster presented at the Undergraduate Just-In-Time session at the Vision Sciences Society conference, St Pete Beach, FL, USA.</li>
-<li>Sidney K Hulsey & Sarah M Haigh (Nov 2025). Detection of sounds and auditory discomfort. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li>
+<li>Sidney K Hulsey & Sarah M Haigh (Nov 2025). Detection of sounds and auditory discomfort. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li></ul>
 <br>
 
 <h1>Former Graduate Students</h1>
@@ -221,14 +221,14 @@ redirect_from:
 <p>BA Psychology - University of Nevada, Reno (2025)</p>
 <p>Izzy was funded by the PREP program and a Nevada Undergraduate Research Award</p>
 <b>Conference Presentations </b>
-<p><ul>
-<li>Sarah M Haigh & Isabella M Durda (May 2025). Slower reading speed in migraine: effects of discomfort? Poster presented at the Vision Sciences Society conference, St Pete Beach, FL, USA.</li>
+<p>
+Sarah M Haigh & Isabella M Durda (May 2025). Slower reading speed in migraine: effects of discomfort? Poster presented at the Vision Sciences Society conference, St Pete Beach, FL, USA.
 <br>
 <h2>Kate Pellegrino</h2>
 <img src="../images/Resized/KateP.png" width="100" style="float: right"/>
 <b>Conference Presentations </b>
-<p><ul>
-<li>Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditory-induced vection and motion sickness. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li>
+<p>
+Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditory-induced vection and motion sickness. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.
 <br>
 
 <h2>Cheyenne McCormick</h2>
@@ -238,8 +238,8 @@ redirect_from:
 <h2>Ruby Snyder</h2>
 <img src="../images/Resized/Ruby.png" width="100" style="float: right"/>
 <b>Conference Presentations </b>
-<p><ul>
-<li>Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditory-induced vection and motion sickness. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li>
+<p>
+Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditory-induced vection and motion sickness. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.
 <br>
 
 <h2>Kensal Coudriet</h2>
@@ -247,8 +247,8 @@ redirect_from:
 <p>BS Neuroscience - University of Nevada, Reno (2025)</p>
 <p>Kensal was funded by the ENDURE program</p>
 <b>Conference Presentations </b>
-<p><ul>
-<li>Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
+<p>
+Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.
 <br>
 
 <h2>Yasmin Perry</h2>
@@ -303,9 +303,8 @@ redirect_from:
 <img src="../images/Resized/Shane.png" width="100" style="float: right"/>
 <p>BS Psychology - University of Nevada, Reno (2024)</p>
 <b>Conference Presentations </b>
-<p><ul>
-<li>Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (June 2024). Localizing Visual Allodynia in Migraine. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
-</ul></p>
+<p>
+Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (June 2024). Localizing Visual Allodynia in Migraine. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</p>
 
 <h2>Lindsey Bevilacqua</h2>
 <img src="../images/Resized/LindseyB.png" width="100" style="float: right"/>
@@ -343,10 +342,10 @@ redirect_from:
 <p>Lena was funded by our R15 AREA grant from NIMH</p>
 <b>Publications</b>
 <p>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></p>
-<b>Conference Presentations </b>
+<b>Conference Presentations </b><ul>
 <li>Marian E Berryhill, Jenna N Pablo, Lena L Kemmelmeier, Wendy A Torrens & Sarah M Haigh (Nov 2025). Barking up the wrong tree: Visual, not auditory, sensitivity differences in high schizotypy. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
 <li>Lena L Kemmelmeier, Jenna N Pablo, Jorja Shires, Hector Arciniega, Wendy A Torrens, Sarah M Haigh, Marian E Berryhill (April 2024). Reduced mismatch negativity in college students with a history of mTBI. Poster presented at the Cognitive Neurosciences Society conference, Toronto, ON, Canada.</li>
-<li>Jorja Shires, Jenna N. Pablo, Wendy A. Torrens, Lena L. Kemmelmeier, Sarah M. Haigh, Marian E. Berryhill (April 2023). Classifying Schizotypy Trait Load Using Autism-Spectrum Quotient Scores. Poster presented at the Society of Biological Psychiatry conference. San Diego, CA, USA.</li>
+<li>Jorja Shires, Jenna N. Pablo, Wendy A. Torrens, Lena L. Kemmelmeier, Sarah M. Haigh, Marian E. Berryhill (April 2023). Classifying Schizotypy Trait Load Using Autism-Spectrum Quotient Scores. Poster presented at the Society of Biological Psychiatry conference. San Diego, CA, USA.</li></ul>
 <br>
 <h2>Karina Kneeland</h2>
 <img src="../images/Resized/Karina.png" width="100" style="float: right;"/>
