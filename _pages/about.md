@@ -48,11 +48,13 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>Dec 2025</b> - A huge congratulations to Izzy Durda on graduating! Izzy has been with us since her Freshman year and has done some great work in the lab. We wish her all the best as she begins her Doctorate in Occupational Therapy at the University of Missouri-Columbia.
+
 <b>Dec 2025</b> - New paper by Wendy Torrens on "Perturbed Sensory Memory Associated with Schizotypy Symptom Load" published in Schizophrenia Research! Check it out [here](https://authors.elsevier.com/c/1mF753HQGmm7IU).
 
 <b>Dec 2025</b> - Mia Price, Sid Hulsey, Alayna McGuire, and Daniel Caringal presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session.
 
-<img src="../images/MiaWPDf25.jpeg" width="200"/> <img src="../images/SidWPDf25.jpeg" width="200"/> <img src="../images/AlaynaWPDf25.jpeg" width="200"/> <img src="../images/DanielWPDf25.jpeg" width="200"/>
+<img src="../images/MiaWPDf25.jpg" width="200"/> <img src="../images/SidWPDf25.jpeg" width="200"/> <img src="../images/AlaynaWPDf25.jpeg" width="200"/> <img src="../images/DanielWPDf25.jpeg" width="200"/>
 
 <b>Sept 2025</b> - Carson, Sid, and I attended and presented at the Auditory Perception and Cognition Annual Meeting [(APCAM)](https://apcsociety.org/apcam-call.html), which was excellent. Check out their [LinkedIn page](https://www.linkedin.com/company/auditory-perception-cognition-society-apcs/posts/?feedView=all).
 
