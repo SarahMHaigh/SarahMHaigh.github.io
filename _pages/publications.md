@@ -12,7 +12,9 @@ For those who are interested in the role of colour on causing and alleviating di
 
 2025
 =====
-* Sarah M Haigh, Jasmine A Haggerty & Aimee Delgado (2025). Auditory Discomfort and Visual Sensitivity. *Vision Research: Special Issue on Sensory Discomfort, 234*, 108655. [https://doi.org/10.1016/j.visres.2025.108655](https://doi.org/10.1016/j.visres.2025.108655). Get early access here: [https://authors.elsevier.com/a/1lI0y9jMUGSdE](https://authors.elsevier.com/a/1lI0y9jMUGSdE)
+* Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2025). Perturbed sensory memory associated with schizotypy symptom load. *Schizophrenia Research. 287*, 129-137. [https://doi.org/10.1016/j.schres.2025.12.001](https://doi.org/10.1016/j.schres.2025.12.001).
+
+* Sarah M Haigh, Jasmine A Haggerty & Aimee Delgado (2025). Auditory Discomfort and Visual Sensitivity. *Vision Research: Special Issue on Sensory Discomfort, 234*, 108655. [https://doi.org/10.1016/j.visres.2025.108655](https://doi.org/10.1016/j.visres.2025.108655).
 
 * Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. *Cognitive Neuropsychiatry, 30*(2), 69-91. [https://doi.org/10.1080/13546805.2025.2464728](https://doi.org/10.1080/13546805.2025.2464728).
 

@@ -48,13 +48,17 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
-<b>Dec 2025</b> - A huge congratulations to Izzy Durda on graduating! Izzy has been with us since her Freshman year and has done some great work in the lab. We wish her all the best as she begins her Doctorate in Occupational Therapy at the University of Missouri-Columbia.
+<b>Jan 2026</b> - A massive welcome to Sebastian Lopez who joins the CBS program (joint mentored by myself and Marian Berryhill) from Steve Luck's lab at UC Davis. 
+
+<b>Dec 2025</b> - A huge congratulations to Izzy Durda on graduating! Izzy has been with us since her Freshman year and has done some great work in the lab. We wish her all the best as she begins her Doctorate in Occupational Therapy at the University of Missouri-Columbia. Look out for her papers that is uner revision and hopefully will be published soon!
 
 <b>Dec 2025</b> - New paper by Wendy Torrens on "Perturbed Sensory Memory Associated with Schizotypy Symptom Load" published in Schizophrenia Research! Check it out [here](https://authors.elsevier.com/c/1mF753HQGmm7IU).
 
 <b>Dec 2025</b> - Mia Price, Sid Hulsey, Alayna McGuire, and Daniel Caringal presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session.
 
-<img src="../images/MiaWPDf25.jpg" width="200"/> <img src="../images/SidWPDf25.jpeg" width="200"/> <img src="../images/AlaynaWPDf25.jpeg" width="200"/> <img src="../images/DanielWPDf25.jpeg" width="200"/>
+<img src="../images/MiaWPDf25.jpg" width="200"/> <img src="../images/SidWPDf25.jpeg" width="200"/> <img src="../images/AlaynaWPDf25.jpeg" width="100"/> <img src="../images/DanielWPDf25.jpeg" width="100"/>
+
+<b>Nov 2025</b> - Wendy presented the latest findings in her hair and EEG study at the Society for Neuroscience conference in San Diego.
 
 <b>Sept 2025</b> - Carson, Sid, and I attended and presented at the Auditory Perception and Cognition Annual Meeting [(APCAM)](https://apcsociety.org/apcam-call.html), which was excellent. Check out their [LinkedIn page](https://www.linkedin.com/company/auditory-perception-cognition-society-apcs/posts/?feedView=all).
 
@@ -66,7 +70,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>Aug 2025</b> - Welcome to the lab, Leo Lopez and Danielle Nochera!
 
-<b>June 2025</b> - Wendy was accepted to and attended the Cold Springs Harbor Laboratory meeting on Autism Spectrum Disorders. Congratulations!!!
+<b>June 2025</b> - Wendy was accepted to, funded, and attended the Cold Springs Harbor Laboratory meeting on Autism Spectrum Disorders. Congratulations!!!
 
 <b>June 2025</b> - New paper out on auditory discomfort, including some near infrared spectroscopy data. Thanks to Jasmine and Aimee for collecting the data! Get early access [here](https://authors.elsevier.com/a/1lI0y9jMUGSdE).
 
