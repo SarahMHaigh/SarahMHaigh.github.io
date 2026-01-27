@@ -10,6 +10,10 @@ For data, preprints, and preregistrations, see [OSF](https://osf.io/wsp4j).
 
 For those who are interested in the role of colour on causing and alleviating discomfort, check out this [webinar](https://www.youtube.com/watch?v=KRdoH2TUDYE).
 
+2026
+=====
+* Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. *Headache*.
+
 2025
 =====
 * Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2025). Perturbed sensory memory associated with schizotypy symptom load. *Schizophrenia Research. 287*, 129-137. [https://doi.org/10.1016/j.schres.2025.12.001](https://doi.org/10.1016/j.schres.2025.12.001).

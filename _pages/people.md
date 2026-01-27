@@ -25,6 +25,13 @@ redirect_from:
 
 <h1>Graduate Students</h1>
 <h2>Sebastian Lopez</h2>
+<img src="../images/Resized/Sebastian.png" width="200" style="float: right"/>
+<p> <ul>
+<li>BS Cognitive Science, Neuroscience Emphasis - University of California, Davis</li>
+<li>Currently a PhD student in Cognitive and Brain Sciences at the University of Nevada, Reno</li>
+</ul></p>
+<p>My research investigates the implementation and limitations of dynamic systems of attention to explain the human sensory experience. Using neurophysiological tools like electroencephalography (EEG), I study how the brain accesses, communicates, and models sensory information. I strive to ground traditionally abstract topics, such as consciousness, awareness, and agency, within a physically plausible framework.</p>
+<p>Sebastian comes to us from Steve Luck's lab at UC Davis and has already presented at international conferences!</p>
 <br>
 <h2>Wendy Alfonso Torrens</h2>
 <img src="../images/Resized/Wendy.png" width="200" style="float: right"/>
@@ -67,6 +74,10 @@ redirect_from:
 </ul></p>
 <p>My research interests include exploring the mechanisms behind our sensory systems that permit complex perception of the world around us. By examining the limits of our visual and auditory systems, we can begin to paint a clearer picture of how various stimuli shape our environmental perception.</p>
 <p>Specifically, my current project investigates how sensory sensitivity changes over the migraine cycle with the aim to identify biomarkers that signal approaching migraine-onset. While there is a lot of variability across migraineurs, a common symptom is sensitivity to light (photophobia) and/or sound (phonophobia). Using electroencephalography (EEG), electroretinography (ERG), and auditory brainstem response (ABR), my research contrasts the effects of sensory stimuli on migraineurs and headache free individuals from the retina and brainstem to the visual and auditory cortices. </p>
+<b>Publications </b>
+<p><ul>
+<li>Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. <i>Headache</i>.
+</ul></p>
 <b>Conference Presentations </b>
 <p><ul>
 <li>Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditory-induced vection and motion sickness. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li>
@@ -77,6 +88,11 @@ redirect_from:
 <br>
 
 <h1>Undergraduate and Volunteer Research Assistants</h1>
+<h2>Cooper Chevaz</h2>
+ <img src="../images/Resized/Cooper.png" width="200" style="float: right"/>
+<p>Hi! I’m a freshman at UNR studying Microbiology & Immunology with additional interests in Neuroscience and Psychology. I’m especially fascinated by cognitive variability and the ways individuals differ in how they perceive and respond to their environment. I’m grateful to be involved in undergraduate research through the PREP program, where I’m learning how to ask scientific questions and develop the skills to answer them under mentorship. My long term goal is to practice medicine while contributing to research that benefits vulnerable and underserved populations. Outside of academics, I love to rock climb, ski, and spend time with my family.</p>
+<br>
+
 <h2>Danielle Nochera</h2>
 <img src="../images/Resized/Danielle.png" width="200" style="float: right"/>
 <p>Hi! I am a sophomore studying Psychological Science with a minor in Philosophy at UNR. I am most interested in cognitive psychology and am excited to be in the lab learning new things, especially how to go through the data collection process. I love to travel, cook, and express my creativity through journaling, jewelry making and glassblowing! I am passionate about understanding cognitive processing and plan to one day go into medicinal assisted studies!</p>
