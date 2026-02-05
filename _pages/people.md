@@ -88,7 +88,7 @@ Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Va
 <br>
 
 <h1>Undergraduate and Volunteer Research Assistants</h1>
-<h2>Cooper Chevaz</h2>
+<h2>Cooper Chavez</h2>
  <img src="../images/Resized/Cooper.png" width="200" style="float: right"/>
 <p>Hi! I’m a freshman at UNR studying Microbiology & Immunology with additional interests in Neuroscience and Psychology. I’m especially fascinated by cognitive variability and the ways individuals differ in how they perceive and respond to their environment. I’m grateful to be involved in undergraduate research through the PREP program, where I’m learning how to ask scientific questions and develop the skills to answer them under mentorship. My long term goal is to practice medicine while contributing to research that benefits vulnerable and underserved populations. Outside of academics, I love to rock climb, ski, and spend time with my family.</p>
 <br>
