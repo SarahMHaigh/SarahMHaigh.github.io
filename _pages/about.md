@@ -10,7 +10,7 @@ redirect_from:
 
 <img src="../images/LabLogo.png" width="200" style="float: right"/>
 
-Do you or someone you are close with feel over-whelmed in noisy or busy environments? Find certain images or sounds repulsive or painful to look at? Or miss important information, even when you are focusing really hard? Have you noticed these behaviors happening more frequently since an event or trauma?
+Do you or someone you are close with feel pain, fatigue, get headaches, or experience being over-whelmed in noisy or busy environments? Do you find certain images or sounds repulsive or painful to look at? Or do you miss important information, even when you are focusing really hard? Have you noticed these behaviors happening more frequently since an event or trauma?
 
 <p><button class="button" style="float: right">
  <p style='margin-top:1em; text-align:center'>
@@ -47,6 +47,12 @@ If you are interested in taking part in one of our studies, or experience unique
 News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
+
+<b>March 2026</b>  - Some news from a couple of our alumni. Kensal Coudriet has been accepted into Columbia University’s Occupational Therapy Masters Program and Laura Van Key has been accepted into multiple MD programs across the country. Congratulations to you both - we're very proud of you.
+
+<b>Feb 2026</b> - Wendy Torrens will be presenting some of her schizotypy and autism work at SOBP this April! [UNR's GSA](https://www.unr.edu/gsa/services/travel-awards) are helping her with travel funds - this is a huge boost to graduate eduction, so thank you.
+
+<b>Jan 2026</b> - We have two new undergraduate researchers working in the lab this semester: Cooper Chavez who comes to us through the [PREP program](https://www.unr.edu/undergradresearch/opportunities/prep), and Melany Garcia. Welcome!
 
 <b>Jan 2026</b> - A massive welcome to Sebastian Lopez who joins the CBS program (joint mentored by myself and Marian Berryhill) from Steve Luck's lab at UC Davis. 
 
