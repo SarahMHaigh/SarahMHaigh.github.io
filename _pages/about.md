@@ -48,6 +48,8 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>March 2026</b> - New paper by Jenna Pablo with Lena Kemmelmeier and Wendy Torrens as coauthors on auditory processing in individuals with a history of mild traumatic brain injury. Access the preprint here: [https://doi.org/10.22541/au.175971798.86492420/v1](https://doi.org/10.22541/au.175971798.86492420/v1)
+
 <b>March 2026</b>  - Some news from a couple of our alumni. Kensal Coudriet has been accepted into Columbia University’s Occupational Therapy Masters Program and Laura Van Key has been accepted into multiple MD programs across the country. Congratulations to you both - we're very proud of you.
 
 <b>Feb 2026</b> - Wendy Torrens will be presenting some of her schizotypy and autism work at SOBP this April! [UNR's GSA](https://www.unr.edu/gsa/services/travel-awards) are helping her with travel funds - this is a huge boost to graduate eduction, so thank you.

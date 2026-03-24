@@ -12,6 +12,8 @@ For those who are interested in the role of colour on causing and alleviating di
 
 2026
 =====
+*	Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (accepted). Intact auditory N100 and mismatch negativity in undergraduates with a history of mild traumatic brain injury. European Journal of Neuroscience: Special Issue on Mismatch Negativity. Preprint: [https://doi.org/10.22541/au.175971798.86492420/v1](https://doi.org/10.22541/au.175971798.86492420/v1).
+
 * Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. *Headache*.
 
 2025

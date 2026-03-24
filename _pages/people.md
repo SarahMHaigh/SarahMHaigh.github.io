@@ -44,7 +44,8 @@ redirect_from:
 <p>Wendy was awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types. This work is already preregistered <a href="here">https://doi.org/10.17605/OSF.IO/AXU2C</a> and will be updated with tools and information as the project progresses.</p>
 <b>Publications </b>
 <p><ul>
-<li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2025). Perturbed sensory memory associated with schizotypy symptom load. <i>Schizophrenia Research, 287</i>, 129-137. <a href="https://doi.org/10.1016/j.schres.2025.12.001">https://doi.org/10.1016/j.schres.2025.12.001).</a></li>
+<li>Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (accepted). Intact auditory N100 and mismatch negativity in undergraduates with a history of mild traumatic brain injury. European Journal of Neuroscience: Special Issue on Mismatch Negativity. Preprint: <a href="https://doi.org/10.22541/au.175971798.86492420/v1">https://doi.org/10.22541/au.175971798.86492420/v1.</a></li>
+<li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2025). Perturbed sensory memory associated with schizotypy symptom load. <i>Schizophrenia Research, 287</i>, 129-137. <a href="https://doi.org/10.1016/j.schres.2025.12.001">https://doi.org/10.1016/j.schres.2025.12.001.</a></li>
 <li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li> 
 <li>Wendy Torrens (2024). Pattern Glare Sensitivity: Illusions and Sensations. <i>figshare.</i> Figure. <a href="https://doi.org/10.6084/m9.figshare.26852950.v1">https://doi.org/10.6084/m9.figshare.26852950.v1</a>.</li>
 <li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2024). Pattern glare sensitivity distinguishes subclinical autism and schizotypy. <i>Cognitive Neuropsychiatry. 29</i>(3), 155-175. <a href="https://doi.org/10.1080/13546805.2024.2335103">https://doi.org/10.1080/13546805.2024.2335103</a>.</li>
@@ -83,7 +84,7 @@ Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Va
 <li>Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditory-induced vection and motion sickness. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li>
 <li>Sarah M Haigh & Carson C Smith (Nov 2025). Auditory sensitivity in migraine – what is causing it? Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li>
 <li>Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (June 2024). Localizing Visual Allodynia in Migraine. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
-<li>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>. VSS travel award to Carson Smith.</li>
+<li>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>. VSS travel award to Carson Smith.</li>
 </ul></p>
 <br>
 
@@ -91,11 +92,6 @@ Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Va
 <h2>Cooper Chavez</h2>
  <img src="../images/Resized/Cooper.png" width="200" style="float: right"/>
 <p>Hi! I’m a freshman at UNR studying Microbiology & Immunology with additional interests in Neuroscience and Psychology. I’m especially fascinated by cognitive variability and the ways individuals differ in how they perceive and respond to their environment. I’m grateful to be involved in undergraduate research through the PREP program, where I’m learning how to ask scientific questions and develop the skills to answer them under mentorship. My long term goal is to practice medicine while contributing to research that benefits vulnerable and underserved populations. Outside of academics, I love to rock climb, ski, and spend time with my family.</p>
-<br>
-
-<h2>Danielle Nochera</h2>
-<img src="../images/Resized/Danielle.png" width="200" style="float: right"/>
-<p>Hi! I am a sophomore studying Psychological Science with a minor in Philosophy at UNR. I am most interested in cognitive psychology and am excited to be in the lab learning new things, especially how to go through the data collection process. I love to travel, cook, and express my creativity through journaling, jewelry making and glassblowing! I am passionate about understanding cognitive processing and plan to one day go into medicinal assisted studies!</p>
 <br>
 
 <h2>Marcos Moreno Cervantes</h2>
@@ -174,7 +170,7 @@ Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Fl
 <p>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visual discomfort and chromaticity separation on neural processing during a visual task. <i>Vision Research. 182,</i> 27-35. <a href="https://doi.org/10.1016/j.visres.2021.01.007">https://doi.org/10.1016/j.visres.2021.01.007</a>.</p>
 <b>Conference Presentations </b>
 <p><ul>
-<li>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (May 2020). The effect of chromaticity separation on neural processing during a visual task. Poster presented at virtual Vision Sciences Society (vVSS). <i>Journal of Vision 20</i>(11), 828-828. <a href="https://doi.org/10.1167/jov.20.11.828">https://doi.org/10.1167/jov.20.11.828</a>. </li>
+<li>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (May 2020). The effect of chromaticity separation on neural processing during a visual task. Poster presented at virtual Vision Sciences Society (vVSS). <i>Journal of Vision. 20</i>(11), 828-828. <a href="https://doi.org/10.1167/jov.20.11.828">https://doi.org/10.1167/jov.20.11.828</a>. </li>
 <li>Lisa Lindquist, Gregory R McIntire Jr & Sarah M Haigh (September 2019). The impact of chromaticity separation on information processing. Poster presented at the Bay Area Vision Research Day. Berkeley, CA, USA.</li> 
 <li>Gregory R McIntire Jr, Lisa Lindquist & Sarah M Haigh (September 2019). The impact of uncomfortable visual stimuli on face processing. Poster presented at the Bay Area Vision Research Day. Berkeley, CA, USA.</li>
 </ul></p>
@@ -189,7 +185,7 @@ Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Fl
 <p>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visual discomfort and chromaticity separation on neural processing during a visual task. <i>Vision Research. 182,</i> 27-35. <a href="https://doi.org/10.1016/j.visres.2021.01.007">https://doi.org/10.1016/j.visres.2021.01.007</a>.</p>
 <b>Conference Presentations </b>
 <p><ul>
-<li>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (May 2020). The effect of chromaticity separation on neural processing during a visual task. Poster presented at virtual Vision Sciences Society (vVSS). <i>Journal of Vision 20</i>(11), 828-828. <a href="https://doi.org/10.1167/jov.20.11.828">https://doi.org/10.1167/jov.20.11.828</a>. </li>
+<li>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (May 2020). The effect of chromaticity separation on neural processing during a visual task. Poster presented at virtual Vision Sciences Society (vVSS). <i>Journal of Vision. 20</i>(11), 828-828. <a href="https://doi.org/10.1167/jov.20.11.828">https://doi.org/10.1167/jov.20.11.828</a>. </li>
 <li>Lisa Lindquist, Gregory R McIntire Jr & Sarah M Haigh (September 2019). The impact of chromaticity separation on information processing. Poster presented at the Bay Area Vision Research Day. Berkeley, CA, USA.</li> 
 <li>Gregory R McIntire Jr, Lisa Lindquist & Sarah M Haigh (September 2019). The impact of uncomfortable visual stimuli on face processing. Poster presented at the Bay Area Vision Research Day. Berkeley, CA, USA.</li>
 </ul></p>
@@ -206,7 +202,7 @@ Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Fl
 <b>Publications</b>
 <p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>.
 <b>Conference Presentations </b>
-<p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
+<p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
 
 <h2>Mackenzie Montero</h2>
 <img src="../images/Resized/Mackenzie.png" width="200" style="float: right"/>
@@ -240,6 +236,10 @@ Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Fl
 <p>
 Sarah M Haigh & Isabella M Durda (May 2025). Slower reading speed in migraine: effects of discomfort? Poster presented at the Vision Sciences Society conference, St Pete Beach, FL, USA.
 <br>
+<h2>Danielle Nochera</h2>
+<img src="../images/Resized/Danielle.png" width="100" style="float: right"/>
+<br>
+
 <h2>Kate Pellegrino</h2>
 <img src="../images/Resized/KateP.png" width="100" style="float: right"/>
 <b>Conference Presentations </b>
@@ -335,7 +335,7 @@ Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (
 <img src="../images/Resized/Matthew.png" width="100" style="float: right;"/>
 <p>BS Neuroscience - University of Nevada, Reno (2023)</p>
 <b>Conference Presentations </b>
-<p>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>.</p>
+<p>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>.</p>
 <h2>Mariah Meagher</h2>
 <img src="../images/Resized/Mariah.png" width="100" style="float: right;"/>
 <p>BA Psychology - University of Nevada, Reno (2023)</p>
@@ -349,7 +349,7 @@ Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (
 <li>Sarah M Haigh, Jasmine A Haggerty & Aimee Delgado (2025). Auditory Discomfort and Visual Sensitivity. *Vision Research: Special Issue on Sensory Discomfort. 234*, 108655. <a href="https://doi.org/10.1016/j.visres.2025.108655">https://doi.org/10.1016/j.visres.2025.108655</a>.</li>
 <li>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>.</li></ul></p>
 <b>Conference Presentations </b>
-<p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
+<p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
 
 <h2>Lena Kemmelmeier</h2>
 <img src="../images/Resized/Lena.png" width="100" style="float: right;"/>
@@ -357,6 +357,7 @@ Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (
 <p>Currently a graduate student at UC San Diego</p>
 <p>Lena was funded by our R15 AREA grant from NIMH</p>
 <b>Publications</b>
+<li>Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (accepted). Intact auditory N100 and mismatch negativity in undergraduates with a history of mild traumatic brain injury. European Journal of Neuroscience: Special Issue on Mismatch Negativity. Preprint: <a href="https://doi.org/10.22541/au.175971798.86492420/v1">https://doi.org/10.22541/au.175971798.86492420/v1.</a></li>
 <p>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></p>
 <b>Conference Presentations </b><ul>
 <li>Marian E Berryhill, Jenna N Pablo, Lena L Kemmelmeier, Wendy A Torrens & Sarah M Haigh (Nov 2025). Barking up the wrong tree: Visual, not auditory, sensitivity differences in high schizotypy. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
@@ -393,7 +394,7 @@ Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (
 <b>Publications</b>
 <p>Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury & Marlene Behrmann (2023). Assessing Trial-to-Trial Variability in Auditory ERPs in Autism and Schizophrenia. S.I.: Developmental Approach and Targeted Treatment of Sensory Alterations. <i>Journal of Autism and Developmental Disorders. 53</i>(12), 4856-4871. <a href="https://doi.org/10.1007/s10803-022-05771-0">https://doi.org/10.1007/s10803-022-05771-0</a>.</p>
 <b>Conference Presentations </b>
-<p>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>. </p>
+<p>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>. </p>
 
 <h2>Anastasiya Chevychalova</h2>
 <img src="../images/Resized/AnaC.png" width="100" style="float: right;"/>
@@ -421,9 +422,9 @@ Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (
 <p>Olivier Penacchio, Sarah M Haigh, Xortia Ross, Rebecca Ferguson, & Arnold J Wilkins (2021). Visual discomfort and variations in chromaticity in art and nature. <i>Frontiers in Neuroscience: Perception Science. 15,</i> 1706. <a href="https://doi.org/10.3389/fnins.2021.711064">https://doi.org/10.3389/fnins.2021.711064</a></p> 
 <b>Conference Presentations </b>
 <p><ul>
-<li>Sarah M Haigh & Xortia Ross (May 2022). Sensitivity to chromaticity separation – Is it helpful? Poster presented at the Vision Sciences Society conference. St Petersburg, FL, USA. <i>Journal of Vision 22</i>(14), 3778-3778. <a href="https://doi.org/10.1167/jov.22.14.3778">https://doi.org/10.1167/jov.22.14.3778</a>. </li>
+<li>Sarah M Haigh & Xortia Ross (May 2022). Sensitivity to chromaticity separation – Is it helpful? Poster presented at the Vision Sciences Society conference. St Petersburg, FL, USA. <i>Journal of Vision. 22</i>(14), 3778-3778. <a href="https://doi.org/10.1167/jov.22.14.3778">https://doi.org/10.1167/jov.22.14.3778</a>. </li>
 <li>Olivier Penacchio, Sarah Haigh, Xortia Ross, Rebecca Ferguson & Arnold Wilkins (August, 2021). Visual discomfort and the chromatic content of natural scenes. Talk presented virtually at the European Conference on Visual Perception. <i>Perception, 50</i>(Suppl), 53.</li>
-<li>Xortia Ross, Sarah M Haigh, Arnold J Wilkins & Olivier Penacchio (May 2021). Discomfort form Contemporary Art. Poster presented at the Virtual Vision Sciences Society (V-VSS) conference – undergraduate poster session. <i>Journal of Vision 21</i>(9), 2959-2959. <a href="https://doi.org/10.1167/jov.21.9.2959">https://doi.org/10.1167/jov.21.9.2959</a>.</li>
+<li>Xortia Ross, Sarah M Haigh, Arnold J Wilkins & Olivier Penacchio (May 2021). Discomfort form Contemporary Art. Poster presented at the Virtual Vision Sciences Society (V-VSS) conference – undergraduate poster session. <i>Journal of Vision. 21</i>(9), 2959-2959. <a href="https://doi.org/10.1167/jov.21.9.2959">https://doi.org/10.1167/jov.21.9.2959</a>.</li>
 <li>Olivier Penacchio, Sarah Haigh, Xortia Ross, Rebecca Ferguson & Arnold Wilkins (December, 2020). Predicting visual discomfort from images. Talk presented virtually at the Applied Vision Association conference, London, UK. <i>Perception, 50</i>(6), 580-580. </li>
 </ul></p>
 
@@ -434,7 +435,7 @@ Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (
 <p>Olivier Penacchio, Sarah M Haigh, Xortia Ross, Rebecca Ferguson, & Arnold J Wilkins (2021). Visual discomfort and variations in chromaticity in art and nature. <i>Frontiers in Neuroscience: Perception Science. 15,</i> 1706. <a href="https://doi.org/10.3389/fnins.2021.711064">https://doi.org/10.3389/fnins.2021.711064</a>.</p> 
 <b>Conference Presentations </b>
 <p><ul>
-<li>Sarah M Haigh & Xortia Ross (May 2022). Sensitivity to chromaticity separation – Is it helpful? Poster presented at the Vision Sciences Society conference. St Petersburg, FL, USA. <i>Journal of Vision 22</i>(14), 3778-3778. <a href="https://doi.org/10.1167/jov.22.14.3778">https://doi.org/10.1167/jov.22.14.3778</a>. </li>
+<li>Sarah M Haigh & Xortia Ross (May 2022). Sensitivity to chromaticity separation – Is it helpful? Poster presented at the Vision Sciences Society conference. St Petersburg, FL, USA. <i>Journal of Vision. 22</i>(14), 3778-3778. <a href="https://doi.org/10.1167/jov.22.14.3778">https://doi.org/10.1167/jov.22.14.3778</a>. </li>
 <li>Olivier Penacchio, Sarah Haigh, Xortia Ross, Rebecca Ferguson & Arnold Wilkins (August, 2021). Visual discomfort and the chromatic content of natural scenes. Talk presented virtually at the European Conference on Visual Perception. <i>Perception, 50</i>(Suppl), 53.</li>
 <li>Olivier Penacchio, Sarah Haigh, Xortia Ross, Rebecca Ferguson & Arnold Wilkins (December, 2020). Predicting visual discomfort from images. Talk presented virtually at the Applied Vision Association conference, London, UK. <i>Perception, 50</i>(6), 580-580. </li>
 </ul></p>
@@ -442,10 +443,10 @@ Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (
 <h2>Rory Thompson</h2>
 <p>BA Psychology - Vassar College (2021)</p>
 <b>Publications</b>
-<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>.
+<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>. </p>
 <b>Conference Presentations </b>
 <p>Sarah M Haigh, Melissa M Cortez, Lauren M Thompson, Anastasia Chevychalova, Janea Santiago & KC Brennan (Nov 2022). Sensory sensitivity across the migraine cycle. Poster presented at the Society of Neuroscience conference. San Diego, CA, USA.</p>
-<p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
+<p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
 
 <h2>Zoe Slaughter</h2>
 <img src="../images/Resized/Zoe.png" width="100" style="float: right;"/>
