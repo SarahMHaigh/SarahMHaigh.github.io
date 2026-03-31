@@ -233,7 +233,7 @@ Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Fl
 <p>BA Psychology - University of Nevada, Reno (2025)</p>
 <p>Izzy was funded by the PREP program and a Nevada Undergraduate Research Award</p>
 <b>Publications</b>
-<p>Sarah M Haigh & Isabella M Durda (accepted). Discomfort and reading speed: Effects of migraine. Perception. [https://doi.org/10.1177/03010066261442090](https://doi.org/10.1177/03010066261442090). Preprint: [https://doi.org/10.31234/osf.io/q8dys_v1](https://doi.org/10.31234/osf.io/q8dys_v1)</p>
+<p>Sarah M Haigh & Isabella M Durda (accepted). Discomfort and reading speed: Effects of migraine. Perception. <a href="https://doi.org/10.1177/03010066261442090">https://doi.org/10.1177/03010066261442090</a>. Preprint: <a href="https://doi.org/10.31234/osf.io/q8dys_v1">https://doi.org/10.31234/osf.io/q8dys_v1</a>. </p>
 <b>Conference Presentations </b>
 <p>Sarah M Haigh & Isabella M Durda (May 2025). Slower reading speed in migraine: effects of discomfort? Poster presented at the Vision Sciences Society conference, St Pete Beach, FL, USA.</p>
 
