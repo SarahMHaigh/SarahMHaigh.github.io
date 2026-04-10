@@ -44,7 +44,7 @@ redirect_from:
 <p>Wendy was awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types. This work is already preregistered <a href="here">https://doi.org/10.17605/OSF.IO/AXU2C</a> and will be updated with tools and information as the project progresses.</p>
 <b>Publications </b>
 <p><ul>
-<li>Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (2026). Intact auditory N100 and mismatch negativity in undergraduates with a history of mild traumatic brain injury. European Journal of Neuroscience: Special Issue on Mismatch Negativity. 6*(7). <a href="https://doi.org/10.1111/ejn.70494">https://doi.org/10.1111/ejn.70494.</a> Preprint: <a href="https://doi.org/10.22541/au.175971798.86492420/v1">https://doi.org/10.22541/au.175971798.86492420/v1.</a></li>
+<li>Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (2026). Intact auditory N100 and mismatch negativity in undergraduates with a history of mild traumatic brain injury. <i>European Journal of Neuroscience: Special Issue on Mismatch Negativity. 6</i>(7). <a href="https://doi.org/10.1111/ejn.70494">https://doi.org/10.1111/ejn.70494.</a> Preprint: <a href="https://doi.org/10.22541/au.175971798.86492420/v1">https://doi.org/10.22541/au.175971798.86492420/v1.</a></li>
 <li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2025). Perturbed sensory memory associated with schizotypy symptom load. <i>Schizophrenia Research, 287</i>, 129-137. <a href="https://doi.org/10.1016/j.schres.2025.12.001">https://doi.org/10.1016/j.schres.2025.12.001.</a></li>
 <li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li> 
 <li>Wendy Torrens (2024). Pattern Glare Sensitivity: Illusions and Sensations. <i>figshare.</i> Figure. <a href="https://doi.org/10.6084/m9.figshare.26852950.v1">https://doi.org/10.6084/m9.figshare.26852950.v1</a>.</li>
@@ -200,8 +200,8 @@ Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Fl
 <li>Currently a PhD student in Psychology at Southern Cross University (started 2020)</li>
 </ul></p>
 <b>Publications</b>
-<ul><li>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>.</li>
-<li>Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. <i>Headache</i>.</li></ul>
+<ul><li>Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. <i>Headache</i>.</li>
+<li>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>.</li></ul>
 <b>Conference Presentations </b>
 <p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
 
@@ -256,8 +256,7 @@ Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditor
 
 <h2>Ruby Snyder</h2>
 <img src="../images/Resized/Ruby.png" width="100" style="float: right"/>
-<b>Conference Presentations </b>
-<p>
+<b>Conference Presentations </b><p>
 Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditory-induced vection and motion sickness. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.
 <br>
 
@@ -265,8 +264,7 @@ Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditor
 <img src="../images/Resized/Kensal.png" width="100" style="float: right"/>
 <p>BS Neuroscience - University of Nevada, Reno (2025)</p>
 <p>Kensal was funded by the ENDURE program</p>
-<b>Conference Presentations </b>
-<p>
+<b>Conference Presentations </b><p>
 Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.
 <br>
 
@@ -321,8 +319,7 @@ Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudrie
 <h2>Shane Trivitt</h2>
 <img src="../images/Resized/Shane.png" width="100" style="float: right"/>
 <p>BS Psychology - University of Nevada, Reno (2024)</p>
-<b>Publications</b>
-<p>
+<b>Publications</b><p>
 Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. <i>Headache</i>.</p>
 <b>Conference Presentations </b>
 <p>Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (June 2024). Localizing Visual Allodynia in Migraine. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</p>
@@ -352,8 +349,7 @@ Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Va
 <p>BS Psychology - University of Nevada, Reno (2022)</p>
 <p>Currently a medical student at the University of Cincinnati College of Medicine in Cincinnati, Ohio (class 2028)</p>
 <b>Publications</b>
-<p><ul>
-<li>Sarah M Haigh, Jasmine A Haggerty & Aimee Delgado (2025). Auditory Discomfort and Visual Sensitivity. *Vision Research: Special Issue on Sensory Discomfort. 234*, 108655. <a href="https://doi.org/10.1016/j.visres.2025.108655">https://doi.org/10.1016/j.visres.2025.108655</a>.</li>
+<p><ul><li>Sarah M Haigh, Jasmine A Haggerty & Aimee Delgado (2025). Auditory Discomfort and Visual Sensitivity. *Vision Research: Special Issue on Sensory Discomfort. 234*, 108655. <a href="https://doi.org/10.1016/j.visres.2025.108655">https://doi.org/10.1016/j.visres.2025.108655</a>.</li>
 <li>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>.</li></ul></p>
 <b>Conference Presentations </b>
 <p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
@@ -399,8 +395,8 @@ Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Va
 <img src="../images/Resized/LauraVK.png" width="100" style="float: right;"/>
 <p>BS Molecular Microbiology & Immunology and Nursing - University of Nevada, Reno (2023)</p>
 <b>Publications</b>
-<p><li>Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury & Marlene Behrmann (2023). Assessing Trial-to-Trial Variability in Auditory ERPs in Autism and Schizophrenia. S.I.: Developmental Approach and Targeted Treatment of Sensory Alterations. <i>Journal of Autism and Developmental Disorders. 53</i>(12), 4856-4871. <a href="https://doi.org/10.1007/s10803-022-05771-0">https://doi.org/10.1007/s10803-022-05771-0</a>.</li></p>
-<p><li>Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. <i>Headache</i>.</li></p>
+<p><ul><li>Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. <i>Headache</i>.</li>
+<li>Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury & Marlene Behrmann (2023). Assessing Trial-to-Trial Variability in Auditory ERPs in Autism and Schizophrenia. S.I.: Developmental Approach and Targeted Treatment of Sensory Alterations. <i>Journal of Autism and Developmental Disorders. 53</i>(12), 4856-4871. <a href="https://doi.org/10.1007/s10803-022-05771-0">https://doi.org/10.1007/s10803-022-05771-0</a>.</li></ul></p>
 <b>Conference Presentations </b>
 <p>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>. </p>
 
