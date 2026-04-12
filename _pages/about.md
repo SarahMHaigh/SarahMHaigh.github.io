@@ -50,7 +50,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>April 2026</b> - New paper with Wendy Torrens, Jenna Pablo, and Lena Kemmelmeier following a summer study from 2023 :-O Access early here:
 
-<b>April 20206<b> - Carson Smith will be defending his dissertation on April 21st 2026 at 12:30pm in EMM Bijou. Come and hear about his fascinating work on auditory-induced vection and motion sickness!
+<b>April 2026</b> - Carson Smith will be defending his dissertation on April 21st 2026 at 12:30pm in EMM Bijou. Come and hear about his fascinating work on auditory-induced vection and motion sickness!
 
 <b>March 2026</b> - Wendy Torrens will be defending her dissertation on April 17th 2026 at 11:30am in EMM Bijou. Please come support her as she describes her new interesting findings on how sensory processing differs between subclincial schizotypy and autism, and why this is an exciting step forward for psychiatry. See posting here: [https://events.unr.edu/event/dissertation-defense-wendy-torrens](https://events.unr.edu/event/dissertation-defense-wendy-torrens)
 
