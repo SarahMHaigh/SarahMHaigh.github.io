@@ -48,6 +48,8 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>April 2026</b> - Carson has also successfully defended his dissertation. Congratulations Dr. Smith!!!
+
 <b>April 2026</b> - Wendy has successfully defended her dissertation. Congratulations Dr. Torrens!!!
 <img src="../images/DrTorrens.jpg" width="150"/>
 
