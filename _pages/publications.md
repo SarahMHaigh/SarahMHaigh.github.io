@@ -12,11 +12,11 @@ For those who are interested in the role of colour on causing and alleviating di
 
 2026
 =====
-* Sarah M Haigh, Wendy A Torrens, Jenna N Pablo, Lena L Kemmelmeier, & Marian E Berryhill (accepted). Discomfort from Color Increases with Individual Differences in Visual Sensitivity. *Vision Research: Special Issue on Sensory Discomfort*.
+* Sarah M Haigh, Wendy A Torrens, Jenna N Pablo, Lena L Kemmelmeier, & Marian E Berryhill (2026). Discomfort from Color Increases with Individual Differences in Visual Sensitivity. *Vision Research: Special Issue on Sensory Discomfort. 245*, 108833. [https://doi.org/10.1016/j.visres.2026.108833](https://doi.org/10.1016/j.visres.2026.108833)
 
 * Sarah M Haigh & Isabella M Durda (accepted). Discomfort and reading speed: Effects of migraine. *Perception*. [https://doi.org/10.1177/03010066261442090](https://doi.org/10.1177/03010066261442090). Preprint: [https://doi.org/10.31234/osf.io/q8dys_v1](https://doi.org/10.31234/osf.io/q8dys_v1)
 
-*	Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (2026). Intact auditory N100 and mismatch negativity in undergraduates with a history of mild traumatic brain injury. *European Journal of Neuroscience: Special Issue on Mismatch Negativity. 6*(7). [https://doi.org/10.1111/ejn.70494](https://doi.org/10.1111/ejn.70494). Preprint: [https://doi.org/10.22541/au.175971798.86492420/v1](https://doi.org/10.22541/au.175971798.86492420/v1).
+*	Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (2026). Intact auditory N100 and mismatch negativity in undergraduates with a history of mild traumatic brain injury. *European Journal of Neuroscience: The Neuronal Basis of Mismatch Negativity (MMN) and Its Clinical Applications: A Special Collection in Honour of Professor Risto Näätänen (1939-2023). 63*(7). [https://doi.org/10.1111/ejn.70494](https://doi.org/10.1111/ejn.70494). Preprint: [https://doi.org/10.22541/au.175971798.86492420/v1](https://doi.org/10.22541/au.175971798.86492420/v1).
 
 * Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. *Headache*.
 

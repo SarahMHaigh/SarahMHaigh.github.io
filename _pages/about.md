@@ -48,6 +48,15 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b> April 2026</b>> - Finishing another successful CBS Brown Bag session with a delicious potluck.
+<img src="../images/Potluck_S2026.jpeg" width="200"/> <img src="../images/Potluck2_S2026.jpeg" width="200"/>
+
+<b>April 2026</b> - Another successful turn out to the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session. Great work from Cooper Chavez, Alayna McGuire, Neville Roy, and Sid Hulsey.
+<img src="../images/CooperWPD_S2026.jpeg" width="200"/> <img src="../images/AlaynaWPD_S2026.jpeg" width="200"/> <img src="../images/NevilleWPD_S2026.jpeg" width="200"/> <img src="../images/SidWPD_S2026.jpeg" width="200"/>
+
+<b>April 2026</b> - A long time collaborator and friend of the lab, Jenna Pablo, has also successfully defenced her dissertation. Congratulations Dr. Pablo!!!
+<img src="../images/Jenna.jpg" width="200"/><img src="../images/JennaDefence.jpeg" width="200"/>
+
 <b>April 2026</b> - Carson has also successfully defended his dissertation. Congratulations Dr. Smith!!!
 
 <b>April 2026</b> - Wendy has successfully defended her dissertation. Congratulations Dr. Torrens!!!
