@@ -70,7 +70,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>March 2026</b> - Wendy Torrens will be defending her dissertation on April 17th 2026 at 11:30am in EMM Bijou. Please come support her as she describes her new interesting findings on how sensory processing differs between subclincial schizotypy and autism, and why this is an exciting step forward for psychiatry. See posting here: [https://events.unr.edu/event/dissertation-defense-wendy-torrens](https://events.unr.edu/event/dissertation-defense-wendy-torrens)
 
-<b>March 2026</b> - New paper from one of our undergrad alum, Izzy Durda, on discomfort and reading speed in individuals with migraine, accepted in Perception. Izzy started this project when she was a freshman and so proud to see her hard work come to light. Access the preprint here: [https://doi.org/10.31234/osf.io/q8dys_v1](https://doi.org/10.31234/osf.io/q8dys_v1)
+<b>March 2026</b> - New paper from one of our undergrad alum, Izzy Durda, on discomfort and reading speed in individuals with migraine, accepted in Perception. Izzy started this project when she was a freshman and so proud to see her hard work come to light. Access the paper here: [https://doi.org/10.1177/03010066261442090](https://doi.org/10.1177/03010066261442090)
 
 <b>March 2026</b> - New paper by Jenna Pablo with Lena Kemmelmeier and Wendy Torrens as coauthors on auditory processing in individuals with a history of mild traumatic brain injury, accepted in the European Journal of Neuroscience. Early access here: [https://onlinelibrary.wiley.com/share/author/RTDFIUVFQFIRR4RYGS4D?target=10.1111/ejn.70494](https://onlinelibrary.wiley.com/share/author/RTDFIUVFQFIRR4RYGS4D?target=10.1111/ejn.70494)
 
