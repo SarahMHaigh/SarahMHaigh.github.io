@@ -54,14 +54,14 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>May 2026</b> - Jenna Pablo officially received funding from the VA to begin her postdoc at Boston University! Congratulations!
 
-<b>May 2026</b> - GRADUATION DAY!!! We had 9 students from the floor (across CBS and IFN) graduating plus a number of undergrads. A huge congratulations to Dr. Torrens, Dr. Smith, Dr. Pablo, Alayna McGuire and Neville Roy for graduating. Please stay in touch and good luck with the next chapter of your lives!!!
+<b>May 2026</b> - GRADUATION DAY!!! We had 9 students from the floor (across CBS and IFN) graduating plus a number of undergrads. A huge congratulations to Dr. Torrens, Dr. Smith, Dr. Pablo, Alayna McGuire, Mia Price and Neville Roy for graduating. Please stay in touch and good luck with the next chapter of your lives!!!<br>
 <img src="../images/Students.jpg" width="200"/> <img src="../images/StudentsFaculty.jpg" width="200"/> <br>
-<img src="../images/WendyMarianMeJenna.jpeg" width="150"/> <img src="../MeCarson.jpg" width="150"/><br>
-<img src="../JennaWendySebastian.jpg" width="200"/><img src="../MeAlaynaMarian.jpeg" width="150"/>
+<img src="../images/WendyMarianMeJenna.jpeg" width="150"/> <img src="../images/MeCarson.jpg" width="150"/><br>
+<img src="../images/JennaWendySebastian.jpg" width="200"/><img src="../images/MeAlaynaMarian.jpeg" width="150"/>
 
 <b>May 2026</b> - Today was the INP Retreat. Great to see the interesting work being done across the group and to catch up with folks. These events are crucial to the 'Integrative' program and pushing Neuroscience forward. Plus it's just really fun.
 
-<b>May 2026</b> - Really nice day: CBS Spring Symposium where we heard from the junior graduate students on their fun work and celebrated our accomplishments over the semester, followed by the CoS award ceremony where Dr. Jenna Pablo recieved the GSA award for Oustanding Graduating Graduate Student!
+<b>May 2026</b> - Really nice day: CBS Spring Symposium where we heard from the junior graduate students on their fun work and celebrated our accomplishments over the semester, followed by the CoS award ceremony where Dr. Jenna Pablo recieved the GSA award for Oustanding Graduating Graduate Student!<br>
 <img src="../images/JP_GSAaward.jpeg" width="150"/> <img src="../images/JP_GSAaward2.jpeg" width="200"/>
 
 <b>April 2026</b> - Finishing another successful CBS Brown Bag semester with a delicious potluck.
