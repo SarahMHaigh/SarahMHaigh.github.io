@@ -12,3 +12,5 @@ If you are a graduate student, post-doc, or pre-tenured assistant professor and 
 We run the seminar bi-weekly, typically on Zoom to save travel (and money). For you, we hope the benefit is to practice presenting to a new audience. For us, the aim is to expose our students to the wealth of exciting work being conducted across the world, and to provide new connections across Universities.
 
 Please keep in mind that we are based in Reno on Pacific Time (+8 hours UTC).
+
+<img src="../images/ECSlogo.png" style="float: center"/>

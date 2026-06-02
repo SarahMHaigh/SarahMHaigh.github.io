@@ -16,9 +16,6 @@ Do you or someone you are close with feel pain, fatigue, get headaches, or exper
  <p style='margin-top:1em; text-align:center'>
  <b>A Quick Note</b></p>
  <p style='margin-left:1em; margin-right:1em; text-align:left'>
- I am currently recruiting graduate <br>
- students for Fall 2026. Please contact <br>
- me for details. <br><br>
  If you are an undergraduate at UNR <br>
  and are interested in getting course <br>
  credit (PSY 275/375) or volunteering <br>
@@ -55,7 +52,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 <b>May 2026</b> - Jenna Pablo officially received funding from the VA to begin her postdoc at Boston University! Congratulations!
 
 <b>May 2026</b> - GRADUATION DAY!!! We had 9 students from the floor (across CBS and IFN) graduating plus a number of undergrads. A huge congratulations to Dr. Torrens, Dr. Smith, Dr. Pablo, Alayna McGuire, Mia Price and Neville Roy for graduating. Please stay in touch and good luck with the next chapter of your lives!!!<br>
-<img src="../images/Students.jpg" width="200"/> <img src="../images/StudentsFaculty.jpg" width="200"/> <br>
+<img src="../images/Students.jpg" width="300"/> <img src="../images/StudentsFaculty.jpg" width="300"/> <br>
 <img src="../images/WendyMarianMeJenna.jpeg" width="150"/> <img src="../images/MeCarson.jpg" width="150"/>
 <img src="../images/JennaWendySebastian.jpg" width="200"/> <img src="../images/MeAlaynaMarian.jpeg" width="150"/>
 
