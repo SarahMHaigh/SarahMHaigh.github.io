@@ -56,8 +56,8 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>May 2026</b> - GRADUATION DAY!!! We had 9 students from the floor (across CBS and IFN) graduating plus a number of undergrads. A huge congratulations to Dr. Torrens, Dr. Smith, Dr. Pablo, Alayna McGuire, Mia Price and Neville Roy for graduating. Please stay in touch and good luck with the next chapter of your lives!!!<br>
 <img src="../images/Students.jpg" width="200"/> <img src="../images/StudentsFaculty.jpg" width="200"/> <br>
-<img src="../images/WendyMarianMeJenna.jpeg" width="150"/> <img src="../images/MeCarson.jpg" width="150"/><br>
-<img src="../images/JennaWendySebastian.jpg" width="200"/><img src="../images/MeAlaynaMarian.jpeg" width="150"/>
+<img src="../images/WendyMarianMeJenna.jpeg" width="150"/> <img src="../images/MeCarson.jpg" width="150"/>
+<img src="../images/JennaWendySebastian.jpg" width="200"/> <img src="../images/MeAlaynaMarian.jpeg" width="150"/>
 
 <b>May 2026</b> - Today was the INP Retreat. Great to see the interesting work being done across the group and to catch up with folks. These events are crucial to the 'Integrative' program and pushing Neuroscience forward. Plus it's just really fun.
 
@@ -71,7 +71,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 <img src="../images/AlaynaWPD_S2026.jpeg" width="200"/> <img src="../images/NevilleWPD_S2026.jpeg" width="200"/> <img src="../images/CooperWPD_S2026.jpeg" width="200"/> <img src="../images/SidWPD_S2026.jpeg" width="200"/>
 
 <b>April 2026</b> - A long time collaborator and friend of the lab, Jenna Pablo, has also successfully defenced her dissertation. Congratulations Dr. Pablo!!!<br>
-<img src="../images/Jenna.jpg" width="200"/><img src="../images/JennaDefence.jpeg" width="200"/>
+<img src="../images/Jenna.jpg" width="200"/> <img src="../images/JennaDefence.jpeg" width="200"/>
 
 <b>April 2026</b> - Carson has also successfully defended his dissertation. Congratulations Dr. Smith!!!
 
