@@ -48,13 +48,29 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
-<b> April 2026</b>> - Finishing another successful CBS Brown Bag session with a delicious potluck.
+<b>June 2026</b> - A review paper on visual discomfort that is the direct result of the first Visual Discomfort Meeting from Jan 2025 has been published in Vision. Thanks to everyone who worked on this and for Paul Hibbard, Arnold Wilkins, and Beverly Burke for arm wrestling us all into making a coherent document.
+
+<b>May 2026</b> - Wendy's paper using hair clips to improve inclusivity for EEG recordings has officially been accepted to Neuroscience! Access early [here](https://authors.elsevier.com/c/1nCPs15hTu4bAp) and see the materials [here](https://osf.io/sx6cm/overview)
+
+<b>May 2026</b> - Jenna Pablo officially received funding from the VA to begin her postdoc at Boston University! Congratulations!
+
+<b>May 2026</b> - GRADUATION DAY!!! We had 9 students from the floor (across CBS and IFN) graduating plus a number of undergrads. A huge congratulations to Dr. Torrens, Dr. Smith, Dr. Pablo, Alayna McGuire and Neville Roy for graduating. Please stay in touch and good luck with the next chapter of your lives!!!
+<img src="../images/Students.jpg" width="200"/> <img src="../images/StudentsFaculty.jpg" width="200"/> <br>
+<img src="../images/WendyMarianMeJenna.jpeg" width="150"/> <img src="../MeCarson.jpg" width="150"/><br>
+<img src="../JennaWendySebastian.jpg" width="200"/><img src="../MeAlaynaMarian.jpeg" width="150"/>
+
+<b>May 2026</b> - Today was the INP Retreat. Great to see the interesting work being done across the group and to catch up with folks. These events are crucial to the 'Integrative' program and pushing Neuroscience forward. Plus it's just really fun.
+
+<b>May 2026</b> - Really nice day: CBS Spring Symposium where we heard from the junior graduate students on their fun work and celebrated our accomplishments over the semester, followed by the CoS award ceremony where Dr. Jenna Pablo recieved the GSA award for Oustanding Graduating Graduate Student!
+<img src="../images/JP_GSAaward.jpeg" width="150"/> <img src="../images/JP_GSAaward2.jpeg" width="200"/>
+
+<b>April 2026</b> - Finishing another successful CBS Brown Bag semester with a delicious potluck.
 <img src="../images/Potluck_S2026.jpeg" width="200"/> <img src="../images/Potluck2_S2026.jpeg" width="200"/>
 
-<b>April 2026</b> - Another successful turn out to the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session. Great work from Cooper Chavez, Alayna McGuire, Neville Roy, and Sid Hulsey.
-<img src="../images/CooperWPD_S2026.jpeg" width="200"/> <img src="../images/AlaynaWPD_S2026.jpeg" width="200"/> <img src="../images/NevilleWPD_S2026.jpeg" width="200"/> <img src="../images/SidWPD_S2026.jpeg" width="200"/>
+<b>April 2026</b> - Another successful turn out to the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session. Great work from Alayna McGuire, Neville Roy, Cooper Chavez, and Sid Hulsey.
+<img src="../images/AlaynaWPD_S2026.jpeg" width="200"/> <img src="../images/NevilleWPD_S2026.jpeg" width="200"/> <img src="../images/CooperWPD_S2026.jpeg" width="200"/> <img src="../images/SidWPD_S2026.jpeg" width="200"/>
 
-<b>April 2026</b> - A long time collaborator and friend of the lab, Jenna Pablo, has also successfully defenced her dissertation. Congratulations Dr. Pablo!!!
+<b>April 2026</b> - A long time collaborator and friend of the lab, Jenna Pablo, has also successfully defenced her dissertation. Congratulations Dr. Pablo!!!<br>
 <img src="../images/Jenna.jpg" width="200"/><img src="../images/JennaDefence.jpeg" width="200"/>
 
 <b>April 2026</b> - Carson has also successfully defended his dissertation. Congratulations Dr. Smith!!!
@@ -64,7 +80,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>April 2026</b> - Just found out that one of our UG alum, Lena Kemmelmeier, was just awarded a GRFP from the NSF - congratulations!!!!
 
-<b>April 2026</b> - New paper with Wendy Torrens, Jenna Pablo, and Lena Kemmelmeier following a summer study from 2023 :-O Access early here: [https://authors.elsevier.com/a/1myNx9jMUKGhM](https://authors.elsevier.com/a/1myNx9jMUKGhM)
+<b>April 2026</b> - New paper with Wendy Torrens, Jenna Pablo, and Lena Kemmelmeier following a summer study from 2023 :-O Access early [here](https://authors.elsevier.com/a/1myNx9jMUKGhM)
 
 <b>April 2026</b> - Carson Smith will be defending his dissertation on April 21st 2026 at 12:30pm in EMM Bijou. Come and hear about his fascinating work on auditory-induced vection and motion sickness!
 
@@ -81,6 +97,8 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 <b>Jan 2026</b> - We have two new undergraduate researchers working in the lab this semester: Cooper Chavez who comes to us through the [PREP program](https://www.unr.edu/undergradresearch/opportunities/prep), and Melany Garcia. Welcome!
 
 <b>Jan 2026</b> - A massive welcome to Sebastian Lopez who joins the CBS program (joint mentored by myself and Marian Berryhill) from Steve Luck's lab at UC Davis. 
+
+<b>Jan 2026</b> - Another successful Visual Discomfort Meeting in Birkbeck, London. Great to see everyone and huge thanks to Beverly Burke and Arnold Wilkins for organizing. Next year, we will be holding this event at the Royal Society which is a huge boost for elevating this topic.
 
 <b>Dec 2025</b> - A huge congratulations to Izzy Durda on graduating! Izzy has been with us since her Freshman year and has done some great work in the lab. We wish her all the best as she begins her Doctorate in Occupational Therapy at the University of Missouri-Columbia. Look out for her papers that is uner revision and hopefully will be published soon!
 
@@ -118,27 +136,29 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>April 2025</b> - Update from one of our alum, Shane Trivitt has been accepted to the clinical PhD program at Northern Arizona University - congratulations!
  
-<b>February 2025</b> - New paper using classification analysis to separate subclinical autism from schizotypy (nice work Jenna!) [here](https://doi.org/10.1080/13546805.2025.2464728).
+<b>Feb 2025</b> - New paper using classification analysis to separate subclinical autism from schizotypy (nice work Jenna!) [here](https://doi.org/10.1080/13546805.2025.2464728).
 
-<b>February 2025</b> - Wendy Torrens' trip to Cold Springs Harbor Laboratory was covered in this month's [Nevada Today](https://www.unr.edu/nevada-today/news/2025/cold-springs-harbor-lab-summer-courses)
+<b>Feb 2025</b> - Wendy Torrens' trip to Cold Springs Harbor Laboratory was covered in this month's [Nevada Today](https://www.unr.edu/nevada-today/news/2025/cold-springs-harbor-lab-summer-courses)
 
-<b>January 2025</b> - Welcome to Spring 2025. We have Marcos Moreno Cervantes (through the PREP program), Cheyenne McCormick, and Ruby Snyder joining the lab.
+<b>Jan 2025</b> - Welcome to Spring 2025. We have Marcos Moreno Cervantes (through the PREP program), Cheyenne McCormick, and Ruby Snyder joining the lab.
 
-<b>December 2024</b> - Sid Hulsey, Alayna McGuire, and Kensal Coudriet presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session.
+<b>Jan 2025</b> - Attended the first Visual Discomfort Meeting in Birkbeck, London! It was a wonderful meeting where for the first time we were able to get a large group together to tackle the causes and effects of visual discomfort. Thank you Beverly Burke and Arnold Wilkins for hosting. Lots of good work starting so stay tuned...
+
+<b>Decr 2024</b> - Sid Hulsey, Alayna McGuire, and Kensal Coudriet presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session.
 
 <img src="../images/Sid_WPD_2024_1.png" width="200"/> <img src="../images/Alayna_WPD_2024.jpg" width="150"/> <img src="../images/Kensal_WPD_2024.jpg" width="200"/>  
 
-<b>November 20204</b> - New paper on research priorities in the field of ASMR (Autonomous Sensory Meridian Response) [here](https://doi.org/10.1163/22134808-bja10136).
+<b>Nov 20204</b> - New paper on research priorities in the field of ASMR (Autonomous Sensory Meridian Response) [here](https://doi.org/10.1163/22134808-bja10136).
 
-<b>October 2024</b> - New CBS group photo after our picnic
+<b>Oct 2024</b> - New CBS group photo after our picnic
 
 <img src="../images/CBSfall2024.jpg" width="400"/>
 
-<b>September 2024</b> - Some news from lab alum, Jasmine Haggerty. She has started medical school at the University of Cincinnati and has just had her induction ceremony - congratulations! We love hearing about how our alumni are doing, so please keep in touch.
+<b>Sept 2024</b> - Some news from lab alum, Jasmine Haggerty. She has started medical school at the University of Cincinnati and has just had her induction ceremony - congratulations! We love hearing about how our alumni are doing, so please keep in touch.
 
-<b>August 2024</b> - Welcome to the new semester. We have Kensal Coudriet, Alayna McGuire, Sidney Hulsey, Yasmin Perry, Neville Roy, Mia Price, and Angelina Solorzano-Zamora joining the lab this semester.
+<b>Aug 2024</b> - Welcome to the new semester. We have Kensal Coudriet, Alayna McGuire, Sidney Hulsey, Yasmin Perry, Neville Roy, Mia Price, and Angelina Solorzano-Zamora joining the lab this semester.
 
-<b>August 2024</b> - For those who have been requesting a version of Wendy's Pattern Glare Test image, she has kindly created a new version [here](https://doi.org/10.6084/m9.figshare.26852950.v1). Please remember to cite appropriately.
+<b>Aug 2024</b> - For those who have been requesting a version of Wendy's Pattern Glare Test image, she has kindly created a new version [here](https://doi.org/10.6084/m9.figshare.26852950.v1). Please remember to cite appropriately.
 
 <b>June 2024</b> - Carson and Wendy helped and attended the International Multisensory Research Forum ([IMRF](https://imrf2024.sciencesconf.org/?lang=en)) in Reno. Hope you all enjoyed our beautiful city!
 

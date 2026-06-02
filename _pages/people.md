@@ -44,8 +44,9 @@ redirect_from:
 <p>Wendy was awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types. This work is already preregistered <a href="here">https://doi.org/10.17605/OSF.IO/AXU2C</a> and will be updated with tools and information as the project progresses.</p>
 <b>Publications </b>
 <p><ul>
-<li>Sarah M Haigh, Wendy A Torrens, Jenna N Pablo, Lena L Kemmelmeier, & Marian E Berryhill (accepted). Discomfort from Color Increases with Individual Differences in Visual Sensitivity. <i>Vision Research: Special Issue on Sensory Discomfort. 245</i>, 108833. <a href="https://doi.org/10.1016/j.visres.2026.108833">https://doi.org/10.1016/j.visres.2026.108833</a></li>
-<li>Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (2026). Intact auditory N100 and mismatch negativity in undergraduates with a history of mild traumatic brain injury. <i>European Journal of Neuroscience: The Neuronal Basis of Mismatch Negativity (MMN) and Its Clinical Applications: A Special Collection in Honour of Professor Risto Näätänen (1939-2023). 63</i>(7). <a href="https://doi.org/10.1111/ejn.70494">https://doi.org/10.1111/ejn.70494.</a></li>
+<li>Wendy A. Torrens, Skylor Olshefsky, Rasia B. Yankaway, Michelle Ruiz, Kensal G. Coudriet, Mia K. Price & Sarah M. Haigh (2026). The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography. *Neuroscience. 609*(17), 58-68. <a href="https://doi.org/10.1016/j.neuroscience.2026.05.041">https://doi.org/10.1016/j.neuroscience.2026.05.041</a>.  Preprint: <a href="https://doi.org/10.31234/osf.io/cywvd_v1">https://doi.org/10.31234/osf.io/cywvd_v1</a></li>
+<li>Sarah M Haigh, Wendy A Torrens, Jenna N Pablo, Lena L Kemmelmeier, & Marian E Berryhill (2026). Individual differences in susceptibility to color induced discomfort. <i>Vision Research: Special Issue on Sensory Discomfort. 245</i>, 108833. <a href="https://doi.org/10.1016/j.visres.2026.108833">https://doi.org/10.1016/j.visres.2026.108833</a></li>
+<li>Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (2026). No evidence of perturbed early auditory processing in undergraduates with a history of mild traumatic brain injury. <i>European Journal of Neuroscience: The Neuronal Basis of Mismatch Negativity (MMN) and Its Clinical Applications: A Special Collection in Honour of Professor Risto Näätänen (1939-2023). 63</i>(7). <a href="https://doi.org/10.1111/ejn.70494">https://doi.org/10.1111/ejn.70494.</a></li>
 <li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2025). Perturbed sensory memory associated with schizotypy symptom load. <i>Schizophrenia Research, 287</i>, 129-137. <a href="https://doi.org/10.1016/j.schres.2025.12.001">https://doi.org/10.1016/j.schres.2025.12.001.</a></li>
 <li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li> 
 <li>Wendy Torrens (2024). Pattern Glare Sensitivity: Illusions and Sensations. <i>figshare.</i> Figure. <a href="https://doi.org/10.6084/m9.figshare.26852950.v1">https://doi.org/10.6084/m9.figshare.26852950.v1</a>.</li>
@@ -98,29 +99,6 @@ Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Va
 <h2>Marcos Moreno Cervantes</h2>
 <img src="../images/Resized/Marcos.png" width="200" style="float: right"/>
 <p>Hey, my name is Marcos Moreno Cervantes. I am a Freshman at the University of Nevada, Reno, majoring in neuroscience. I love learning about the mind and finding ways to use that information to optimize my life. Along with this, I enjoy weightlifting, cinematography, and mixing music during my free time. I have no background in research but recently got accepted into PREP with Dr. Haigh as my mentor. I aspire to become a psychiatrist, where I will gain a better understanding of the mind and body to not only help those with psychiatric disorders but also neurotypical individuals.</p>
-<br>
-
-<h2>Neville Roy</h2>
-<img src="../images/Resized/Neville.png" width="200" style="float: right"/>
-<p> I am a sophomore studying Neuroscience at UNR. I have always been fascinated with the brain and I'm glad Dr.Haigh gave me this opportunity. My research interests are everything Migraine because I have so many friends and family that have the condition. After graduating, I plan to join an MD program and become a psychiatrist.</p>
-<br>
-
-<h2>Mia Price</h2>
-<img src="../images/Resized/Mia.png" width="200" style="float: right"/>
-<p> Hey! I am a junior pursuing a B.S. in Psychology, minoring in Black Studies and Social Justice. Although I do not have very much neuroscience experience through this lab I'm hoping to get more exposure to everything neuroscience! I have not yet decided if I want to go down a clinical or research career path however, I am sure I want to help communities of color and more specifically the Black community with whatever work I do. </p>
-<p>Mia was funded by a Nevada Undergraduate Research Award</p>
-<b>Conference Presentations </b>
-<p>
-Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.
-<br>
-
-<h2>Alayna McGuire</h2>
-<img src="../images/Resized/Alayna.png" width="200" style="float: right"/>
-<p> Hello! My name is Alayna McGuire and I am a Junior pursuing a Neuroscience B.S. I love to travel, cook/bake, and try new things, and despite my broad interest in the Neuroscience field, I have a particular regard for cognitive neuroscience. As for my research interests, I want to study more on sensory processing, specifically deficits for people with neurological disorders. I have found a passion in studying neuroscience through the research I have done in the past, and what I am doing now. My goal is to explore and learn what I can through my research, and potentially pursue an MD/PhD program or a PhD in Neuroscience working at a company's research lab. I hope to make a valuable contribution to the Neuroscience community, and help people with these issues through my discoveries. </p>
-<p>Alayna is currently funded by the ENDURE program</p>
-<b>Conference Presentations </b>
-<p>
-Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Flicker and its effect on reading speed and cognition. Poster presented at the Undergraduate Just-In-Time session at the Vision Sciences Society conference, St Pete Beach, FL, USA.
 <br>
 
 <h2>Sidney Hulsey</h2>
@@ -230,6 +208,28 @@ Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Fl
 <br>
 
 <h1>Former Research Assistants</h1>
+<h2>Neville Roy</h2>
+<img src="../images/Resized/Neville.png" width="100" style="float: right"/>
+<p>BS Neuroscience - University of Nevada, Reno (2026)</p>
+<br>
+
+<h2>Mia Price</h2>
+<img src="../images/Resized/Mia.png" width="200" style="float: right"/>
+<p>BS Psychology - University of Nevada, Reno (2026)</p>
+<p>Mia was funded by a Nevada Undergraduate Research Award</p>
+<b>Publications</b><p>
+Wendy A. Torrens, Skylor Olshefsky, Rasia B. Yankaway, Michelle Ruiz, Kensal G. Coudriet, Mia K. Price & Sarah M. Haigh (2026). The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography. *Neuroscience. 609*(17), 58-68. <a href="https://doi.org/10.1016/j.neuroscience.2026.05.041">https://doi.org/10.1016/j.neuroscience.2026.05.041</a>.  Preprint: <a href="https://doi.org/10.31234/osf.io/cywvd_v1">https://doi.org/10.31234/osf.io/cywvd_v1</a></p>
+<b>Conference Presentations </b><p>
+Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.
+<br>
+
+<h2>Alayna McGuire</h2>
+<img src="../images/Resized/Alayna.png" width="200" style="float: right"/>
+<p>BS Neuroscience - University of Nevada, Reno (2026)</p>
+<p>Alayna is currently funded by the ENDURE program</p>
+<b>Conference Presentations </b><p>
+Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Flicker and its effect on reading speed and cognition. Poster presented at the Undergraduate Just-In-Time session at the Vision Sciences Society conference, St Pete Beach, FL, USA.
+<br>
 <h2>Isabella Durda</h2>
 <img src="../images/Resized/Izzy.png" width="100" style="float: right"/>
 <p>BA Psychology - University of Nevada, Reno (2025)</p>
@@ -246,13 +246,13 @@ Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Fl
 
 <h2>Kate Pellegrino</h2>
 <img src="../images/Resized/KateP.png" width="100" style="float: right"/>
-<b>Conference Presentations </b>
-<p>
+<b>Conference Presentations </b><p>
 Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditory-induced vection and motion sickness. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.
 <br>
 
 <h2>Cheyenne McCormick</h2>
 <img src="../images/Resized/Cheyenne.png" width="100" style="float: right"/>
+<p>BS Psychology - University of Nevada, Reno (2026)</p>
 <br>
 
 <h2>Ruby Snyder</h2>
@@ -265,6 +265,9 @@ Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditor
 <img src="../images/Resized/Kensal.png" width="100" style="float: right"/>
 <p>BS Neuroscience - University of Nevada, Reno (2025)</p>
 <p>Kensal was funded by the ENDURE program</p>
+<b>Publications</b>
+Wendy A. Torrens, Skylor Olshefsky, Rasia B. Yankaway, Michelle Ruiz, Kensal G. Coudriet, Mia K. Price & Sarah M. Haigh (2026). The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography. *Neuroscience. 609*(17), 58-68. <a href="https://doi.org/10.1016/j.neuroscience.2026.05.041">https://doi.org/10.1016/j.neuroscience.2026.05.041</a>.  Preprint: <a href="https://doi.org/10.31234/osf.io/cywvd_v1">https://doi.org/10.31234/osf.io/cywvd_v1</a>
+</p>
 <b>Conference Presentations </b><p>
 Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.
 <br>
@@ -288,6 +291,9 @@ Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudrie
 <img src="../images/Resized/Michelle.png" width="100" style="float: right"/>
 <p>BS Psychology - University of Nevada, Reno (2024)</p>
 <p>Michelle was funded by the ENDURE program</p>
+<b>Publications</b><p>
+Wendy A. Torrens, Skylor Olshefsky, Rasia B. Yankaway, Michelle Ruiz, Kensal G. Coudriet, Mia K. Price & Sarah M. Haigh (2026). The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography. *Neuroscience. 609*(17), 58-68. <a href="https://doi.org/10.1016/j.neuroscience.2026.05.041">https://doi.org/10.1016/j.neuroscience.2026.05.041</a>.  Preprint: <a href="https://doi.org/10.31234/osf.io/cywvd_v1">https://doi.org/10.31234/osf.io/cywvd_v1</a>
+</p>
 <b>Conference Presentations </b>
 <p><ul>
 <li>Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
@@ -309,6 +315,9 @@ Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudrie
 <h2>Rasia Yankaway</h2>
 <img src="../images/Resized/Rasia.png" width="100" style="float: right"/>
 <p>BS Psychology - University of Nevada, Reno (2024)</p>
+<b>Publications</b>
+Wendy A. Torrens, Skylor Olshefsky, Rasia B. Yankaway, Michelle Ruiz, Kensal G. Coudriet, Mia K. Price & Sarah M. Haigh (2026). The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography. *Neuroscience. 609*(17), 58-68. <a href="https://doi.org/10.1016/j.neuroscience.2026.05.041">https://doi.org/10.1016/j.neuroscience.2026.05.041</a>.  Preprint: <a href="https://doi.org/10.31234/osf.io/cywvd_v1">https://doi.org/10.31234/osf.io/cywvd_v1</a>
+</p>
 <b>Conference Presentations </b>
 <p><ul>
 <li>Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
@@ -361,8 +370,8 @@ Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Va
 <p>Currently a graduate student at UC San Diego</p>
 <p>Lena was funded by our R15 AREA grant from NIMH</p>
 <b>Publications</b>
-<ul><li>Sarah M Haigh, Wendy A Torrens, Jenna N Pablo, Lena L Kemmelmeier, & Marian E Berryhill (2026). Discomfort from Color Increases with Individual Differences in Visual Sensitivity. <i>Vision Research: Special Issue on Sensory Discomfort. 245</i>, 108833. <a href="https://doi.org/10.1016/j.visres.2026.108833">https://doi.org/10.1016/j.visres.2026.108833</a></li>
-<li>Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (2026). Intact auditory N100 and mismatch negativity in undergraduates with a history of mild traumatic brain injury. <i>European Journal of Neuroscience: The Neuronal Basis of Mismatch Negativity (MMN) and Its Clinical Applications: A Special Collection in Honour of Professor Risto Näätänen (1939-2023). 63</i>(7). <a href="https://doi.org/10.1111/ejn.70494">https://doi.org/10.1111/ejn.70494.</a></li>
+<ul><li>Sarah M Haigh, Wendy A Torrens, Jenna N Pablo, Lena L Kemmelmeier, & Marian E Berryhill (2026). Individual differences in susceptibility to color induced discomfort. <i>Vision Research: Special Issue on Sensory Discomfort. 245</i>, 108833. <a href="https://doi.org/10.1016/j.visres.2026.108833">https://doi.org/10.1016/j.visres.2026.108833</a></li>
+<li>Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (2026). No evidence of perturbed early auditory processing in undergraduates with a history of mild traumatic brain injury. <i>European Journal of Neuroscience: The Neuronal Basis of Mismatch Negativity (MMN) and Its Clinical Applications: A Special Collection in Honour of Professor Risto Näätänen (1939-2023). 63</i>(7). <a href="https://doi.org/10.1111/ejn.70494">https://doi.org/10.1111/ejn.70494.</a></li>
 <li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li></ul>
 <b>Conference Presentations </b><ul>
 <li>Marian E Berryhill, Jenna N Pablo, Lena L Kemmelmeier, Wendy A Torrens & Sarah M Haigh (Nov 2025). Barking up the wrong tree: Visual, not auditory, sensitivity differences in high schizotypy. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>

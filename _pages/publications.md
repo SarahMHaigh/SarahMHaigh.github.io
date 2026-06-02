@@ -12,13 +12,17 @@ For those who are interested in the role of colour on causing and alleviating di
 
 2026
 =====
-* Sarah M Haigh, Wendy A Torrens, Jenna N Pablo, Lena L Kemmelmeier, & Marian E Berryhill (2026). Discomfort from Color Increases with Individual Differences in Visual Sensitivity. *Vision Research: Special Issue on Sensory Discomfort. 245*, 108833. [https://doi.org/10.1016/j.visres.2026.108833](https://doi.org/10.1016/j.visres.2026.108833)
+* Paul B. Hibbard, Peter Allen, Jordi Asher, Katherine Batey, Beverley Burke, Jason J. Braithwaite , Geoff Cole, Caelan Dow, Bruce J.W. Evans, Anna Franklin, Sarah M. Haigh, Hillevi Hemphälä, Ian Hosking, Andrew Keyes, Chan-su Lee, Ute Leonards, Cathy Manning, John Maule, Naomi Miller, Karen Monet, Louise O’Hare, Olivier Penacchio, Gordon T. Plant, Georgie Powell, Alice Price, Andrew Schofield, Miroslav Slouka, Petroc Sumner, Cleo Valentine, Thomas Wilcockson, Sanae Yoshimoto, and Arnold J. Wilkins (accepted). A cerebral basis for visual discomfort and stress. *Vision*.
+
+* Wendy A. Torrens, Skylor Olshefsky, Rasia B. Yankaway, Michelle Ruiz, Kensal G. Coudriet, Mia K. Price & Sarah M. Haigh (2026). The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography. *Neuroscience. 609*(17), 58-68. [https://doi.org/10.1016/j.neuroscience.2026.05.041](https://doi.org/10.1016/j.neuroscience.2026.05.041).  Preprint: [https://doi.org/10.31234/osf.io/cywvd_v1](https://doi.org/10.31234/osf.io/cywvd_v1)
+
+* Sarah M Haigh, Wendy A Torrens, Jenna N Pablo, Lena L Kemmelmeier, & Marian E Berryhill (2026). Individual differences in susceptibility to color induced discomfort. *Vision Research: Special Issue on Sensory Discomfort. 245* 108833. [https://doi.org/10.1016/j.visres.2026.108833](https://doi.org/10.1016/j.visres.2026.108833).
 
 * Sarah M Haigh & Isabella M Durda (accepted). Discomfort and reading speed: Effects of migraine. *Perception*. [https://doi.org/10.1177/03010066261442090](https://doi.org/10.1177/03010066261442090). Preprint: [https://doi.org/10.31234/osf.io/q8dys_v1](https://doi.org/10.31234/osf.io/q8dys_v1)
 
-*	Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (2026). Intact auditory N100 and mismatch negativity in undergraduates with a history of mild traumatic brain injury. *European Journal of Neuroscience: The Neuronal Basis of Mismatch Negativity (MMN) and Its Clinical Applications: A Special Collection in Honour of Professor Risto Näätänen (1939-2023). 63*(7). [https://doi.org/10.1111/ejn.70494](https://doi.org/10.1111/ejn.70494). Preprint: [https://doi.org/10.22541/au.175971798.86492420/v1](https://doi.org/10.22541/au.175971798.86492420/v1).
+*	Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (2026). Intact auditory N100 and mismatch negativity in undergraduates with a history of mild traumatic brain injury. *European Journal of Neuroscience: Special Issue on Mismatch Negativity. 6*(7). [https://doi.org/10.1111/ejn.70494](https://doi.org/10.1111/ejn.70494). Preprint: [https://doi.org/10.22541/au.175971798.86492420/v1](https://doi.org/10.22541/au.175971798.86492420/v1).
 
-* Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. *Headache*.
+* Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. *Headache*. [10.1111/head.70104](10.1111/head.70104).
 
 2025
 =====
@@ -46,7 +50,7 @@ For those who are interested in the role of colour on causing and alleviating di
 
 2022
 =====
-* Wendy A Torrens†, Jenna N Pablo†, Jorja Shires, Sarah M Haigh, & Marian E Berryhill (2022). People with high schizotypy experience more illusions in the Pattern Glare Test: Consistent with the hyperexcitability hypothesis († co-first authors). *European Journal of Neuroscience, 57*(2), 388-399. [https://doi.org/10.1111/ejn.15886](https://doi.org/10.1111/ejn.15886) Preprint (10.22541/au.166817986.63141633/v1)
+* Wendy A Torrens†, Jenna N Pablo†, Jorja Shires, Sarah M Haigh, & Marian E Berryhill (2022). People with high schizotypy experience more illusions in the Pattern Glare Test: Consistent with the hyperexcitability hypothesis († co-first authors). *European Journal of Neuroscience, 57*(2), 388-399. [https://doi.org/10.1111/ejn.15886](https://doi.org/10.1111/ejn.15886) Preprint: [10.22541/au.166817986.63141633/v1](10.22541/au.166817986.63141633/v1)
 
 * Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury, & Marlene Behrmann (2022). Assessing trial-to-trial variability in auditory ERPs in autism and schizophrenia. S.I.: Developmental Approach and Targeted Treatment of Sensory Alterations. *Journal of Autism and Developmental Disorders, 53,* 4856-4871 [https://doi.org/10.1007/s10803-022-05771-0](https://doi.org/10.1007/s10803-022-05771-0)
 
