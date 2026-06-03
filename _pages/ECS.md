@@ -16,13 +16,12 @@ Please keep in mind that we are based in Reno on Pacific Time (+8 hours UTC).
 <img src="../images/ECSlogo.png" style="float: center"/>
 
 To date, we have hosted:<p>
-<b>2026</b><p><ul>
+<b>2026</b><br>
 <li>Dr. Trenton Wirth (Assistant Professor, Unniversity of Cincinnati)</li>
 <li>Dr. Simon Whitton (Postdoctoral Data Scientist, Cleveland Clinic, OH)</li>
 <li>Dr. Jingyi He (Postdoctoral Researcher at the University of California, Berkeley)</li>
-</ul></p>
 
-<b>2025</b><p><ul>
+<b>2025</b><br>
 <li>Dr. Vassiki Chauhan (Postdoctoral Researcher at Barnard College, Columbia University)</li>
 <li>Dr. Sindhu Reddy Kalathur (Assistant Professor at Boise State University)</li>
 <li>Mandi Severson (PhD Graduate at the University of Texas)</li>
@@ -32,7 +31,7 @@ To date, we have hosted:<p>
 <li>Sascha Meyen (Postdoctoral Researcher at the University of Tübingen)</li>
 <li>Yi Yuan (Assistant Professor at the University of California, San Jose State)</li>
 
-<b>2024</b><p><ul>
+<b>2024</b>
 Dr. Max Teaford (Assistant Professor at the University of Tennessee at Chattanooga)
 Ghazaleh Mahzouni (Graduate student at the University of California, Santa Cruz)
 Dr. Sebastian Frank (Group leader at the University of Regensburg)
