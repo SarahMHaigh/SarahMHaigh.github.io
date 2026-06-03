@@ -15,23 +15,24 @@ Please keep in mind that we are based in Reno on Pacific Time (+8 hours UTC).
 
 <img src="../images/ECSlogo.png" style="float: center"/>
 
-To date, we have hosted:
-<b>2026</b>
-Dr. Trenton Wirth (Assistant Professor, Unniversity of Cincinnati)
-Dr. Simon Whitton (Postdoctoral Data Scientist, Cleveland Clinic, OH)
-Dr. Jingyi He (Postdoctoral Researcher at the University of California, Berkeley)
+To date, we have hosted:<p>
+<b>2026</b><p><ul>
+<li>Dr. Trenton Wirth (Assistant Professor, Unniversity of Cincinnati)</li>
+<li>Dr. Simon Whitton (Postdoctoral Data Scientist, Cleveland Clinic, OH)</li>
+<li>Dr. Jingyi He (Postdoctoral Researcher at the University of California, Berkeley)</li>
+</ul></p>
 
-<b>2025</b>
-Dr. Vassiki Chauhan (Postdoctoral Researcher at Barnard College, Columbia University)
-Dr. Sindhu Reddy Kalathur (Assistant Professor at Boise State University)
-Mandi Severson (PhD Graduate at the University of Texas)
-Evi Hendrikx (Postdoctoral Researcher at the University of California, Berkeley)
-Maggie Welte (Graduate Researcher at the University of Delaware)
-Narges Doostani (Postdoctoral Researcher at the Freie University Berlin)
-Sascha Meyen (Postdoctoral Researcher at the University of Tübingen)
-Yi Yuan (Assistant Professor at the University of California, San Jose State)
+<b>2025</b><p><ul>
+<li>Dr. Vassiki Chauhan (Postdoctoral Researcher at Barnard College, Columbia University)</li>
+<li>Dr. Sindhu Reddy Kalathur (Assistant Professor at Boise State University)</li>
+<li>Mandi Severson (PhD Graduate at the University of Texas)</li>
+<li>Evi Hendrikx (Postdoctoral Researcher at the University of California, Berkeley)</li>
+<li>Maggie Welte (Graduate Researcher at the University of Delaware)</li>
+<li>Narges Doostani (Postdoctoral Researcher at the Freie University Berlin)</li>
+<li>Sascha Meyen (Postdoctoral Researcher at the University of Tübingen)</li>
+<li>Yi Yuan (Assistant Professor at the University of California, San Jose State)</li>
 
-<b>2024</b>
+<b>2024</b><p><ul>
 Dr. Max Teaford (Assistant Professor at the University of Tennessee at Chattanooga)
 Ghazaleh Mahzouni (Graduate student at the University of California, Santa Cruz)
 Dr. Sebastian Frank (Group leader at the University of Regensburg)
