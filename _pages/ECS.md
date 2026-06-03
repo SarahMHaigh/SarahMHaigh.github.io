@@ -44,7 +44,7 @@ To date, we have hosted:<br><br>
 
 <b>2023</b>
 <li>Dr. Dina Popovkina (Postdoctoral Research at the University of Washington)</li>
-<li>Samantha Montoya (Graduate student at the University of Minnesota; now a Postdoctoral Research at the University of Pennsylvania)</li>
+<li>Samantha Montoya (Graduate student at the University of Minnesota; now a Postdoctoral Researcher at the University of Pennsylvania)</li>
 <li>Dr. Jesse Breedlove (Postdoctoral Researcher at the University of Minnesota)</li>
 <li>Dr. Camilla Simoncelli (Postdoctoral Researcher at UNR; now Lecturer at the University of Pisa)</li>
 <li>Zoha Ahmad (Graduate student at York University)</li>
@@ -61,7 +61,7 @@ To date, we have hosted:<br><br>
 <li>Phivos Phylactou (Graduate student at Cyprus University of Technology; now Postdoctoral Researcher at UNR)</li>
 <li>Dr. Micaela Chan (Postdoctoral Researcher at the University of Texas, Dallas)</li>
 <li>Dr. Alon Hafri (Postdoctoral Researcher at Johns Hopkins University; now Assistant Professor at the University of Delaware)</li>
-<li>Dr. Solena Mednicoff (Postdoctoral Researcher at the University of Las Vegas; now at the Misophonia Research Foundation)</li>
+<li>Dr. Solena Mednicoff (Postdoctoral Researcher at the University of Nevada, Las Vegas; now at the Misophonia Research Foundation)</li>
 <li>Dr. Jorge Morales (Assistant Professor at Northeastern University)</li>
 
 <b>2021</b>
