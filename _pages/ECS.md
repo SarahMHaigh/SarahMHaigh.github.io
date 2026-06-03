@@ -40,7 +40,7 @@ To date, we have hosted:<br><br>
 <li>Dr. Timothy Murphy (Postdoctoral Researcher at the University of Wisconsin, Madison)</li>
 <li>Anupama Nair (Graduate student at the Unviersity of Delaware)</li>
 <li>Dr. Guochun Yang (Postdoctoral Researcher at the Unviersity of Iowa)</li>
-<li>Dr. Patrick Bissett (Senior Researcher at Stanford University)<li>
+<li>Dr. Patrick Bissett (Senior Researcher at Stanford University)</li>
 
 <b>2023</b>
 <li>Dr. Dina Popovkina (Postdoctoral Research at the University of Washington)</li>
@@ -54,7 +54,7 @@ To date, we have hosted:<br><br>
 <li>Carlos Carrasco (Graduate student at the University of California, Davis; now Researcher at the University of California, San Francisco)</li>
 
 <b>2022</b>
-</li>Dr Yi Gao (Postdoctoral Researcher at Georgia Tech; now Assistant Professor at the University of Nebraska at Omaha)</li>
+<li>Dr Yi Gao (Postdoctoral Researcher at Georgia Tech; now Assistant Professor at the University of Nebraska at Omaha)</li>
 <li>Dr. Marshall Green (Postdoctoral Researcher at Georgia Tech)</li>
 <li>Maggie McMullin (Graduate student at the University of Nevada, Las Vegas)</li>
 <li>Dr. Hector Arciniega (Postdoctoral Researcher at Harvard University; now Assistant Professor at New York University)</li>
