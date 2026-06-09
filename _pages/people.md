@@ -1,0 +1,483 @@
+---
+layout: archive
+title: "People"
+permalink: /people/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+<br>
+<h1>Principal Investigator</h1>
+<h2>Sarah Haigh</h2>
+<img src="../images/Resized/Me.png" width="200" style="float: right"/>
+<p> <ul>
+<li>BS (hons) Psychology - University of Bristol, UK (2009)</li>
+<li>PhD Vision Science - University of Essex, UK (2012)</li>
+<li>Post-doctoral Researcher - Carnegie Mellon University (2013)</li>
+<li>Post-doctoral Associate - University of Pittsburgh School of Medicine (2014)</li>
+<li>Research Scientist - Carnegie Mellon University (2017)</li>
+<li>Assistant Professor - University of Nevada, Reno (2018)</li>
+<li>Associate Professor - University of Nevada, Reno (2024)</li>
+</ul></p>
+<br>
+
+<h1>Graduate Students</h1>
+<h2>Sebastian Lopez</h2>
+<img src="../images/Resized/Sebastian.png" width="200" style="float: right"/>
+<p> <ul>
+<li>BS Cognitive Science, Neuroscience Emphasis - University of California, Davis</li>
+<li>Currently a PhD student in Cognitive and Brain Sciences at the University of Nevada, Reno</li>
+</ul></p>
+<p>My research investigates the implementation and limitations of dynamic systems of attention to explain the human sensory experience. Using neurophysiological tools like electroencephalography (EEG), I study how the brain accesses, communicates, and models sensory information. I strive to ground traditionally abstract topics, such as consciousness, awareness, and agency, within a physically plausible framework.</p>
+<p>Sebastian comes to us from Steve Luck's lab at UC Davis and has already presented at international conferences!</p>
+
+<h2>Wendy Alfonso Torrens</h2>
+<img src="../images/Resized/Wendy.png" width="200" style="float: right"/>
+<p> <ul>
+<li>BA Psychology with a minor in Spanish - Colorado State University-Pueblo</li>
+<li>MS Neuroscience - University of Nevada, Reno</li>
+<li>PhD Neuroscience - University of Nevada, Reno</li>
+<li>Currently a post-doctoral researcher at the UCSF VA working with Daniel Mathalon</li>
+</ul></p>
+<p>My research focuses on contributing to the understanding of the neurobiological mechanisms underlying the sensory experience of individuals with schizophrenia and autism. I also strive to improve neurophysiological methods (e.g., electroencephalography) by developing more racially inclusive materials.</p>
+<p>Wendy was awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types. This work is already preregistered <a href="here">https://doi.org/10.17605/OSF.IO/AXU2C</a> and will be updated with tools and information as the project progresses.</p>
+<b>Publications </b>
+<p><ul>
+<li>Wendy A. Torrens, Skylor Olshefsky, Rasia B. Yankaway, Michelle Ruiz, Kensal G. Coudriet, Mia K. Price, Stephanie Otto & Sarah M. Haigh (2026). The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography. <i>Neuroscience. 609</i>(17), 58-68. <a href="https://doi.org/10.1016/j.neuroscience.2026.05.041">https://doi.org/10.1016/j.neuroscience.2026.05.041</a>.  Preprint: <a href="https://doi.org/10.31234/osf.io/cywvd_v1">https://doi.org/10.31234/osf.io/cywvd_v1</a></li>
+<li>Sarah M Haigh, Wendy A Torrens, Jenna N Pablo, Lena L Kemmelmeier, & Marian E Berryhill (2026). Individual differences in susceptibility to color induced discomfort. <i>Vision Research: Special Issue on Sensory Discomfort. 245</i>, 108833. <a href="https://doi.org/10.1016/j.visres.2026.108833">https://doi.org/10.1016/j.visres.2026.108833</a></li>
+<li>Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (2026). No evidence of perturbed early auditory processing in undergraduates with a history of mild traumatic brain injury. <i>European Journal of Neuroscience: The Neuronal Basis of Mismatch Negativity (MMN) and Its Clinical Applications: A Special Collection in Honour of Professor Risto Näätänen (1939-2023). 63</i>(7). <a href="https://doi.org/10.1111/ejn.70494">https://doi.org/10.1111/ejn.70494.</a></li>
+<li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2025). Perturbed sensory memory associated with schizotypy symptom load. <i>Schizophrenia Research, 287</i>, 129-137. <a href="https://doi.org/10.1016/j.schres.2025.12.001">https://doi.org/10.1016/j.schres.2025.12.001.</a></li>
+<li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li> 
+<li>Wendy Torrens (2024). Pattern Glare Sensitivity: Illusions and Sensations. <i>figshare.</i> Figure. <a href="https://doi.org/10.6084/m9.figshare.26852950.v1">https://doi.org/10.6084/m9.figshare.26852950.v1</a>.</li>
+<li>Wendy A Torrens, Jenna N Pablo, Marian E Berryhill, & Sarah M Haigh (2024). Pattern glare sensitivity distinguishes subclinical autism and schizotypy. <i>Cognitive Neuropsychiatry. 29</i>(3), 155-175. <a href="https://doi.org/10.1080/13546805.2024.2335103">https://doi.org/10.1080/13546805.2024.2335103</a>.</li>
+<li>Wendy A Torrens†, Jenna N Pablo†, Jorja Shires, Sarah M Haigh & Marian E Berryhill (2022). People with High Schizotypy Experience More Illusions in the Pattern Glare Test: Consistent with the Hyperexcitability Hypothesis († co-first authors). <i>European Journal of Neuroscience,</i> 1-12. <a href="https://doi.org/10.1111/ejn.15886">https://doi.org/10.1111/ejn.15886</a>.</li> 
+</ul></p>
+<b>Conference Presentations </b>
+<p><ul>
+<li>Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
+<li>Marian E Berryhill, Jenna N Pablo, Lena L Kemmelmeier, Wendy A Torrens & Sarah M Haigh (Nov 2025). Barking up the wrong tree: Visual, not auditory, sensitivity differences in high schizotypy. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E Berryhill & Sarah M Haigh (June 2024). Anomalous multisensory cortical excitability in Schizotypy. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster presented at the Society of Biological Psychiatry conference, Austin, TX, USA. SOBP travel award to Wendy Alfonso.</li>
+<li>Lena L Kemmelmeier, Jenna N Pablo, Jorja Shires, Hector Arciniega, Wendy A Torrens, Sarah M Haigh, Marian E Berryhill (April 2024). Reduced mismatch negativity in college students with a history of mTBI. Presentation at the Cognitive Neurosciences Society conference, Toronto, ON, Canada.</li>
+<li>Jenna N Pablo, Wendy A Torrens, Jorja Shires, Sarah M Haigh, & Marian E Berryhill (April 2024). Working memory deficit in high schizotypy: ERP but no power differences. Presentation at the Cognitive Neurosciences Society conference, Toronto, ON, Canada.</li>
+<li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA. TPDA award to Wendy Torrens.</li>
+<li>Wendy A. Torrens, Jenna N. Pablo, Jorja Shires, Marian E. Berryhill & Sarah M. Haigh (April 2023). Auditory deviance detection in Schizotypy. Poster presented at the Society of Biological Psychiatry conference. San Diego, CA, USA. <i>Biological Psychiatry 93</i>(9), S227. <a href="https://doi.org/10.1016/j.biopsych.2023.02.570">https://doi.org/10.1016/j.biopsych.2023.02.570</a>.</li>
+<li>Jenna N. Pablo, Wendy A. Torrens, Jorja Shires, Sarah M. Haigh, & Marian E. Berryhill (April 2023). Pursuit of a reliable working memory biomarker characterizing the high-schizotypy population. Poster presented at the Society of Biological Psychiatry conference. San Diego, CA, USA. <i>Biological Psychiatry 93</i>(9), S187. <a href="https://doi.org/10.1016/j.biopsych.2023.02.472">https://doi.org/10.1016/j.biopsych.2023.02.472</a>. </li>
+<li>Jorja Shires, Jenna N. Pablo, Wendy A. Torrens, Lena L. Kemmelmeier, Sarah M. Haigh, Marian E. Berryhill (April 2023). Classifying Schizotypy Trait Load Using Autism-Spectrum Quotient Scores. Poster presented at the Society of Biological Psychiatry conference. San Diego, CA, USA.</li>
+<li>Marian E. Berryhill, Jenna N. Pablo, Jorja Shires, Wendy A. Torrens & Sarah M. Haigh (March 2023). High Schizotypy Participants Exhibit A Reduced Working Memory Induced P300. Poster presented at the Cognitive Neurosciences Society conference. San Francisco, CA, USA.</li>
+<li>Wendy Alfonso Torrens, Jenna N Pablo, Marian E Berryhill & Sarah M Haigh (Nov 2022). Behavioral measures of cortical hyper-excitability in subclinical autism (ASD) and schizotypy. Poster presented at the Society for Neuroscience conference. San Diego, CA, USA.</li>
+</ul></p>
+
+<h2>Carson Smith</h2>
+<img src="../images/Resized/Carson.png" width="200" style="float: right"/>
+<p> <ul>
+<li>BS Psychology and Neuroscience - Northeastern University, MA</li>
+<li>PhD Neuroscience - University of Nevada, Reno</li>
+</ul></p>
+<p>My research interests include exploring the mechanisms behind our sensory systems that permit complex perception of the world around us. By examining the limits of our visual and auditory systems, we can begin to paint a clearer picture of how various stimuli shape our environmental perception.</p>
+<p>Specifically, my current project investigates how sensory sensitivity changes over the migraine cycle with the aim to identify biomarkers that signal approaching migraine-onset. While there is a lot of variability across migraineurs, a common symptom is sensitivity to light (photophobia) and/or sound (phonophobia). Using electroencephalography (EEG), electroretinography (ERG), and auditory brainstem response (ABR), my research contrasts the effects of sensory stimuli on migraineurs and headache free individuals from the retina and brainstem to the visual and auditory cortices. </p>
+<b>Publications </b>
+<p><ul>
+Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. <i>Headache</i>.
+</ul></p>
+<b>Conference Presentations </b><p><ul>
+<li>Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditory-induced vection and motion sickness. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li>
+<li>Sarah M Haigh & Carson C Smith (Nov 2025). Auditory sensitivity in migraine – what is causing it? Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li>
+<li>Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (June 2024). Localizing Visual Allodynia in Migraine. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
+<li>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>. VSS travel award to Carson Smith.</li>
+</ul></p>
+<br>
+
+<h1>Undergraduate and Volunteer Research Assistants</h1>
+<h2>Cooper Chavez</h2>
+ <img src="../images/Resized/Cooper.png" width="200" style="float: right"/>
+<p>Hi! I’m a freshman at UNR studying Microbiology & Immunology with additional interests in Neuroscience and Psychology. I’m especially fascinated by cognitive variability and the ways individuals differ in how they perceive and respond to their environment. I’m grateful to be involved in undergraduate research through the PREP program, where I’m learning how to ask scientific questions and develop the skills to answer them under mentorship. My long term goal is to practice medicine while contributing to research that benefits vulnerable and underserved populations. Outside of academics, I love to rock climb, ski, and spend time with my family.</p>
+<br>
+
+<h2>Marcos Moreno Cervantes</h2>
+<img src="../images/Resized/Marcos.png" width="200" style="float: right"/>
+<p>Hey, my name is Marcos Moreno Cervantes. I am a Freshman at the University of Nevada, Reno, majoring in neuroscience. I love learning about the mind and finding ways to use that information to optimize my life. Along with this, I enjoy weightlifting, cinematography, and mixing music during my free time. I have no background in research but recently got accepted into PREP with Dr. Haigh as my mentor. I aspire to become a psychiatrist, where I will gain a better understanding of the mind and body to not only help those with psychiatric disorders but also neurotypical individuals.</p>
+<br>
+
+<h2>Sidney Hulsey</h2>
+<img src="../images/Resized/Sid.png" width="200" style="float: right"/>
+<p> Hi! I am a junior at the University of Nevada, Reno studying Neuroscience with a minor/certificate in Gerontology. Previously, I worked in Dr. Piantadosi’s Computation and Language Lab for a summer studying psychophysical modeling techniques for approximate number tasks. My research interests are in sensory processing and neurodevelopmental disorders. I love working with students on campus with IDDs and other disabilities with the P2I and TAPDINTO-STEM programs. After graduating, I plan to apply to an M.D.-Ph.D. program where I can further pursue my interests. </p>
+<p>Sid is currently funded by the ENDURE program</p>
+<b>Conference Presentations </b>
+<p><ul>
+<li>Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Flicker and its effect on reading speed and cognition. Poster presented at the Undergraduate Just-In-Time session at the Vision Sciences Society conference, St Pete Beach, FL, USA.</li>
+<li>Sidney K Hulsey & Sarah M Haigh (Nov 2025). Detection of sounds and auditory discomfort. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li></ul>
+<br>
+
+<h1>Former Graduate Students</h1>
+<h2>Stephanie Otto</h2>
+<img src="../images/Resized/Steph.png" width="200" style="float: right"/>
+<p> <ul>
+<li>BA Psychology - University of Hawaii, West Oahu (2015)</li>
+<li>MS Cognitive Brain Science - University of Nevada, Reno (2020)</li>
+<li>PhD Cognitive Brain Science - University of Nevada, Reno (2022)</li>
+<li>Currently a post-doctoral researcher at the Naval Medical Research Unit, Dayton, OH</li>
+</ul></p>
+<b>Publications</b>
+<p> Simon Whitton, Jung Min Kim, Alexandra N. Scurry, Stephanie Otto, Xiaowei Zhuang, Dietman Cordes, & Fang Jiang. (2021). Multisensory temporal processing in early deaf. <i>Neuropsychologia, 163,</i> 108069. <a href="https://doi.org/10.1016/j.neuropsychologia.2021.108069">https://doi.org/10.1016/j.neuropsychologia.2021.108069</a>.</p>
+<b>Conference Presentations </b>
+<p><ul>
+<li>Stephanie R Otto, Yueran Yang, Lawrence Ray, Jolie Travers, Jeffrey Hutsler & Sarah M Haigh (Nov 2022). Evidence of wide-spread white matter compromise in autism spectrum disorder: a large-scale diffusion imaging study using repository data. Poster presented at the Society for Neuroscience conference. San Diego, CA, USA.</li>
+<li>Stephanie R Otto, Lawrence M Ray, Jolie A Travers, Isabella Bruketta, Mackenzie L Montero, Jeffrey J Hutsler & Sarah M Haigh (May 2020). Abnormal measures of white matter diffusion are associated with behavioral symptom severity in children and adults with autism. Poster online at the Society of Biological Psychiatry conference. New York, NY, USA. <i>Biological Psychiatry 87</i>(9), S246. <a href="https://doi.org/10.1016/j.biopsych.2020.02.636">https://doi.org/10.1016/j.biopsych.2020.02.636</a>.</li> 
+<li>Stephanie R Otto, Lawrence M Ray, Jolie A Travers, Isabella Bruketta, Mackenzie L Montero, Jeffrey J. Hutsler & Sarah M Haigh (October 2019). Evidence of wide spread white matter compromise in children and adults with autism: a large-scale diffusion imaging study using the ABIDE II repository. Poster presented at the Society for Neuroscience. Chicago, IL, USA.</li>
+</ul></p>
+
+<h2>Marena Manierka</h2>
+<img src="../images/Resized/Marena.png" width="200" style="float: right"/>
+<p> <ul>
+<li>BS (hons) Neuroscience & Psychology - University of Toronto, Canada (2013)</li>
+<li>PhD Neuroscience - University of Nevada, Reno (2021)</li>
+<li>Currently a medical writer for BOLDSCIENCE</li>
+</ul></p>
+<b>Publications</b>
+<p>Marena S Manierka, Rachel Rezaei, Samantha Palacios, Sarah M Haigh, Jeffrey J Hutsler (2021). In the mood to be social: affective state influences facial emotion recognition in healthy adults. <i>Emotion.</i> <a href="https://doi.org/10.1037/emo0000999">https://doi.org/10.1037/emo0000999</a>.</p>
+
+<h2>Lisa Lindquist</h2>
+<img src="../images/Resized/Lisa.png" width="200" style="float: right"/>
+<p> <ul>
+<li>BS Speech and Hearing Science - Western Washington University, Bellingham, WA</li>
+<li>MS Speech-Language Pathology - Rush University, Chicago, IL</li>
+</ul></p>
+<b>Publications</b>
+<p>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visual discomfort and chromaticity separation on neural processing during a visual task. <i>Vision Research. 182,</i> 27-35. <a href="https://doi.org/10.1016/j.visres.2021.01.007">https://doi.org/10.1016/j.visres.2021.01.007</a>.</p>
+<b>Conference Presentations </b>
+<p><ul>
+<li>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (May 2020). The effect of chromaticity separation on neural processing during a visual task. Poster presented at virtual Vision Sciences Society (vVSS). <i>Journal of Vision. 20</i>(11), 828-828. <a href="https://doi.org/10.1167/jov.20.11.828">https://doi.org/10.1167/jov.20.11.828</a>. </li>
+<li>Lisa Lindquist, Gregory R McIntire Jr & Sarah M Haigh (September 2019). The impact of chromaticity separation on information processing. Poster presented at the Bay Area Vision Research Day. Berkeley, CA, USA.</li> 
+<li>Gregory R McIntire Jr, Lisa Lindquist & Sarah M Haigh (September 2019). The impact of uncomfortable visual stimuli on face processing. Poster presented at the Bay Area Vision Research Day. Berkeley, CA, USA.</li>
+</ul></p>
+
+<h2>Gregory McIntire</h2>
+<img src="../images/Resized/Greg.png" width="200" style="float: right"/>
+<p> <ul>
+<li>BA Psychology & Biology - University of Nevada, Las Vegas (2018)</li>
+<li>MS Neuroscience - University of Nevada, Reno</li>
+<li>Currently at Charles River Laboratories</li>
+</ul></p>
+<b>Publications</b>
+<p>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (2021). The effects of visual discomfort and chromaticity separation on neural processing during a visual task. <i>Vision Research. 182,</i> 27-35. <a href="https://doi.org/10.1016/j.visres.2021.01.007">https://doi.org/10.1016/j.visres.2021.01.007</a>.</p>
+<b>Conference Presentations </b>
+<p><ul>
+<li>Lisa C Lindquist, Gregory R McIntire & Sarah M Haigh (May 2020). The effect of chromaticity separation on neural processing during a visual task. Poster presented at virtual Vision Sciences Society (vVSS). <i>Journal of Vision. 20</i>(11), 828-828. <a href="https://doi.org/10.1167/jov.20.11.828">https://doi.org/10.1167/jov.20.11.828</a>. </li>
+<li>Lisa Lindquist, Gregory R McIntire Jr & Sarah M Haigh (September 2019). The impact of chromaticity separation on information processing. Poster presented at the Bay Area Vision Research Day. Berkeley, CA, USA.</li> 
+<li>Gregory R McIntire Jr, Lisa Lindquist & Sarah M Haigh (September 2019). The impact of uncomfortable visual stimuli on face processing. Poster presented at the Bay Area Vision Research Day. Berkeley, CA, USA.</li>
+</ul></p>
+<br>
+
+<h1>Former Lab Managers</h1>
+<h2>Caitlin Laycox</h2>
+<img src="../images/Resized/Caitlin.png" width="200" style="float: right"/>
+<p> <ul>
+<li>BS Psychology - Griffith University Australia (2018)</li>
+<li>Honour's from Southern Cross University (2019)</li>
+<li>PhD Psychology - Southern Cross University (2025)</li>
+<li>Currently a lecturer at Southern Cross Univeristy</li>
+</ul></p>
+<b>Publications</b>
+<ul><li>Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. <i>Headache</i>.</li>
+<li>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>.</li></ul>
+<b>Conference Presentations </b>
+<p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
+
+<h2>Mackenzie Montero</h2>
+<img src="../images/Resized/Mackenzie.png" width="200" style="float: right"/>
+<p> <ul>
+<li>BS-MD Neuroscience - University of Nevada, Reno (2021)</li>
+<li>Currently a medical student at the University of Nevada, Reno</li>
+</ul></p>
+<b>Publications</b>
+<p>Sarah M Haigh, Anna M Haugland, Lourdes M Mendoza, & Mackenzie Montero (2023). Auditory discomfort in visually sensitive individuals. <i>Frontiers in Psychology: Perception Science. 14,</i> 1126481. <a href="https://doi.org/10.3389/fpsyg.2023.1126481">https://doi.org/10.3389/fpsyg.2023.1126481</a>.</p>
+<b>Conference Presentations</b>
+<p>Sarah M Haigh, Lourdes R Mendoza & Mackenzie Montero (Nov 2021). Auditory discomfort in migraine and the visually-sensitive. Poster presented at the virtual Society for Neuroscience conference. </p> 
+
+<h2>Alexandrea Kilgore-Gomez</h2>
+<img src="../images/Resized/Alex.png" width="200" style="float: right"/>
+<p><ul>
+<li>BS Neuroscience - University of Nevada, Reno (2020)</li>
+<li>NIH IRTA postbaccalaureate in Dr. Sheerena Rahman's lab</li>
+<li>Currently a medical student at the University of Nevada, Reno</li>
+</ul></p>
+<b>Publications</b>
+<p>Sarah M Haigh†, Marian E Berryhill†, Alexandrea Kilgore-Gomez, & Michael Dodd (2023). Working memory and sensory memory in schizotypy: an avenue for understanding schizophrenia? (†Joint first authors). <i>European Journal of Neuroscience, 57,</i> 1577-1596. <a href="https://doi.org/10.1111/ejn.15961">https://doi.org/10.1111/ejn.15961</a>.
+</p>
+<br>
+
+<h1>Former Research Assistants</h1>
+<h2>Neville Roy</h2>
+<img src="../images/Resized/Neville.png" width="100" style="float: right"/>
+<p>BS Neuroscience - University of Nevada, Reno (2026)</p>
+<br>
+
+<h2>Mia Price</h2>
+<img src="../images/Resized/Mia.png" width="100" style="float: right"/>
+<p>BS Psychology - University of Nevada, Reno (2026)</p>
+<p>Mia was funded by a Nevada Undergraduate Research Award</p>
+<b>Publications</b><p>
+Wendy A. Torrens, Skylor Olshefsky, Rasia B. Yankaway, Michelle Ruiz, Kensal G. Coudriet, Mia K. Price, Stephanie Otto & Sarah M. Haigh (2026). The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography. <i>Neuroscience. 609</i>(17), 58-68. <a href="https://doi.org/10.1016/j.neuroscience.2026.05.041">https://doi.org/10.1016/j.neuroscience.2026.05.041</a>.  Preprint: <a href="https://doi.org/10.31234/osf.io/cywvd_v1">https://doi.org/10.31234/osf.io/cywvd_v1</a></p>
+<b>Conference Presentations </b><p>
+Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.
+<br>
+
+<h2>Alayna McGuire</h2>
+<img src="../images/Resized/Alayna.png" width="100" style="float: right"/>
+<p>BS Neuroscience - University of Nevada, Reno (2026)</p>
+<p>Alayna was funded by the ENDURE program</p>
+<b>Conference Presentations </b><p>
+Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Flicker and its effect on reading speed and cognition. Poster presented at the Undergraduate Just-In-Time session at the Vision Sciences Society conference, St Pete Beach, FL, USA.
+<br>
+<h2>Isabella Durda</h2>
+<img src="../images/Resized/Izzy.png" width="100" style="float: right"/>
+<p>BA Psychology - University of Nevada, Reno (2025)</p>
+<p>Izzy was funded by the PREP program and a Nevada Undergraduate Research Award</p>
+<b>Publications</b>
+<p>Sarah M Haigh & Isabella M Durda (accepted). Discomfort and reading speed: Effects of migraine. <i>Perception</i>. <a href="https://doi.org/10.1177/03010066261442090">https://doi.org/10.1177/03010066261442090</a>. Preprint: <a href="https://doi.org/10.31234/osf.io/q8dys_v1">https://doi.org/10.31234/osf.io/q8dys_v1</a>. </p>
+<b>Conference Presentations </b>
+<p>Sarah M Haigh & Isabella M Durda (May 2025). Slower reading speed in migraine: effects of discomfort? Poster presented at the Vision Sciences Society conference, St Pete Beach, FL, USA.</p>
+
+<br>
+<h2>Danielle Nochera</h2>
+<img src="../images/Resized/Danielle.png" width="100" style="float: right"/>
+<br>
+
+<h2>Kate Pellegrino</h2>
+<img src="../images/Resized/KateP.png" width="100" style="float: right"/>
+<b>Conference Presentations </b><p>
+Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditory-induced vection and motion sickness. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.
+<br>
+
+<h2>Cheyenne McCormick</h2>
+<img src="../images/Resized/Cheyenne.png" width="100" style="float: right"/>
+<p>BS Psychology - University of Nevada, Reno (2026)</p>
+<br>
+
+<h2>Ruby Snyder</h2>
+<img src="../images/Resized/Ruby.png" width="100" style="float: right"/>
+<b>Conference Presentations </b><p>
+Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditory-induced vection and motion sickness. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.
+<br>
+
+<h2>Kensal Coudriet</h2>
+<img src="../images/Resized/Kensal.png" width="100" style="float: right"/>
+<p>BS Neuroscience - University of Nevada, Reno (2025)</p>
+<p>Kensal was funded by the ENDURE program</p>
+<b>Publications</b><p>
+Wendy A. Torrens, Skylor Olshefsky, Rasia B. Yankaway, Michelle Ruiz, Kensal G. Coudriet, Mia K. Price, Stephanie Otto & Sarah M. Haigh (2026). The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography. <i>Neuroscience. 609</i>(17), 58-68. <a href="https://doi.org/10.1016/j.neuroscience.2026.05.041">https://doi.org/10.1016/j.neuroscience.2026.05.041</a>.  Preprint: <a href="https://doi.org/10.31234/osf.io/cywvd_v1">https://doi.org/10.31234/osf.io/cywvd_v1</a>
+</p>
+<b>Conference Presentations </b><p>
+Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.
+<br>
+
+<h2>Yasmin Perry</h2>
+<img src="../images/Resized/Yasmin.png" width="100" style="float: right"/>
+<p>BA Psychology - University of Nevada, Reno (2025)</p>
+<br>
+
+<h2>Amber Thaxton</h2>
+<img src="../images/Resized/Amber.png" width="100" style="float: right"/>
+<p>BS Neuroscience - University of Nevada, Reno (2024)</p>
+<br>
+
+<h2>Angelina Solorzano-Zamora</h2>
+<img src="../images/Resized/Angelina.png" width="100" style="float: right"/>
+<p>BS Psychology - University of Nevada, Reno (2024)</p>
+<br>
+
+<h2>Michelle Ruiz</h2>
+<img src="../images/Resized/Michelle.png" width="100" style="float: right"/>
+<p>BS Psychology - University of Nevada, Reno (2024)</p>
+<p>Michelle was funded by the ENDURE program</p>
+<b>Publications</b><p>
+Wendy A. Torrens, Skylor Olshefsky, Rasia B. Yankaway, Michelle Ruiz, Kensal G. Coudriet, Mia K. Price, Stephanie Otto & Sarah M. Haigh (2026). The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography. <i>Neuroscience. 609</i>(17), 58-68. <a href="https://doi.org/10.1016/j.neuroscience.2026.05.041">https://doi.org/10.1016/j.neuroscience.2026.05.041</a>.  Preprint: <a href="https://doi.org/10.31234/osf.io/cywvd_v1">https://doi.org/10.31234/osf.io/cywvd_v1</a>
+</p>
+<b>Conference Presentations </b>
+<p><ul>
+<li>Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E Berryhill & Sarah M Haigh (June 2024). Anomalous multisensory cortical excitability in Schizotypy. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
+<li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA.</li>
+</ul></p>
+
+<h2>Hailey Snook</h2>
+<img src="../images/Resized/HaileyS.png" width="100" style="float: right"/>
+<p>BS Psychology - University of Nevada, Reno (2024)</p>
+<br>
+
+<h2>Jackie Vallo</h2>
+<img src="../images/Resized/Jackie.png" width="100" style="float: right"/>
+<p>BS Microbiology & Immunology - University of Nevada, Reno (2023)</p>
+<br>
+
+<h2>Rasia Yankaway</h2>
+<img src="../images/Resized/Rasia.png" width="100" style="float: right"/>
+<p>BS Psychology - University of Nevada, Reno (2024)</p>
+<b>Publications</b><p>
+Wendy A. Torrens, Skylor Olshefsky, Rasia B. Yankaway, Michelle Ruiz, Kensal G. Coudriet, Mia K. Price, Stephanie Otto & Sarah M. Haigh (2026). The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography. <i>Neuroscience. 609</i>(17), 58-68. <a href="https://doi.org/10.1016/j.neuroscience.2026.05.041">https://doi.org/10.1016/j.neuroscience.2026.05.041</a>.  Preprint: <a href="https://doi.org/10.31234/osf.io/cywvd_v1">https://doi.org/10.31234/osf.io/cywvd_v1</a>
+</p>
+<b>Conference Presentations </b>
+<p><ul>
+<li>Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudriet, Mia K Price & Sarah M Haigh (Nov 2025). Testing the Universal Electroencephalography Clip to correct racial bias in electroencephalography. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E Berryhill & Sarah M Haigh (June 2024). Anomalous multisensory cortical excitability in Schizotypy. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
+<li>Wendy A Torrens, Jenna N Pablo, Michelle Ruiz, Rasia Yankaway, Marian E. Berryhill, & Sarah M. Haigh (May 2024). Evidence for abnormal cortical excitability across sensory modalities in high schizotypy. Poster presented at the Society of Biological Psychiatry conference, Austin, TX, USA.</li>
+<li>Wendy A Torrens, Rasia Yankaway, Michelle Ruiz, Sarah M Haigh (November 2023). The effect of hair type on Electroencephalography: Testing a new clip. Poster presented at the Society for Neuroscience conference, Washington DC, USA.</li>
+</ul></p>
+
+<h2>Shane Trivitt</h2>
+<img src="../images/Resized/Shane.png" width="100" style="float: right"/>
+<p>BS Psychology - University of Nevada, Reno (2024)</p>
+<b>Publications</b><p>
+Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. <i>Headache</i>.</p>
+<b>Conference Presentations </b>
+<p>Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (June 2024). Localizing Visual Allodynia in Migraine. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</p>
+
+<h2>Lindsey Bevilacqua</h2>
+<img src="../images/Resized/LindseyB.png" width="100" style="float: right"/>
+<p>BS Psychology - University of Nevada, Reno (2024)</p>
+<br>
+
+<h2>Savanna Blanchette</h2>
+<img src="../images/Resized/Savanna.png" width="100" style="float: right;"/>
+<p>BA Psychology - University of Nevada, Reno (2023)</p>
+<br>
+<h2>Matthew Cummings</h2>
+<img src="../images/Resized/Matthew.png" width="100" style="float: right;"/>
+<p>BS Neuroscience - University of Nevada, Reno (2023)</p>
+<b>Publications</b><p>
+Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. <i>Headache</i>.</p>
+<b>Conference Presentations </b>
+<p>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>.</p>
+<h2>Mariah Meagher</h2>
+<img src="../images/Resized/Mariah.png" width="100" style="float: right;"/>
+<p>BA Psychology - University of Nevada, Reno (2023)</p>
+<br>
+<h2>Jasmine Haggerty</h2>
+<img src="../images/Resized/Jasmine.png" width="100" style="float: right;"/>
+<p>BS Psychology - University of Nevada, Reno (2022)</p>
+<p>Currently a medical student at the University of Cincinnati College of Medicine in Cincinnati, Ohio (class 2028)</p>
+<b>Publications</b>
+<p><ul><li>Sarah M Haigh, Jasmine A Haggerty & Aimee Delgado (2025). Auditory Discomfort and Visual Sensitivity. *Vision Research: Special Issue on Sensory Discomfort. 234*, 108655. <a href="https://doi.org/10.1016/j.visres.2025.108655">https://doi.org/10.1016/j.visres.2025.108655</a>.</li>
+<li>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>.</li></ul></p>
+<b>Conference Presentations </b>
+<p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
+
+<h2>Lena Kemmelmeier</h2>
+<img src="../images/Resized/Lena.png" width="100" style="float: right;"/>
+<p>BA Psychology - University of Nevada, Reno (2025)</p>
+<p>Currently a graduate student at UC San Diego</p>
+<p>Lena was funded by our R15 AREA grant from NIMH</p>
+<b>Publications</b>
+<ul><li>Sarah M Haigh, Wendy A Torrens, Jenna N Pablo, Lena L Kemmelmeier, & Marian E Berryhill (2026). Individual differences in susceptibility to color induced discomfort. <i>Vision Research: Special Issue on Sensory Discomfort. 245</i>, 108833. <a href="https://doi.org/10.1016/j.visres.2026.108833">https://doi.org/10.1016/j.visres.2026.108833</a></li>
+<li>Jenna N Pablo, Lena L Kemmelmeier, Hector Arciniega, Jorja Shires, Wendy A Torrens, Marian E Berryhill & Sarah M Haigh (2026). No evidence of perturbed early auditory processing in undergraduates with a history of mild traumatic brain injury. <i>European Journal of Neuroscience: The Neuronal Basis of Mismatch Negativity (MMN) and Its Clinical Applications: A Special Collection in Honour of Professor Risto Näätänen (1939-2023). 63</i>(7). <a href="https://doi.org/10.1111/ejn.70494">https://doi.org/10.1111/ejn.70494.</a></li>
+<li>Jenna N Pablo, Jorja Shires, Wendy A Torrens, Lena L Kemmelmeier, Sarah M Haigh, & Marian E Berryhill (2025). Identifying Overlapping and Distinctive Traits in Subclinical Autism and Schizophrenia Using Machine Learning Classification. <i>Cognitive Neuropsychiatry. 30</i>(2), 69-91. <a href="https://doi.org/10.1080/13546805.2025.2464728">https://doi.org/10.1080/13546805.2025.2464728</a></li></ul>
+<b>Conference Presentations </b><ul>
+<li>Marian E Berryhill, Jenna N Pablo, Lena L Kemmelmeier, Wendy A Torrens & Sarah M Haigh (Nov 2025). Barking up the wrong tree: Visual, not auditory, sensitivity differences in high schizotypy. Poster presented at the Society for Neuroscience conference, San Diego, CA, USA.</li>
+<li>Lena L Kemmelmeier, Jenna N Pablo, Jorja Shires, Hector Arciniega, Wendy A Torrens, Sarah M Haigh, Marian E Berryhill (April 2024). Reduced mismatch negativity in college students with a history of mTBI. Poster presented at the Cognitive Neurosciences Society conference, Toronto, ON, Canada.</li>
+<li>Jorja Shires, Jenna N. Pablo, Wendy A. Torrens, Lena L. Kemmelmeier, Sarah M. Haigh, Marian E. Berryhill (April 2023). Classifying Schizotypy Trait Load Using Autism-Spectrum Quotient Scores. Poster presented at the Society of Biological Psychiatry conference. San Diego, CA, USA.</li></ul>
+<br>
+<h2>Karina Kneeland</h2>
+<img src="../images/Resized/Karina.png" width="100" style="float: right;"/>
+<p>BA Psychology - University of Nevada, Reno (2024)</p>
+<p>Karina was funded by our R15 AREA grant from NIMH</p>
+<br>
+<h2>Wesley Chen</h2>
+<img src="../images/Resized/Wesley.png" width="100" style="float: right;"/>
+<p>BS Neuroscience - University of Nevada, Reno (2022)</p>
+<br>
+<h2>Kevin Soto</h2>
+<img src="../images/Resized/Kevin.png" width="100" style="float: right;"/>
+<br><br>
+
+<h2>Anna Haugland</h2>
+<img src="../images/Resized/AnnaH.png" width="100" style="float: right;"/>
+<p>BA Psychology - University of Nevada, Reno (2022)</p>
+<b>Publications </b>
+<p>Sarah M Haigh, Anna M Haugland, Lourdes M Mendoza, & Mackenzie Montero (2023). Auditory discomfort in visually sensitive individuals. <i>Frontiers in Psychology: Perception Science. 14,</i> 1126481. <a href="https://doi.org/10.3389/fpsyg.2023.1126481">https://doi.org/10.3389/fpsyg.2023.1126481</a>.</p>
+<h2>Janea Santiago</h2>
+<img src="../images/Resized/Janea.png" width="100" style="float: right;"/>
+<p>BS Neuroscience - University of Nevada, Reno (2022)</p>
+<b>Conference Presentations </b>
+<p>Sarah M Haigh, Melissa M Cortez, Lauren M Thompson, Anastasia Chevychalova, Janea Santiago & KC Brennan (Nov 2022). Sensory sensitivity across the migraine cycle. Poster presented at the Society of Neuroscience conference. San Diego, CA, USA.</p>
+
+<h2>Laura Van Key</h2>
+<img src="../images/Resized/LauraVK.png" width="100" style="float: right;"/>
+<p>BS Molecular Microbiology & Immunology and Nursing - University of Nevada, Reno (2023)</p>
+<b>Publications</b>
+<p><ul><li>Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (accepted). Electroretinography and Pupillary Response in Migraine. <i>Headache</i>.</li>
+<li>Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury & Marlene Behrmann (2023). Assessing Trial-to-Trial Variability in Auditory ERPs in Autism and Schizophrenia. S.I.: Developmental Approach and Targeted Treatment of Sensory Alterations. <i>Journal of Autism and Developmental Disorders. 53</i>(12), 4856-4871. <a href="https://doi.org/10.1007/s10803-022-05771-0">https://doi.org/10.1007/s10803-022-05771-0</a>.</li></ul></p>
+<b>Conference Presentations </b>
+<p>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>. </p>
+
+<h2>Anastasiya Chevychalova</h2>
+<img src="../images/Resized/AnaC.png" width="100" style="float: right;"/>
+<p>BS Neuroscience - University of Nevada, Reno (2022)</p>
+<b>Conference Presentations </b>
+<p>Sarah M Haigh, Melissa M Cortez, Lauren M Thompson, Anastasia Chevychalova, Janea Santiago & KC Brennan (Nov 2022). Sensory sensitivity across the migraine cycle. Poster presented at the Society of Neuroscience conference. San Diego, CA, USA.</p>
+
+<h2>Tabatha Walford</h2>
+<img src="../images/Resized/Tabatha.png" width="100" style="float: right;"/>
+<p>BA Psychology - Honors College, University of Nevada, Reno (2021)</p>
+<p>Tabatha was funded by a Nevada Undergraduate Research Award</p>
+<b>Publications</b>
+<p>Sarah M Haigh, Tabatha P Walford, & Patricia Brosseau (2021). Heart rate variability in schizophrenia and autism. <i>Frontiers in Psychiatry: Schizophrenia. 12,</i> 2129. <a href="https://doi.org/10.3389/fpsyt.2021.760396">https://doi.org/10.3389/fpsyt.2021.760396</a>.</p>
+<h2>Lourdes Mendoza</h2>
+<img src="../images/Resized/Lulu.png" width="100" style="float: right;"/>
+<p>BS Psychology - University of Nevada, Reno (2021)</p>
+<p>Currently a Masters student in Music Therapy at Texas Women's University</p>
+<b>Publications</b>
+<p>Sarah M Haigh, Anna M Haugland, Lourdes M Mendoza, & Mackenzie Montero (2023). Auditory discomfort in visually sensitive individuals. <i>Frontiers in Psychology: Perception Science. 14,</i> 1126481. <a href="https://doi.org/10.3389/fpsyg.2023.1126481">https://doi.org/10.3389/fpsyg.2023.1126481</a>.</p>
+
+<h2>Xortia Ross</h2>
+<img src="../images/Resized/Xortia.png" width="100" style="float: right;"/>
+<p>BS Behavioral Analysis - University of Nevada, Reno (2021)</p>
+<b>Publications</b>
+<p>Olivier Penacchio, Sarah M Haigh, Xortia Ross, Rebecca Ferguson, & Arnold J Wilkins (2021). Visual discomfort and variations in chromaticity in art and nature. <i>Frontiers in Neuroscience: Perception Science. 15,</i> 1706. <a href="https://doi.org/10.3389/fnins.2021.711064">https://doi.org/10.3389/fnins.2021.711064</a></p> 
+<b>Conference Presentations </b>
+<p><ul>
+<li>Sarah M Haigh & Xortia Ross (May 2022). Sensitivity to chromaticity separation – Is it helpful? Poster presented at the Vision Sciences Society conference. St Petersburg, FL, USA. <i>Journal of Vision. 22</i>(14), 3778-3778. <a href="https://doi.org/10.1167/jov.22.14.3778">https://doi.org/10.1167/jov.22.14.3778</a>. </li>
+<li>Olivier Penacchio, Sarah Haigh, Xortia Ross, Rebecca Ferguson & Arnold Wilkins (August, 2021). Visual discomfort and the chromatic content of natural scenes. Talk presented virtually at the European Conference on Visual Perception. <i>Perception, 50</i>(Suppl), 53.</li>
+<li>Xortia Ross, Sarah M Haigh, Arnold J Wilkins & Olivier Penacchio (May 2021). Discomfort form Contemporary Art. Poster presented at the Virtual Vision Sciences Society (V-VSS) conference – undergraduate poster session. <i>Journal of Vision. 21</i>(9), 2959-2959. <a href="https://doi.org/10.1167/jov.21.9.2959">https://doi.org/10.1167/jov.21.9.2959</a>.</li>
+<li>Olivier Penacchio, Sarah Haigh, Xortia Ross, Rebecca Ferguson & Arnold Wilkins (December, 2020). Predicting visual discomfort from images. Talk presented virtually at the Applied Vision Association conference, London, UK. <i>Perception, 50</i>(6), 580-580. </li>
+</ul></p>
+
+<h2>Rebecca Ferguson</h2>
+<img src="../images/Resized/Becca.png" width="100" style="float: right;"/>
+<p>BS Behavioral Analysis - University of Nevada, Reno (2021)</p>
+<b>Publications</b>
+<p>Olivier Penacchio, Sarah M Haigh, Xortia Ross, Rebecca Ferguson, & Arnold J Wilkins (2021). Visual discomfort and variations in chromaticity in art and nature. <i>Frontiers in Neuroscience: Perception Science. 15,</i> 1706. <a href="https://doi.org/10.3389/fnins.2021.711064">https://doi.org/10.3389/fnins.2021.711064</a>.</p> 
+<b>Conference Presentations </b>
+<p><ul>
+<li>Sarah M Haigh & Xortia Ross (May 2022). Sensitivity to chromaticity separation – Is it helpful? Poster presented at the Vision Sciences Society conference. St Petersburg, FL, USA. <i>Journal of Vision. 22</i>(14), 3778-3778. <a href="https://doi.org/10.1167/jov.22.14.3778">https://doi.org/10.1167/jov.22.14.3778</a>. </li>
+<li>Olivier Penacchio, Sarah Haigh, Xortia Ross, Rebecca Ferguson & Arnold Wilkins (August, 2021). Visual discomfort and the chromatic content of natural scenes. Talk presented virtually at the European Conference on Visual Perception. <i>Perception, 50</i>(Suppl), 53.</li>
+<li>Olivier Penacchio, Sarah Haigh, Xortia Ross, Rebecca Ferguson & Arnold Wilkins (December, 2020). Predicting visual discomfort from images. Talk presented virtually at the Applied Vision Association conference, London, UK. <i>Perception, 50</i>(6), 580-580. </li>
+</ul></p>
+
+<h2>Rory Thompson</h2>
+<p>BA Psychology - Vassar College (2021)</p>
+<b>Publications</b>
+<p>Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty, Arnold J Wilkins & Sarah M Haigh (2024). Flicker Slows Reading Speed: Effects on Individuals with Visually Sensitivity. <i>Perception. 53</i>(8), 512-528. <a href="https://doi.org/10.1177/03010066241252066">https://doi.org/10.1177/03010066241252066</a>. </p>
+<b>Conference Presentations </b>
+<p>Sarah M Haigh, Melissa M Cortez, Lauren M Thompson, Anastasia Chevychalova, Janea Santiago & KC Brennan (Nov 2022). Sensory sensitivity across the migraine cycle. Poster presented at the Society of Neuroscience conference. San Diego, CA, USA.</p>
+<p>Sarah M Haigh, Caitlin A Laycox, Rory Thompson, Jasmine A Haggerty & Arnold J Wilkins (May 2023). Flicker Impairs Reading Speed: Impacts on the Visually Sensitive. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 4782. <a href="https://doi.org/10.1167/jov.23.9.4782">https://doi.org/10.1167/jov.23.9.4782</a>.</p>
+
+<h2>Zoe Slaughter</h2>
+<img src="../images/Resized/Zoe.png" width="100" style="float: right;"/>
+<p>BA Psychology - Honors College, University of Nevada, Reno (2020)</p><br>
+
+<h2>Pat Brosseau</h2>
+<p>BS Psychology - Carnegie Mellon University (2020)</p>
+<p>Funded by our NARSAD award</p>
+<b>Publications </b>
+<p><ul>
+<li>Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury & Marlene Behrmann (2023). Assessing Trial-to-Trial Variability in Auditory ERPs in Autism and Schizophrenia. S.I.: Developmental Approach and Targeted Treatment of Sensory Alterations. <i>Journal of Autism and Developmental Disorders. 53</i>(12), 4856-4871. <a href="https://doi.org/10.1007/s10803-022-05771-0">https://doi.org/10.1007/s10803-022-05771-0</a>.</li> 
+<li>Sarah M Haigh, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury, & Marlene Behrmann (2022). Hyper-sensitivity to pitch and poorer prosody processing in adults with autism: an ERP study. <i>Frontiers in Psychiatry: Autism. 13.</i> <a href="https://doi.org/10.3389/fpsyt.2022.844830 ">https://doi.org/10.3389/fpsyt.2022.844830</a>.</li>
+<li>Sarah M Haigh, Laura Van Key, Pat Brosseau, Shaun M Eack, David I Leitman, Dean F Salisbury & Marlene Behrmann (2023). Assessing Trial-to-Trial Variability in Auditory ERPs in Autism and Schizophrenia. S.I.: Developmental Approach and Targeted Treatment of Sensory Alterations. <i>Journal of Autism and Developmental Disorders. 53</i>(12), 4856-4871. <a href="https://doi.org/10.1007/s10803-022-05771-0">https://doi.org/10.1007/s10803-022-05771-0</a>.</li></ul></p> 
+<b>Conference Presentations </b>
+<p><ul>
+<li>Sarah M Haigh, Patricia Brosseau, Shaun M Eack, Chinmaya Lele, David I Leitman, Dean F Salisbury, Marlene Behrmann (May 2020). Hyper- and hypo-sensitivity to pitch is related to poorer prosody processing: a study in autism and schizophrenia. Poster online at the Society of Biological Psychiatry conference. New York, NY, USA. <i>Biological Psychiatry 87</i>(9), S183. <a href="https://doi.org/10.1016/j.biopsych.2020.02.481">https://doi.org/10.1016/j.biopsych.2020.02.481</a>.</li>
+<li>Sarah M Haigh, Patricia Brosseau, Shaun M Eack, Chinmaya Lele, David I Leitman, Dean F Salisbury & Marlene Behrmann (October 2019). Hyper-sensitivity to pitch is related to poorer prosody processing in adults with autism. Poster presented at the Society for Neuroscience. Chicago, IL, USA.</li></ul></p> 

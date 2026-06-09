@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Research"
+    url: /research/
+        
+  - title: "People"
+    url: /people/
+    
+  - title: "Publications"
+    url: /publications/
+        
+  - title: "Lab Photos"
+    url: /photos/
+
+  - title: "ECS"
+    url: /ECS/
