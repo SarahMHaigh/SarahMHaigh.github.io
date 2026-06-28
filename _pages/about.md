@@ -47,7 +47,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>June 2026</b> - Carson's ERG in migraine paper is now available! Check it out [here](https://doi.org/10.1111/head.70104)
 
-<b>June 2026</b> - A review paper on visual discomfort that is the direct result of the first Visual Discomfort Meeting from Jan 2025 has been published in Vision. Thanks to everyone who worked on this and for Paul Hibbard, Arnold Wilkins, and Beverly Burke for arm wrestling us all into making a coherent document.
+<b>June 2026</b> - A review paper on visual discomfort that is the direct result of the first Visual Discomfort Meeting from Jan 2025 has been published in Vision. Thanks to everyone who worked on this and for Paul Hibbard, Arnold Wilkins, and Beverly Burke for arm wrestling us all into making a coherent document. Access [here](https://doi.org/10.3390/vision10020034)
 
 <b>May 2026</b> - Wendy's paper using hair clips to improve inclusivity for EEG recordings has officially been accepted to Neuroscience! Access early [here](https://authors.elsevier.com/c/1nCPs15hTu4bAp) and see the materials [here](https://osf.io/sx6cm/overview)
 
