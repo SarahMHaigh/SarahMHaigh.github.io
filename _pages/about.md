@@ -45,6 +45,8 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>June 2026</b> - Sebastian was awarded a Nevada NASA Space Consortium grant to work on the effects of visual discomfort on attention - congratulations!!!
+
 <b>June 2026</b> - Carson's ERG in migraine paper is now available! Check it out [here](https://doi.org/10.1111/head.70104)
 
 <b>June 2026</b> - A review paper on visual discomfort that is the direct result of the first Visual Discomfort Meeting from Jan 2025 has been published in Vision. Thanks to everyone who worked on this and for Paul Hibbard, Arnold Wilkins, and Beverly Burke for arm wrestling us all into making a coherent document. Access [here](https://doi.org/10.3390/vision10020034)
