@@ -49,7 +49,7 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>July 2026</b> - One of our alum, Michelle Ruiz, has been accepted to the [University of Delaware's Post-Bac Bridge Program](https://www.udel.edu/academics/colleges/cas/units/departments/psychological-and-brain-sciences/graduate-programs/delaware-bridge-program/) to work with Tim Vickery. This is a wonderful program to help students gain the additional expertise needed to get to grad school, whilst also working on mentored research.
 
-<b>July 2026</b> - Shameful self plug, but honored to be nominated... 
+<b>July 2026</b> - Shameful self plug, but honored to be nominated... See interview [here](https://touchneurology.com/insight/flb-sarah-haigh-explores-our-understanding-of-sensory-symptoms-in-neurological-disorders-touchneurology-future-leader-2026/)
 <img src="../images/neuro Future Leaders_profile.jpg" width="300"/>
 
 <b>June 2026</b> - Sebastian was awarded a [Nevada NASA Space Consortium](https://nasa.epscorspo.nevada.edu/funding/2026-2027-nvsgc-fellowship/) grant to work on the effects of visual discomfort on attention - congratulations!!!
