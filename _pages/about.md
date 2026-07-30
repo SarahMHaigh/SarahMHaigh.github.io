@@ -45,7 +45,12 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
-<b>June 2026</b> - Sebastian was awarded a Nevada NASA Space Consortium grant to work on the effects of visual discomfort on attention - congratulations!!!
+<b>July 2026</b> - One of our recently graduated alum, Izzy Durda, was interviewed about her experience with the [PREP program](https://www.unr.edu/undergradresearch/opportunities/prep) and as a [NURA](https://www.unr.edu/undergradresearch/opportunities/nura) awardee. See the full interview [here](https://www.unr.edu/nevada-today/news/2026/fotp-isabella-durda?utm_source=newsletter072326&utm_medium=email&utm_content=research&utm_campaign=NevadaWeekly)
+
+<b>July 2026</b> - Shameful self plug, but honored to be nominated... 
+<img src="../images/neuro Future Leaders_profile.jpg" width="300"/>
+
+<b>June 2026</b> - Sebastian was awarded a [Nevada NASA Space Consortium](https://nasa.epscorspo.nevada.edu/funding/2026-2027-nvsgc-fellowship/) grant to work on the effects of visual discomfort on attention - congratulations!!!
 
 <b>June 2026</b> - Carson's ERG in migraine paper is now available! Check it out [here](https://doi.org/10.1111/head.70104)
 
@@ -65,16 +70,18 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 <b>May 2026</b> - Really nice day: CBS Spring Symposium where we heard from the junior graduate students on their fun work and celebrated our accomplishments over the semester, followed by the CoS award ceremony where Dr. Jenna Pablo recieved the GSA award for Oustanding Graduating Graduate Student!<br>
 <img src="../images/JP_GSAaward.jpeg" width="150"/> <img src="../images/JP_GSAaward2.jpeg" width="200"/>
 
+<b>May 2026</b> - Sid Hulsey was awarded a [NURA](https://www.unr.edu/undergradresearch/opportunities/nura) to support her work investigating the neural correlates of auditory discomfort!
+
 <b>April 2026</b> - Finishing another successful CBS Brown Bag semester with a delicious potluck.
 <img src="../images/Potluck_S2026.jpeg" width="200"/> <img src="../images/Potluck2_S2026.jpeg" width="200"/>
 
 <b>April 2026</b> - Another successful turn out to the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session. Great work from Alayna McGuire, Neville Roy, Cooper Chavez, and Sid Hulsey.
 <img src="../images/AlaynaWPD_S2026.jpeg" width="200"/> <img src="../images/NevilleWPD_S2026.jpeg" width="200"/> <img src="../images/CooperWPD_S2026.jpeg" width="200"/> <img src="../images/SidWPD_S2026.jpeg" width="200"/>
 
-<b>April 2026</b> - A long time collaborator and friend of the lab, Jenna Pablo, has also successfully defenced her dissertation. Congratulations Dr. Pablo!!!<br>
+<b>April 2026</b> - A long time collaborator and friend of the lab, Jenna Pablo, has successfully defenced her dissertation. Congratulations Dr. Pablo!!!<br>
 <img src="../images/Jenna.jpg" width="200"/> <img src="../images/JennaDefence.jpeg" width="200"/>
 
-<b>April 2026</b> - Carson has also successfully defended his dissertation. Congratulations Dr. Smith!!!
+<b>April 2026</b> - Carson has successfully defended his dissertation. Congratulations Dr. Smith!!!
 
 <b>April 2026</b> - Wendy has successfully defended her dissertation. Congratulations Dr. Torrens!!!
 <img src="../images/DrTorrens.jpg" width="150"/>
@@ -82,10 +89,6 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 <b>April 2026</b> - Just found out that one of our UG alum, Lena Kemmelmeier, was just awarded a GRFP from the NSF - congratulations!!!!
 
 <b>April 2026</b> - New paper with Wendy Torrens, Jenna Pablo, and Lena Kemmelmeier following a summer study from 2023 :-O Access early [here](https://authors.elsevier.com/a/1myNx9jMUKGhM)
-
-<b>April 2026</b> - Carson Smith will be defending his dissertation on April 21st 2026 at 12:30pm in EMM Bijou. Come and hear about his fascinating work on auditory-induced vection and motion sickness!
-
-<b>March 2026</b> - Wendy Torrens will be defending her dissertation on April 17th 2026 at 11:30am in EMM Bijou. Please come support her as she describes her new interesting findings on how sensory processing differs between subclincial schizotypy and autism, and why this is an exciting step forward for psychiatry. See posting here: [https://events.unr.edu/event/dissertation-defense-wendy-torrens](https://events.unr.edu/event/dissertation-defense-wendy-torrens)
 
 <b>March 2026</b> - New paper from one of our undergrad alum, Izzy Durda, on discomfort and reading speed in individuals with migraine, accepted in Perception. Izzy started this project when she was a freshman and so proud to see her hard work come to light. Access the paper here: [https://doi.org/10.1177/03010066261442090](https://doi.org/10.1177/03010066261442090)
 
@@ -130,6 +133,8 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 <img src="../images/SidVSS.jpeg" width="200"/>
 
 <b>Graduation 2025</b> - Congratulations to Kensal Coudriet and Yasmin Perry on graduating! Thank you for your hard work and good luck.
+
+<b>May 2025</b>> - Mia Price was awarded a [NURA](https://www.unr.edu/undergradresearch/opportunities/nura) to examine racial bias associated with hair texture!
 
 <b>May 2025</b> - Sid Hulsey, Alayna McGuire, Kensal Coudriet, & Marcos Moreno Cervantes presented their work at the [WolfPack Discoveries](https://www.unr.edu/wolfpackdiscoveries) poster session.
 

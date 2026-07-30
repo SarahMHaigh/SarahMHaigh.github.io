@@ -31,7 +31,7 @@ redirect_from:
 <li>Currently a PhD student in Cognitive and Brain Sciences at the University of Nevada, Reno</li>
 </ul></p>
 <p>My research investigates the implementation and limitations of dynamic systems of attention to explain the human sensory experience. Using neurophysiological tools like electroencephalography (EEG), I study how the brain accesses, communicates, and models sensory information. I strive to ground traditionally abstract topics, such as consciousness, awareness, and agency, within a physically plausible framework.</p>
-<p>Sebastian comes to us from Steve Luck's lab at UC Davis and has already presented at international conferences!</p>
+<p>Currently funded by a Nevada NASA Space Consortium grant</p>
 
 <h2>Wendy Alfonso Torrens</h2>
 <img src="../images/Resized/Wendy.png" width="200" style="float: right"/>
@@ -101,7 +101,7 @@ redirect_from:
 <h2>Sidney Hulsey</h2>
 <img src="../images/Resized/Sid.png" width="200" style="float: right"/>
 <p> Hi! I am a junior at the University of Nevada, Reno studying Neuroscience with a minor/certificate in Gerontology. Previously, I worked in Dr. Piantadosi’s Computation and Language Lab for a summer studying psychophysical modeling techniques for approximate number tasks. My research interests are in sensory processing and neurodevelopmental disorders. I love working with students on campus with IDDs and other disabilities with the P2I and TAPDINTO-STEM programs. After graduating, I plan to apply to an M.D.-Ph.D. program where I can further pursue my interests. </p>
-<p>Sid is currently funded by the ENDURE program</p>
+<p>Sid is was funded by the ENDURE program and is now funded by a NURA</p>
 <b>Conference Presentations </b>
 <p><ul>
 <li>Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Flicker and its effect on reading speed and cognition. Poster presented at the Undergraduate Just-In-Time session at the Vision Sciences Society conference, St Pete Beach, FL, USA.</li>
