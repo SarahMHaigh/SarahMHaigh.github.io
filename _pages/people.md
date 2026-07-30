@@ -42,7 +42,7 @@ redirect_from:
 <li>Currently a post-doctoral researcher at the UCSF VA working with Daniel Mathalon</li>
 </ul></p>
 <p>My research focuses on contributing to the understanding of the neurobiological mechanisms underlying the sensory experience of individuals with schizophrenia and autism. I also strive to improve neurophysiological methods (e.g., electroencephalography) by developing more racially inclusive materials.</p>
-<p>Wendy was awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types. This work is already preregistered <a href="here">https://doi.org/10.17605/OSF.IO/AXU2C</a> and will be updated with tools and information as the project progresses.</p>
+<p>Wendy was awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types. This work is preregistered <a href="here">https://doi.org/10.17605/OSF.IO/AXU2C</a> and will be updated with tools and information as the project progresses.</p>
 <b>Publications </b>
 <p><ul>
 <li>Wendy A. Torrens, Skylor Olshefsky, Rasia B. Yankaway, Michelle Ruiz, Kensal G. Coudriet, Mia K. Price, Stephanie Otto & Sarah M. Haigh (2026). The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography. <i>Neuroscience. 609</i>(17), 58-68. <a href="https://doi.org/10.1016/j.neuroscience.2026.05.041">https://doi.org/10.1016/j.neuroscience.2026.05.041</a>.  Preprint: <a href="https://doi.org/10.31234/osf.io/cywvd_v1">https://doi.org/10.31234/osf.io/cywvd_v1</a></li>
@@ -290,6 +290,7 @@ Wendy A Torrens, Skylor Olshefsky, Rasia Yankaway, Michelle Ruiz, Kensal Coudrie
 <img src="../images/Resized/Michelle.png" width="100" style="float: right"/>
 <p>BS Psychology - University of Nevada, Reno (2024)</p>
 <p>Michelle was funded by the ENDURE program</p>
+<p>Now at the University of Delaware under their <a href="Post-Bac Bridge program">https://www.udel.edu/academics/colleges/cas/units/departments/psychological-and-brain-sciences/graduate-programs/delaware-bridge-program/</a></p>
 <b>Publications</b><p>
 Wendy A. Torrens, Skylor Olshefsky, Rasia B. Yankaway, Michelle Ruiz, Kensal G. Coudriet, Mia K. Price, Stephanie Otto & Sarah M. Haigh (2026). The Universal Electroencephalography Clip reduces hair-texture bias in electroencephalography. <i>Neuroscience. 609</i>(17), 58-68. <a href="https://doi.org/10.1016/j.neuroscience.2026.05.041">https://doi.org/10.1016/j.neuroscience.2026.05.041</a>.  Preprint: <a href="https://doi.org/10.31234/osf.io/cywvd_v1">https://doi.org/10.31234/osf.io/cywvd_v1</a>
 </p>

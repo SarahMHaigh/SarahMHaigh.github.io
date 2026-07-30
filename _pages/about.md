@@ -47,6 +47,8 @@ We always want to celebrate the accomplishments of the students in the lab, so h
 
 <b>July 2026</b> - One of our recently graduated alum, Izzy Durda, was interviewed about her experience with the [PREP program](https://www.unr.edu/undergradresearch/opportunities/prep) and as a [NURA](https://www.unr.edu/undergradresearch/opportunities/nura) awardee. See the full interview [here](https://www.unr.edu/nevada-today/news/2026/fotp-isabella-durda?utm_source=newsletter072326&utm_medium=email&utm_content=research&utm_campaign=NevadaWeekly)
 
+<b>July 2026</b> - One of our alum, Michelle Ruiz, has been accepted to the [University of Delaware's Post-Bac Bridge Program](https://www.udel.edu/academics/colleges/cas/units/departments/psychological-and-brain-sciences/graduate-programs/delaware-bridge-program/) to work with Tim Vickery. This is a wonderful program to help students gain the additional expertise needed to get to grad school, whilst also working on mentored research.
+
 <b>July 2026</b> - Shameful self plug, but honored to be nominated... 
 <img src="../images/neuro Future Leaders_profile.jpg" width="300"/>
 
