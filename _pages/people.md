@@ -44,8 +44,8 @@ redirect_from:
 <b>Publications </b>
 <p><ul>
 <li>Draper, C., Delgado, M. F., Glatley, B., Barraza, R., & de los Reyes, W. (2026). Peer power: The role of peers on the sociopolitical development of immigrant-origin Latinx youth. Journal of Social Issues, 82, e70077. <a href="https://doi.org/10.1111/josi.70077">https://doi.org/10.1111/josi.70077</a></li> 
-<li>de los Reyes, W., Sánchez, B., Draper, C., & Barraza, R. (2025). To help or hinder: The role of nonparental adults in the sociopolitical development of immigrant-origin Latinx emerging adults. Journal of Adolescent Research, 0(0). <a href="https://doi.org/10.1177/07435584251344276">https://doi.org/10.1177/07435584251344276</a>
-</li></ul>
+<li>de los Reyes, W., Sánchez, B., Draper, C., & Barraza, R. (2025). To help or hinder: The role of nonparental adults in the sociopolitical development of immigrant-origin Latinx emerging adults. Journal of Adolescent Research, 0(0). <a href="https://doi.org/10.1177/07435584251344276">https://doi.org/10.1177/07435584251344276</a></li>
+</ul></p>
 
 <h2>Sebastian Lopez</h2>
 <img src="../images/Resized/Sebastian.png" width="200" style="float: right"/>
