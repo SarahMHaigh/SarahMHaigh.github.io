@@ -24,6 +24,30 @@ redirect_from:
 <br>
 
 <h1>Graduate Students</h1>
+<h2>Annie Roche Hendrick</h2>
+<img src="../images/Resized/Annie.png" width="200" style="float: right"/>
+<p><ul>
+<li> BA (Honors) English, with a minor in Philosophy — Louisiana Tech University</li>
+<li>BA (Honors) Psychology — Louisiana Tech University</li>
+<li>MS Clinical Research Management — Arizona State University</li>
+<li>Currently a PhD student in Cognitive & Brain Sciences at the University of Nevada, Reno</li>
+</ul></p>
+<p>My research interests center on how visual perception and mental imagery abilities shape subjective and aesthetic experience. I am particularly interested in how visual features such as contrast, color, pattern, and form can produce dramatically different experiences across individuals, from aesthetic pleasure and deep emotions to aversion and perceptual discomfort.  I am also interested in how these perceptual qualities can be evoked internally through mental imagery and written language, including how visually suggestive features of poetry may engage perceptual and imagery-related processes. More broadly, I hope to understand how individual differences in sensory processing and imagery contribute to what we find beautiful, compelling, uncomfortable, or 'just right'. I approach these research questions using behavioral and neurophysiological methods, namely electroencephalography (EEG).</p>
+
+<h2>Corissa Draper</h2>
+<img src="../images/Resized/Corissa.png" width="200" style="float: right"/>
+<p><ul>
+<li> BA in Psychology, minors in Biology, Sociology, and Spanish - DePaul University</li>
+<li>Currently a PhD student in Integrative Neuroscience at the University of Nevada - Reno</li>
+</ul></p>
+<p>My research focuses on understanding how sensory perception can determine neural biomarkers and differences in people with subclinical autism and schizophrenia. Prior to this work, I examined how peer, family, and community contexts shape resilience among immigrant-origin Latinx youth.</p>
+<b>Publications </b>
+<p><ul>
+<li>Draper, C., Delgado, M. F., Glatley, B., Barraza, R., & de los Reyes, W. (2026). Peer power: The role of peers on the sociopolitical development of immigrant-origin Latinx youth. Journal of Social Issues, 82, e70077. <a href="https://doi.org/10.1111/josi.70077">https://doi.org/10.1111/josi.70077</a></li> 
+<li>de los Reyes, W., Sánchez, B., Draper, C., & Barraza, R. (2025). To help or hinder: The role of nonparental adults in the sociopolitical development of immigrant-origin Latinx emerging adults. Journal of Adolescent Research, 0(0). <a href="https://doi.org/10.1177/07435584251344276">https://doi.org/10.1177/07435584251344276</a></li>
+
+
+
 <h2>Sebastian Lopez</h2>
 <img src="../images/Resized/Sebastian.png" width="200" style="float: right"/>
 <p> <ul>
@@ -33,6 +57,28 @@ redirect_from:
 <p>My research investigates the implementation and limitations of dynamic systems of attention to explain the human sensory experience. Using neurophysiological tools like electroencephalography (EEG), I study how the brain accesses, communicates, and models sensory information. I strive to ground traditionally abstract topics, such as consciousness, awareness, and agency, within a physically plausible framework.</p>
 <p>Currently funded by a Nevada NASA Space Consortium grant</p>
 
+<h1>Undergraduate and Volunteer Research Assistants</h1>
+<h2>Cooper Chavez</h2>
+ <img src="../images/Resized/Cooper.png" width="200" style="float: right"/>
+<p>Hi! I’m a freshman at UNR studying Microbiology & Immunology with additional interests in Neuroscience and Psychology. I’m especially fascinated by cognitive variability and the ways individuals differ in how they perceive and respond to their environment. I’m grateful to be involved in undergraduate research through the PREP program, where I’m learning how to ask scientific questions and develop the skills to answer them under mentorship. My long term goal is to practice medicine while contributing to research that benefits vulnerable and underserved populations. Outside of academics, I love to rock climb, ski, and spend time with my family.</p>
+<br>
+
+<h2>Marcos Moreno Cervantes</h2>
+<img src="../images/Resized/Marcos.png" width="200" style="float: right"/>
+<p>Hey, my name is Marcos Moreno Cervantes. I am a Freshman at the University of Nevada, Reno, majoring in neuroscience. I love learning about the mind and finding ways to use that information to optimize my life. Along with this, I enjoy weightlifting, cinematography, and mixing music during my free time. I have no background in research but recently got accepted into PREP with Dr. Haigh as my mentor. I aspire to become a psychiatrist, where I will gain a better understanding of the mind and body to not only help those with psychiatric disorders but also neurotypical individuals.</p>
+<br>
+
+<h2>Sidney Hulsey</h2>
+<img src="../images/Resized/Sid.png" width="200" style="float: right"/>
+<p> Hi! I am a junior at the University of Nevada, Reno studying Neuroscience with a minor/certificate in Gerontology. Previously, I worked in Dr. Piantadosi’s Computation and Language Lab for a summer studying psychophysical modeling techniques for approximate number tasks. My research interests are in sensory processing and neurodevelopmental disorders. I love working with students on campus with IDDs and other disabilities with the P2I and TAPDINTO-STEM programs. After graduating, I plan to apply to an M.D.-Ph.D. program where I can further pursue my interests. </p>
+<p>Sid is was funded by the ENDURE program and is now funded by a NURA</p>
+<b>Conference Presentations </b>
+<p><ul>
+<li>Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Flicker and its effect on reading speed and cognition. Poster presented at the Undergraduate Just-In-Time session at the Vision Sciences Society conference, St Pete Beach, FL, USA.</li>
+<li>Sidney K Hulsey & Sarah M Haigh (Nov 2025). Detection of sounds and auditory discomfort. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li></ul>
+<br>
+
+<h1>Former Graduate Students</h1>
 <h2>Wendy Alfonso Torrens</h2>
 <img src="../images/Resized/Wendy.png" width="200" style="float: right"/>
 <p> <ul>
@@ -41,7 +87,6 @@ redirect_from:
 <li>PhD Neuroscience - University of Nevada, Reno</li>
 <li>Currently a post-doctoral researcher at the UCSF VA working with Daniel Mathalon</li>
 </ul></p>
-<p>My research focuses on contributing to the understanding of the neurobiological mechanisms underlying the sensory experience of individuals with schizophrenia and autism. I also strive to improve neurophysiological methods (e.g., electroencephalography) by developing more racially inclusive materials.</p>
 <p>Wendy was awarded a GRFP from the NSF to examine (and design) hair clips for EEG to make electroencepahlography accessible for ALL hair types. This work is preregistered <a href="here">https://doi.org/10.17605/OSF.IO/AXU2C</a> and will be updated with tools and information as the project progresses.</p>
 <b>Publications </b>
 <p><ul>
@@ -76,39 +121,15 @@ redirect_from:
 <li>BS Psychology and Neuroscience - Northeastern University, MA</li>
 <li>PhD Neuroscience - University of Nevada, Reno</li>
 </ul></p>
-<p>My research interests include exploring the mechanisms behind our sensory systems that permit complex perception of the world around us. By examining the limits of our visual and auditory systems, we can begin to paint a clearer picture of how various stimuli shape our environmental perception.</p>
-<p>Specifically, my current project investigates how sensory sensitivity changes over the migraine cycle with the aim to identify biomarkers that signal approaching migraine-onset. While there is a lot of variability across migraineurs, a common symptom is sensitivity to light (photophobia) and/or sound (phonophobia). Using electroencephalography (EEG), electroretinography (ERG), and auditory brainstem response (ABR), my research contrasts the effects of sensory stimuli on migraineurs and headache free individuals from the retina and brainstem to the visual and auditory cortices. </p>
 <b>Publications </b>
 <p>Carson C Smith, Shane F H Trivitt, Matthew J Cummings, Amber M Thaxton, Laura Van Key, Caitlin Laycox, Michael Crognale, & Sarah M Haigh (2026). Electroretinography and Pupillary Response in Migraine. <i>Headache: The Journal of Head and Face Pain. 66</i>(7), 1514-1524. <a href="https://doi.org/10.1111/head.70104">https://doi.org/10.1111/head.70104</a>.</p>
 <b>Conference Presentations </b>
 <li>Carson C Smith, Kate Pellegrino, Ruby Snyder & Sarah M Haigh (Nov 2025). Auditory-induced vection and motion sickness. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li>
 <li>Sarah M Haigh & Carson C Smith (Nov 2025). Auditory sensitivity in migraine – what is causing it? Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li>
 <li>Carson C Smith, Shane Trivitt, Matthew Cummings, Amber Thaxton & Sarah M Haigh (June 2024). Localizing Visual Allodynia in Migraine. Poster presented at the International Multisensory Research Forum, Reno, NV, USA.</li>
-<li>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>. VSS travel award to Carson Smith.</li>
-<br>
+<li>Carson C Smith, Matthew Cummings, Laura I Van Key & Sarah M Haigh (May 2023). Localizing Visual Allodynia in Migraine. Poster presented at the Vision Sciences Society, St Petersburg, FL, USA. <i>Journal of Vision. 23</i>(9), 5474. <a href="https://doi.org/10.1167/jov.23.9.5474">https://doi.org/10.1167/jov.23.9.5474</a>.</li>
 
-<h1>Undergraduate and Volunteer Research Assistants</h1>
-<h2>Cooper Chavez</h2>
- <img src="../images/Resized/Cooper.png" width="200" style="float: right"/>
-<p>Hi! I’m a freshman at UNR studying Microbiology & Immunology with additional interests in Neuroscience and Psychology. I’m especially fascinated by cognitive variability and the ways individuals differ in how they perceive and respond to their environment. I’m grateful to be involved in undergraduate research through the PREP program, where I’m learning how to ask scientific questions and develop the skills to answer them under mentorship. My long term goal is to practice medicine while contributing to research that benefits vulnerable and underserved populations. Outside of academics, I love to rock climb, ski, and spend time with my family.</p>
 <br>
-
-<h2>Marcos Moreno Cervantes</h2>
-<img src="../images/Resized/Marcos.png" width="200" style="float: right"/>
-<p>Hey, my name is Marcos Moreno Cervantes. I am a Freshman at the University of Nevada, Reno, majoring in neuroscience. I love learning about the mind and finding ways to use that information to optimize my life. Along with this, I enjoy weightlifting, cinematography, and mixing music during my free time. I have no background in research but recently got accepted into PREP with Dr. Haigh as my mentor. I aspire to become a psychiatrist, where I will gain a better understanding of the mind and body to not only help those with psychiatric disorders but also neurotypical individuals.</p>
-<br>
-
-<h2>Sidney Hulsey</h2>
-<img src="../images/Resized/Sid.png" width="200" style="float: right"/>
-<p> Hi! I am a junior at the University of Nevada, Reno studying Neuroscience with a minor/certificate in Gerontology. Previously, I worked in Dr. Piantadosi’s Computation and Language Lab for a summer studying psychophysical modeling techniques for approximate number tasks. My research interests are in sensory processing and neurodevelopmental disorders. I love working with students on campus with IDDs and other disabilities with the P2I and TAPDINTO-STEM programs. After graduating, I plan to apply to an M.D.-Ph.D. program where I can further pursue my interests. </p>
-<p>Sid is was funded by the ENDURE program and is now funded by a NURA</p>
-<b>Conference Presentations </b>
-<p><ul>
-<li>Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Flicker and its effect on reading speed and cognition. Poster presented at the Undergraduate Just-In-Time session at the Vision Sciences Society conference, St Pete Beach, FL, USA.</li>
-<li>Sidney K Hulsey & Sarah M Haigh (Nov 2025). Detection of sounds and auditory discomfort. Poster presented at the Auditory Perception, Cognition and Action Meeting, Denver, CO, USA.</li></ul>
-<br>
-
-<h1>Former Graduate Students</h1>
 <h2>Stephanie Otto</h2>
 <img src="../images/Resized/Steph.png" width="200" style="float: right"/>
 <p> <ul>
