@@ -45,6 +45,8 @@ News!
 ======
 We always want to celebrate the accomplishments of the students in the lab, so here are some of the amazing things they have been up to:
 
+<b>Aug 2020</b> - A huge welcome to Annie Hendrick and Corissa Draper who are new students in the lab. Annie will be co-mentored by myself and Dr. Lars Strother and Corissa will be co-mentored by myself and Dr. Marian Berryhill. Here's to a fun and productive couple of years.
+
 <b>July 2026</b> - One of our recently graduated alum, Izzy Durda, was interviewed about her experience with the [PREP program](https://www.unr.edu/undergradresearch/opportunities/prep) and as a [NURA](https://www.unr.edu/undergradresearch/opportunities/nura) awardee. See the full interview [here](https://www.unr.edu/nevada-today/news/2026/fotp-isabella-durda?utm_source=newsletter072326&utm_medium=email&utm_content=research&utm_campaign=NevadaWeekly)
 
 <b>July 2026</b> - One of our alum, Michelle Ruiz, has been accepted to the [University of Delaware's Post-Bac Bridge Program](https://www.udel.edu/academics/colleges/cas/units/departments/psychological-and-brain-sciences/graduate-programs/delaware-bridge-program/) to work with Tim Vickery. This is a wonderful program to help students gain the additional expertise needed to get to grad school, whilst also working on mentored research.
