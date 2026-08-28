@@ -55,6 +55,7 @@ redirect_from:
 </ul></p>
 <p>My research investigates the implementation and limitations of dynamic systems of attention to explain the human sensory experience. Using neurophysiological tools like electroencephalography (EEG), I study how the brain accesses, communicates, and models sensory information. I strive to ground traditionally abstract topics, such as consciousness, awareness, and agency, within a physically plausible framework.</p>
 <p>Currently funded by a Nevada NASA Space Consortium grant</p>
+</p>
 
 <h1>Undergraduate and Volunteer Research Assistants</h1>
 <h2>Cooper Chavez</h2>
