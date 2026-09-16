@@ -58,6 +58,11 @@ redirect_from:
 <br>
 
 <h1>Undergraduate and Volunteer Research Assistants</h1>
+<h2>Kira Eastwood</h2>
+ <img src="../images/Resized/Kira.png" width="200" style="float: right"/>
+<p>Hi, I'm Kira Eastwood. I am a junior at UNR, and my major is Psychology with a minor in Cultural Anthropology. My interests include trauma and the brain, just as a whole, in all aspects. I love learning and understanding the brain and how things affect the brain. I do have a special interest in the neurodivergent community. I also like to collect dragon stuff, like figurines, plushies, etc., and read all sorts of things. After graduating, I would like to help people with traumatic experiences as a therapist, obviously going through my master’s degree to get licensed as a therapist.</p>
+<br>
+
 <h2>Cooper Chavez</h2>
  <img src="../images/Resized/Cooper.png" width="200" style="float: right"/>
 <p>Hi! I’m a freshman at UNR studying Microbiology & Immunology with additional interests in Neuroscience and Psychology. I’m especially fascinated by cognitive variability and the ways individuals differ in how they perceive and respond to their environment. I’m grateful to be involved in undergraduate research through the PREP program, where I’m learning how to ask scientific questions and develop the skills to answer them under mentorship. My long term goal is to practice medicine while contributing to research that benefits vulnerable and underserved populations. Outside of academics, I love to rock climb, ski, and spend time with my family.</p>
@@ -255,7 +260,7 @@ Sidney Hulsey, Alayna McGuire & Sarah M Haigh (May 2025). Visual sensitivity: Fl
 <p>BA Psychology - University of Nevada, Reno (2025)</p>
 <p>Izzy was funded by the PREP program and a Nevada Undergraduate Research Award</p>
 <b>Publications</b>
-<p>Sarah M Haigh & Isabella M Durda (accepted). Discomfort and reading speed: Effects of migraine. <i>Perception</i>. <a href="https://doi.org/10.1177/03010066261442090">https://doi.org/10.1177/03010066261442090</a>. Preprint: <a href="https://doi.org/10.31234/osf.io/q8dys_v1">https://doi.org/10.31234/osf.io/q8dys_v1</a>. </p>
+<p>Sarah M Haigh & Isabella M Durda (2026). Discomfort and reading speed: Effects of migraine. <i>Perception. 55</i>(10), 982-993. <a href="https://doi.org/10.1177/03010066261442090">https://doi.org/10.1177/03010066261442090</a>. Preprint: <a href="https://doi.org/10.31234/osf.io/q8dys_v1">https://doi.org/10.31234/osf.io/q8dys_v1</a>. </p>
 <b>Conference Presentations </b>
 <p>Sarah M Haigh & Isabella M Durda (May 2025). Slower reading speed in migraine: effects of discomfort? Poster presented at the Vision Sciences Society conference, St Pete Beach, FL, USA.</p>
 
