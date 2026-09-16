@@ -35,7 +35,7 @@ redirect_from:
 <p>My research interests center on how visual perception and mental imagery abilities shape subjective and aesthetic experience. I am particularly interested in how visual features such as contrast, color, pattern, and form can produce dramatically different experiences across individuals, from aesthetic pleasure and deep emotions to aversion and perceptual discomfort.  I am also interested in how these perceptual qualities can be evoked internally through mental imagery and written language, including how visually suggestive features of poetry may engage perceptual and imagery-related processes. More broadly, I hope to understand how individual differences in sensory processing and imagery contribute to what we find beautiful, compelling, uncomfortable, or 'just right'. I approach these research questions using behavioral and neurophysiological methods, namely electroencephalography (EEG).</p>
 
 <h2>Corissa Draper</h2>
-<img src="../images/Resized/Corissa.png" width="200" style="float: right"/>
+<img src="../images/Resized/Corissa.jpeg" width="200" style="float: right"/>
 <p><ul>
 <li> BA in Psychology, minors in Biology, Sociology, and Spanish - DePaul University</li>
 <li>Currently a PhD student in Integrative Neuroscience at the University of Nevada - Reno</li>
@@ -59,7 +59,7 @@ redirect_from:
 
 <h1>Undergraduate and Volunteer Research Assistants</h1>
 <h2>Kira Eastwood</h2>
- <img src="../images/Resized/Kira.png" width="200" style="float: right"/>
+ <img src="../images/Resized/Kira.jpeg" width="200" style="float: right"/>
 <p>Hi, I'm Kira Eastwood. I am a junior at UNR, and my major is Psychology with a minor in Cultural Anthropology. My interests include trauma and the brain, just as a whole, in all aspects. I love learning and understanding the brain and how things affect the brain. I do have a special interest in the neurodivergent community. I also like to collect dragon stuff, like figurines, plushies, etc., and read all sorts of things. After graduating, I would like to help people with traumatic experiences as a therapist, obviously going through my master’s degree to get licensed as a therapist.</p>
 <br>
 
